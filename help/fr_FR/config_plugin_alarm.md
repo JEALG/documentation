@@ -26,15 +26,15 @@ Pour faire cet affichage il est nécessaire d'avoir :
 
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
-**Multi-action** |<img src="../img/exemple/d/multi_action.png" alt="Exemple Multi-action" width="150" /> | <a href="./WIDGET_d_Multi_action_Defaut.html">Lien</a>
-**Multi info - Binaire** |<img src="../img/exemple/d/multi_binaire.png" alt="Exemple Multi info - Binaire" width="150" /> | <a href="./WIDGET_d_Multi_info_Binaire.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/d/multi_action.png" alt="Exemple Multi-action" width="150" /> | <a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/d/multi_binaire.png" alt="Exemple Multi info - Binaire" width="150" /> | <a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_info_Binaire">Lien</a>
 
 ## Mobile
 
 Nom du Widget | Exemple | Docs/Téléchargement
 --- | --- | ---
-**Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" width="200"/> | <a href="./WIDGET_m_Multi_action_Defaut.html">Lien</a>
-**Multi info - Binaire** |<img src="../img/exemple/m/multi_binaire.png" alt="Exemple Multi info - Binaire" width="200"/> | <a href="./WIDGET_m_Multi_info_Binaire.html">Lien</a>
+**Multi-action** |<img src="../img/exemple/m/multi_action.png" alt="Exemple Multi-action" width="200"/> | <a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Multi_action_Defaut">Lien</a>
+**Multi info - Binaire** |<img src="../img/exemple/m/multi_binaire.png" alt="Exemple Multi info - Binaire" width="200"/> | <a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Lien</a>
 
 # Paramétrage des actions
 
