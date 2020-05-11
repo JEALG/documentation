@@ -7,7 +7,7 @@ description: explication Widget "Icon_Mode"
 
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
+Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>Info Texte</b>
 <p><img src="../img/exemple/d/icone_mode.png" alt="Resultat" /></p>
 
 # Info

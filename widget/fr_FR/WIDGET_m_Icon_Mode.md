@@ -6,7 +6,7 @@ description: explication widget Icon_Mode (Mobile)
 ---
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info texte</b>
+Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>Info Texte</b>
 <p><img src="../img/exemple/m/icone_mode.png" alt="Resultat" /></p>
 
 # Info
@@ -19,7 +19,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>info text
     </ul>
 </blockquote>
 
-# A savoir
+## A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>

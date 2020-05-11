@@ -6,7 +6,7 @@ description: Explication widget Multi-info-Binaire-mobile
 ---
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Binaire</b>
 
 <p><img src="../img/exemple/m/multi_binaire.png" alt="Resultat" /></p>
 

@@ -6,7 +6,7 @@ description: explication widget Batterie-EeDomus
 ---
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>numérique</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
 <p><img src="../img/exemple/d/bat_eedomus.png" alt="Resultat" /></p>
 
 # A savoir

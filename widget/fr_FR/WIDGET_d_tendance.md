@@ -6,7 +6,7 @@ description: explication widget Tendance-Baro
 ---
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
 <p><img src="../img/exemple/d/tendance.png" alt="Resultat" /></p>
 
 # A savoir
