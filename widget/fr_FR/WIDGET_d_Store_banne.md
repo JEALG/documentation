@@ -57,6 +57,7 @@ Si l'équipement a la valeur 0 pour l'ouverture, il est possible d'inverser le s
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/error">Paramétrage image de défaut</a></li>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>

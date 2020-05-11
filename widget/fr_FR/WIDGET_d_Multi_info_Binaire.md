@@ -70,6 +70,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide pour le paramétrage des widgets de type infos</a></li>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique, actions)</a></li>
