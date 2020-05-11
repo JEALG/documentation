@@ -1,1 +1,23 @@
-theme: jekyll-theme-dinky
+---
+langs: [fr_FR, en_US]
+baseurl: "/JEEDOM-Widget_JAG-doc" # the subpath of your site, e.g. /blog
+url: "/" # the base hostname & protocol for your site
+sass:
+  sass_dir: assets/css
+  style: compressed
+markdown: kramdown
+permalink: /404.html
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge
+exclude:
+- vendor
+plugins:
+- jekyll-paginate
+- jekyll-seo-tag
+title: "Documentations des plugins de Mika-nt28"
+description: "Ceci est la documentation des plugins créés par Mika-nt28 de la solution domotique Jeedom."
+author: "Mika-nt28"
+image: https://www.jeedom.com/site/logo.png
+forum: https://community.jeedom.com
