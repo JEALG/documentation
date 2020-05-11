@@ -5,7 +5,10 @@ title: Paramétrage image défaut Widget
 description: Paramétrage image défaut Widget
 ---
 [back](./)
-# Choix de l'icône en cas d'erreur pour un widget "Dashboard"
+
+En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
+
+# Paramétrage pour le "Dashboard"
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 <blockquote>
     <ul>
@@ -14,7 +17,7 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
     </ul>
 </blockquote>
 
-# Choix de l'icône en cas d'erreur pour un widget "Mobile"
+# Paramétrage pour le  "Mobile"
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 <blockquote>
     <ul>
@@ -23,15 +26,17 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
     </ul>
 </blockquote>
 
+# Liste des images possible
+
 <p><img src="../img/visuel/error.png" alt="Error" /></p>
 
 # Cas Particulier
 Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'erreur
 <ul>
-    <li><a href="WIDGET_d_Icon_Mode.html">Widget Dashboard : <b>Icon_Mode</b></a></li>
-    <li><a href="WIDGET_m_Icon_Mode.html">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
-    <li><a href="WIDGET_d_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-    <li><a href="WIDGET_m_Multi_info_Binaire.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Icon_Mode">Widget Dashboard : <b>Icon_Mode</b></a></li>
+    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Icon_Mode">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
+    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_info_Binaire">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </ul>
 <blockquote>
     <ul>
@@ -42,8 +47,8 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
 
 # Cas Particulier pour les widgets Multi_info-Binaire
 <ul>
-    <li><a href="WIDGET_d_Multi_info_Binaire.html">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-    <li><a href="WIDGET_m_Multi_info_Binaire.html">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_info_Binaire">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </ul>
 
 Petit rappel : la variable ci-dessous permet de récupérer ou pas les même infos que le Dashboard
