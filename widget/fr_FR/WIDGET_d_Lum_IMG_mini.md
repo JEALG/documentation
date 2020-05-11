@@ -2,7 +2,7 @@
 layout: default
 lang: fr_FR
 title: Widget "Luminosité-IMG-Mini"
-description: explication widget Luminosité-IMG-Mini
+description: Widget Luminosité-IMG-Mini
 ---
 [back](./)
 

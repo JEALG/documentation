@@ -11,9 +11,11 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 
 # A savoir
 <blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="JEEDOM_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+    <b>Ces widgets sont inclus dans le </b><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget mobile : <b>Multi-info-Binaire</b></a>
+    <br/>
+    <br/>
+    <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
-
 # Alarme
 ## Widget "Alarme-Status (mobile)" 
 <b>Pour avoir le paramétrage par défaut du widget Alarme-Status (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
