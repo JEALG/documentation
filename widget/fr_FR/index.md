@@ -52,6 +52,9 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Fenêtre (numérique)** |<img src="../img/exemple/m/fenetre.png" alt="Exemple Fenêtre (numérique)" /> | <a href="./WIDGET_m_fenetre">Lien</a>
 **Température Thermomètre** |<img src="../img/exemple/m/temperature.png" alt="Exemple Température Thermomètre" /> | <a href="./WIDGET_m_Thermometre">Lien</a>
 
+## Les widgets archivés
+- [Documentation pour les remplacer ]({{site.baseurl}}/widget_archive/{{page.lang}})
+
 # Liste des images
 Cette rubrique regroupe les différentes images disponibles pour les widgets
 >* <a href="./list_img">Listes des images des widgets </a>
