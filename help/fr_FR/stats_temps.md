@@ -12,6 +12,7 @@ il suffit d'ajouter un paramètre optionnel
 <i>Merci à @Salvialf pour le code</i>
 
 # Nom de la Variable
+
 Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF).
 <CENTER>
     <TABLE width="60%">

@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: fr_FR
-title: Paramétrage des widgets Multi-action et Multi-info avec le plugin Alarme
+title: Paramétrage des widgets avec le plugin Alarme
 description: Aide pour le paramétrage des widgets **Multi-action** et **Multi-info** avec le plugin Alarme
 ---
 [back](./)
