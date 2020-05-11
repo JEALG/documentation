@@ -11,8 +11,8 @@ Ici vous trouverez l'ensemble de la documentation des Widgets JAG pour Jeedom
 >Dans chaque widget, un exemple de configuration est disponible
 
 ## Aide
-========
->**Afin de simplifier la gestion du site, depuis le 11/05/2020, la documentation de l'aide a été déplacée<br/>
+
+>**Afin de simplifier la gestion du site**, depuis le 11/05/2020, la documentation de l'aide a été déplacée<br/>
 
 - [Documentation Aide]({{site.baseurl}}/help/{{page.lang}})
 
