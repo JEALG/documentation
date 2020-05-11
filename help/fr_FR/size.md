@@ -6,6 +6,7 @@ description: explication Modification size Texte
 ---
 [back](./)
 # Info importante
+
 <blockquote>
     <ul>
         A la date d'écriture de la documentation, ce paramétrage ne fonctionne pas sur le Core V4
@@ -13,11 +14,13 @@ description: explication Modification size Texte
 </blockquote>
 
 # Modification de la taille du texte
+
 <blockquote>
     Il est possible de modifier la taille du textes de la valeur et de l'historique sur certains widgets de type Info.
 </blockquote>
 
 # Les variables
+
 <blockquote>
     <ul>
         <li><b>font_size</b> : Modification de la taille de la valeur <i>(Valeur par défaut : 11px)</i></li>
