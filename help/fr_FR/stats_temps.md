@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Affichage des informations de durée
 description: explication Affichage des informations de durée
 ---

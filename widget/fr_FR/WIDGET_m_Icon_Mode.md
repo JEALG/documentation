@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Widget "Icon_Mode (Mobile)"
 description: explication widget Icon_Mode (Mobile)
 ---
@@ -80,11 +81,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible
 <blockquote>
     <ul>
-        <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
-        <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
-        <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-        <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/error">Paramétrage image de défaut</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
@@ -111,7 +112,7 @@ Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.P
 </blockquote>
 
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>

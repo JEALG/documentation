@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Ajouter des images
 description: Ajouter des images - Core V3
 ---

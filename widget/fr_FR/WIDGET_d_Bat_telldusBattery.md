@@ -1,11 +1,12 @@
 ---
 layout: default
+lang: fr_FR
 title: Widget " Batterie-telldusBattery"
 description: explication widget Batterie-telldusBattery
 ---
 [back](./)
 
-Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info binaire</b>
+Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>info numérique </b>
 <p><img src="../img/exemple/d/bat_telldusbatter.png" alt="Resultat" /></p>
 
 # A savoir
@@ -48,11 +49,11 @@ Il est possible de personnaliser les niveaux :
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
-        <li><a href="HELP_CONFIG_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
-        <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-        <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/error">Paramétrage image de défaut</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
@@ -66,14 +67,13 @@ Le nommage des images est normalisé et doit respecter le format suivant :
         <li><i>Remplacer <b>Niveau</b> par la valeur 0 ou 20 ou 40 ou 60 ou 80 ou 100</i></li>
     </ul>
     <ul>
-        <li><a href="./JEEDOM-AIDE-ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
     </ul>
 </blockquote>
 
 
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
-<br/>
+><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

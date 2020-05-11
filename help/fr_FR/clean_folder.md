@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Nettoyage des dossiers
 description: Nettoyage des dossiers
 ---

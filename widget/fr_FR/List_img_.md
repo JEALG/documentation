@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Liste des images par dossiers
 description: Liste des dossiers
 ---

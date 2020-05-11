@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Widget "Multi-action (mobile)"
 description: Explication widget Multi-action--mobile
 ---
@@ -52,7 +53,7 @@ Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</
 <blockquote>
     <ul>
         <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
-        <li><a href="List_img.html">Listes des images par dossiers</a></li>
+        <li><a href="list_img">Listes des images par dossiers</a></li>
     </ul>
 </blockquote>
 
@@ -80,10 +81,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_config_action">Aide pour le paramétrage des widgets de type action</a></li>
-        <li><a href="HELP_stats">Afficher les statistiques</a></li>
-        <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique, actions)</a></li>
-        <li><a href="HELP_para">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_action">Aide pour le paramétrage des widgets de type action</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique, actions)</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
@@ -92,15 +93,15 @@ Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images n'est pas normalisé sur ce widget
 <blockquote>
     <ul>
-        <li><a href=".HELP_ADD_IMG.html">Ajouter des images dans un widget</a></li>
+        <li><a href=".{{site.baseurl}}/help/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
     </ul>
 </blockquote>
 
 ## Exemple de paramétrage
->* <a href="HELP_config_action.html">Aide pour le paramétrage des widgets de type action</a>
+>* <a href="{{site.baseurl}}/help/{{page.lang}}/action">Aide pour le paramétrage des widgets de type action</a>
 
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/masterv4">Télécharger les sources pour la V4</a></li>

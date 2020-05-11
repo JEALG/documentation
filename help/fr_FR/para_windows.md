@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Exemples de paramétrages Widget Fênetre
 description: explication Paramétrage Fenêtre
 ---

@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Installation Manuelle des widgets
 description: Installation Manuelle des widgets pour le Core V4
 ---

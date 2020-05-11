@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Widget "VoyantMulticouleur (mobile)"
 description: explication Bouton en forme de voyant Multi couleur (mobile)
 ---
@@ -91,13 +92,13 @@ Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
-        <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>

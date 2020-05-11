@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Aide pour le paramétrage des widgets de type action
 description: Aide pour le paramétrage des widgets de type action
 ---

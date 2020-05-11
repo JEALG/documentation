@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Widget "Multi-info-Binaire (mobile)"
 description: Explication widget Multi-info-Binaire-mobile
 ---
@@ -78,18 +79,18 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_config_info.html">Aide pour le paramétrage des widgets de type infos</a></li>
-        <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
-        <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-        <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide pour le paramétrage des widgets de type infos</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
 ## Exemple de paramétrage
->* <a href="HELP_config_info.html">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
+>* <a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
 
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_info-Binaire--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>

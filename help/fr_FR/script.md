@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Script de mise à jour
 description: Script
 ---

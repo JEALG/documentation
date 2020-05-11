@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Modification size Texte
 description: explication Modification size Texte
 ---

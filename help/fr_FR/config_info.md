@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Aide pour le paramétrage des widgets de type info
 description: explication Aide pour le paramétrage des widgets de type info (binaire, numAide pour le paramétrage des widgets de type info (binaire, numérique)
 ---

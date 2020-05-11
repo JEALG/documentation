@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Widget "Temperature thermometre"
 description: explication widget Temperature thermometre
 ---
@@ -27,7 +28,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <blockquote>
     <ul>
         Il est possible sur ce widget de modifier la taille du texte, cette fonction ne fonctionne qu'avec le Core V3
-        <a href="HELP_SIZE.html">Changer la Taille du texte de l'historique</a>
+        <a href="{{site.baseurl}}/help/{{page.lang}}/size">Changer la Taille du texte de l'historique</a>
     </ul>
 </blockquote>
 
@@ -35,16 +36,16 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="HELP_config_info.md">Aide ajout des paramétres pour un widget Info</a></li>
-        <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
-        <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramétres pour un widget Info</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/error">Paramétrage image de défaut</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>
+        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
 <hr />
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>

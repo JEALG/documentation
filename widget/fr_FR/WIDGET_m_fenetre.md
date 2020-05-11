@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Widget "Fenêtre (numérique) (mobile)"
 description: explication widget Fenêtre (numérique)
 ---
@@ -79,19 +80,19 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible et Aide
 <blockquote>
         <ul>
-            <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
-            <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
-            <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-            <li><a href="HELP_CONFIG_PARA.html">Ajouter les paramètres sur un widget</a></li>
+            <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
+            <li><a href="{{site.baseurl}}/help/{{page.lang}}/error">Paramétrage image de défaut</a></li>
+            <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+            <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
         </ul>
 </blockquote>
 
 # Exemples de paramétrage
-<li><a href="HELP_para_FENETRES.html">Exemple de paramétrages</a></li>
+<li><a href="{{site.baseurl}}/help/{{page.lang}}/para_windows">Exemple de paramétrages</a></li>
 
 <hr />
 # Télécharger les sources
-><a href="HELP_Install_Manu.html">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
  <li><a href="https://github.com/JEALG/JEEDOM-Fenetre--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>

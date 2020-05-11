@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Affichage de l'historique
 description: explication Affichage de l'historique
 ---

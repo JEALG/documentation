@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Paramétrage image défaut Widget
 description: Paramétrage image défaut Widget
 ---

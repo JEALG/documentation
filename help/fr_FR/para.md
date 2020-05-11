@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Comment ajouter des paramètres
 description: Comment ajouter des paramètres
 ---
