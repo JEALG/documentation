@@ -10,17 +10,16 @@ Cette rubrique regroupe de l'aide aux paramétrages des différents widgets
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/error">Paramétrage image Erreur</a>
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a>
 
-<br/>
 # Les statistiques
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a>
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets de type info (binaire, numérique) et Multi-action</a>
 
 # Exemple de paramétrage
-## Exemple de paramétrage avec un virtuel
+## Exemple avec le plugin virtuel
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide pour le paramétrage des widgets de type info (binaire, numérique, actions)</a>
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/config_action">Aide pour le paramétrage des widgets de type action</a>
 
-## Exemple de paramétrage avec le plugin Alarme
+## Exemple avec le plugin Alarme
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/config_plugin_alarm">Exemple d'utilisation des widgets Multi-action et Multi-info avec le plugin Alarme</a>
 
 # Paramétrage uniquement pour le Core V3

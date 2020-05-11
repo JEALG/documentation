@@ -51,7 +51,7 @@ Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</
 <blockquote>
     <ul>
         <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
-        <li><a href="List_img.html">Listes des images par dossiers</a></li>
+        <li><a href="list_img">Listes des images par dossiers</a></li>
     </ul>
 </blockquote>
 
