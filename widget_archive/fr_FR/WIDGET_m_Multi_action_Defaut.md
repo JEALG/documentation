@@ -8,7 +8,7 @@ description: Archive Widget "Multi-action (mobile)"
 
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 <blockquote>
-    <a href="../img/exemple/m/multi_action.png">Widget Dashboard : <b>Multi-action (mobile)</b></a>
+    <a href="{{site.baseurl}}/widget/img/exemple/m/multi_action.png">Widget Dashboard : <b>Multi-action (mobile)</b></a>
 </blockquote>
 
 # A savoir

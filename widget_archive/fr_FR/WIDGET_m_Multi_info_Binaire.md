@@ -5,9 +5,10 @@ title: Archive Widget "Multi-info-Binaire (mobile)"
 description: Archive Widget "Multi-info-Binaire (mobile)"
 ---
 [back](./)
+
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 <blockquote>
-    <a href="../img/exemple/m/multi_action.png">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
+    <a href="{{site.baseurl}}/widget/img/exemple/m/multi_action.png">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a>
 </blockquote>
 
 # A savoir
@@ -18,7 +19,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 # Alarme
-## Widget "Alarme-Status (mobile)" 
+## Widget "Alarme-Status (mobile)"
 <b>Pour avoir le paramétrage par défaut du widget Alarme-Status (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -42,7 +43,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-## Widget "Detection Mouvement (mobile)" 
+## Widget "Detection Mouvement (mobile)"
 <b>Pour avoir le paramétrage par défaut du widget Detection Mouvement (mobile), il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
