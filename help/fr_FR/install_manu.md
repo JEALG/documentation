@@ -13,7 +13,7 @@ Voici une méthode vous permettant d'installer et de faire les mises à jour.
 
 # A Savoir
 <blockquote>
-    Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+    Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 <br/>
 Un script sera disponible dans quelques jours pour installer les mises à jour pour le Core V3 ou V4
 </blockquote>
@@ -25,7 +25,7 @@ Choisir le widget voulu
 <br/>
 voici un exemple pour récupérer les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut">JEEDOM-Multi_action-Defaut</a>
-<p><img src="../img/AIDE_V4_Github_branche_1.png" alt="Choix Branche" /></p>
+<p><img src="../img/AIDE_V4_Github_branche_1.png" alt="Choix Branche" width="500"/></p>
 Sélectionner la branche voulue :
 <blockquote>
     <ul>
@@ -35,7 +35,7 @@ Sélectionner la branche voulue :
     </ul>
 </blockquote>
 Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
-<p><img src="../img/AIDE_V4_Github_branche_2.png" alt="Download" /></p>
+<p><img src="../img/AIDE_V4_Github_branche_2.png" alt="Download" width="500"/></p>
 
 # Plugin nécessaire "jeexplorer"
 Il faut installer le plugin Jeexplorer

@@ -46,15 +46,5 @@ description: explication Modification size Texte
 <p><img src="../img/help/config_size_3.png" alt="Size réglage" width="800"/></p>
 
 
-# Autres paramétrages possible et Aide
-<blockquote>
-    <ul>
-        <li><a href="HELP_config_info.html">Aide ajout Des paramètres pour un widget Info</a></li>
-        <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
-        <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
-        <li><a href="HELP_para.html">Ajouter les paramètres sur un widget</a></li>
-    </ul>
-</blockquote>
-
 <hr />
 [back](./)

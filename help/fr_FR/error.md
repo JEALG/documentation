@@ -17,7 +17,7 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
     </ul>
 </blockquote>
 
-# Paramétrage pour le  "Mobile"
+# Paramétrage pour le "Mobile"
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 <blockquote>
     <ul>

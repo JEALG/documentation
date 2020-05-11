@@ -12,8 +12,9 @@ Voici un exemple de configuration
 </blockquote>
 
 # Paramétrage Virtuel
+
+Tout d'abord j'ai créé un virtuel avec comme configs:
 <blockquote>
-Tout d'abord j'ai créé un virtuel avec comme configs :
     <ul>
         <li>Avec une <i>info virtuelle</i> avec le nom <i>Fenêtre</i> : Cette info aura juste la fonction d'affichage</li>
         <img src="../img/CONFIG_JEEDOM_FENETRE_NUM_FEN.png" alt="Visuels" />
