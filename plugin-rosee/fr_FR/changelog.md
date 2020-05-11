@@ -9,10 +9,10 @@ pluginId: rosee
 ## Description
 Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouillée le matin, ou bien en hiver desavoir s'il va falloir gratter le pare-brise. Pour fonctionner, on doit indiquer sélectionner un équipement de température, d'humidité et de pression (extérieures, bien-sûr…)
 
-[Documentation](https://jealg.github.io/plugin-rosee/#language#/)
+[Documentation]({{site.baseurl}}/plugin-rosee/{{page.lang}})
 
-## Info sur les mises à jour
->*Important : en cas de mise à jour disponible pour laquelle il n’y a pas d’information dans cette section, c’est qu’elle n’intègre aucune nouveauté majeure. Cela peut être un ajout de documentation, une correction de documentation, des traductions ou bien de la correction de bugs mineurs.*
+## Important
+>***Pour rappel*** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
 
 # Version 20200430
 - Correction ajout widget core par défaut sur les nouveaux équipements
