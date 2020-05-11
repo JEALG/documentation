@@ -59,8 +59,8 @@ Il est possible de déplacer la légende
 
 ## Autres paramétrages possible et Aide
 <blockquote>
-    <ul>
-        <li><a href="HELP_config_info.html">Aide ajout des paramètres pour un widget Info</a></li>
+    <ul>({{site.baseurl}}/help/{{page.lang}}/config_info)
+        <li><a href="({{site.baseurl}}/help/{{page.lang}}/config_info)">Aide ajout des paramètres pour un widget Info</a></li>
         <li><a href="HELP_Error.html">Paramétrage image de défaut</a></li>
         <li><a href="HELP_stats.html">Afficher les statistiques</a></li>
         <li><a href="HELP_stats_temps.html">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>

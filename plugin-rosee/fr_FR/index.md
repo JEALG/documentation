@@ -37,6 +37,7 @@ Le plugin ne comporte pas de configuration générale, il faut :
 > - <a href="https://pon.fr/dzvents-alerte-givre-et-calcul-humidite-absolue/">https://pon.fr/dzvents-alerte-givre-et-calcul-humidite-absolue/</a>
 
 Le plugin calcule 4 niveaux d'alerte :
+
 - Cas N°0 :
     >- Calcul : Aucun cas ci-dessous couvert
     >- Alerte Givre : 0
