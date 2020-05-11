@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Archive Widget Luminosité
 description: Archive Widget Luminosité
 ---

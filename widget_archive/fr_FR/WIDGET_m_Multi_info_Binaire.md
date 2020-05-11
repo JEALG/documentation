@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Archive Widget "Multi-info-Binaire (mobile)"
 description: Archive Widget "Multi-info-Binaire (mobile)"
 ---

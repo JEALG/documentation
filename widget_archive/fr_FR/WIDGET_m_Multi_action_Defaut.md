@@ -1,5 +1,6 @@
 ---
 layout: default
+lang: fr_FR
 title: Archive Widget "Multi-action (mobile)"
 description: Archive Widget "Multi-action (mobile)"
 ---
