@@ -19,8 +19,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
-# Alarme
-## Widget "Alarme-Activation"
+# Widget "Alarme-Activation"
 <b>Pour avoir le paramétrage par défaut du widget Alarme-Activation, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -32,8 +31,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-# Energie
-## Widget "Chaudiere-Activation"
+# Widget "Chaudiere-Activation"
 <b>Pour avoir le paramétrage par défaut du widget Chaudiere-Activation, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -45,7 +43,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-## Widget "Fibaro-WallPlug" 
+# Widget "Fibaro-WallPlug" 
 <b>Pour avoir le paramétrage par défaut du widget Fibaro-WallPlug, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 <blockquote>
@@ -57,9 +55,7 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
     </ul>
 </blockquote>
 
-
-# Lumière
-## Widget "Lampe" 
+# Widget "Lampe" 
 <b>Pour avoir le paramétrage par défaut du widget Lampe, il faudra ajouter pour avoir le logo par défaut de ce widget </b> :
 
 
