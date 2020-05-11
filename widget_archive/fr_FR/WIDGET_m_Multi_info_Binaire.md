@@ -81,4 +81,4 @@ L'ensemble des widgets ci-dessous est incorporé dans le widget
 </blockquote>
 
 <hr />
-[back](../)
+[back](./)
