@@ -158,4 +158,4 @@ Le plugin affecte par défaut un widget (uniquement pour le Core V4) :<br/>
 >L'équipement doit être avoir l'historique d'activé pour fonctionner.
 
 # Changelog
-[Documentation]({{site.baseurl}}/plugin-rosee/{{page.lang}})
+[Changelog]({{site.baseurl}}/plugin-rosee/{{page.lang}}/changelog)
