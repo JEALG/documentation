@@ -10,15 +10,9 @@ Ici vous trouverez l'ensemble de la documentation des plugins et des widgets JAG
 
 # Les Plugins
 
-## Plugin rosée
-
-
-Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouillée le matin, ou bien en hiver savoir s'il va falloir gratter le pare-brise.
-Pour fonctionner, on doit indiquer un équipement température et un équipement humidité (extérieures, bien-sûr…).
-Il est aussi possible de calculer la tendance Météo à venir en se basant de l'évolution de la météo.
-
-- [Documentation]({{site.baseurl}}/plugin-rosee/{{page.lang}})
-- [Changelog]({{site.baseurl}}/plugin-rosee/{{page.lang}}/changelog)
+| | | | |
+|--- | --- | --- | ---|
+|<img src="{{site.baseurl}}/plugin-rosee/plugin-rosee/rosee_icon.png" class="pluginLogo" width="100" />|Rosée - Givre - Tendance|Plugin permetant de calculer : le point de rosée, le point de givrage, l'humidité absolue et la tendance Météo. <BR/>Le point de givrage ainsi que l'alerte ne se calculent uniquement dans le cas où la température < 5°C. <BR />Compatible V4 et Debian Buster (10)|[Documentation]({{site.baseurl}}/plugin-rosee/{{page.lang}})<br/>[Market](https://market.jeedom.com/index.php?v=d&p=market_display&id=1653)<br/>[Changelog]({{site.baseurl}}/plugin-rosee/{{page.lang}}/changelog)|
 
 # Les Widgets
 
