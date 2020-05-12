@@ -111,6 +111,14 @@ Les images en fonction des niveaux
 
 <li><a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
+
+# Troubleshotting
+
+- Je n'ai pas l'historique et l'option historique non visible dans la configuration de la commande sur les widgets de type info
+<p><img src="{{site.baseurl}}/help/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
+>Il faut vérifier que l'option ***Afficher les statistiques sur les widgets*** est active
+>* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
+
 <hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>

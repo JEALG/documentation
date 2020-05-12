@@ -44,7 +44,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     </ul>
 </blockquote>
 
-<hr />
+
 # Télécharger les sources
 ><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
@@ -52,6 +52,14 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <li><a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
 
+# Troubleshotting
+
+- Je n'ai pas l'historique et l'option historique non visible dans la configuration de la commande sur les widgets de type info
+<p><img src="{{site.baseurl}}/help/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
+>Il faut vérifier que l'option ***Afficher les statistiques sur les widgets*** est active
+>* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
+
+<hr />
 # Changelog
 <a href="https://github.com/JEALG/JEEDOM-Thermometre/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Thermometre/commits/master">Changelog WIDGET pour le Core V3</a><br/>

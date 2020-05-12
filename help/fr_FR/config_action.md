@@ -9,10 +9,10 @@ description: Aide pour le paramétrage des widgets de type action
 > **Une vidéo pour aider les nuls : <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>**
 
 Ici l'exemple d'un équipement fait avec le plugin Virtuel
-<p><img src="../img/exemple/d/multi_action.png" alt="Resultat" /></p>
+<p><img src="{{site.baseurl}}/widget/img/exemple/d/multi_action.png" alt="Resultat" /></p>
 
 # Paramétrage de l'équipement
-<p><img src="../img/help/config_action_1.png" alt="Aide 1" /></p>
+<p><img src="../img/config_action_1.png" alt="Aide 1" /></p>
 * <b>La flèche Marron</b> : Action du widget
     * Options : il est possible de cocher ou pas <i>Afficher</i> (je conseille de décocher)
 
@@ -28,17 +28,17 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel
 <p><img src="../img/help/config_roue.png" alt="Roue Crantée" width="100"/></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
-<p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="700" /></p><br/>
+<p><img src="../img/config_onglet_affichage_action.png" alt="Onglet Affichage" width="700" /></p><br/>
 
 * Ensuite sélectionner le widget <b><i>Multi-action-Defaut</i></b> (flèche en noir) pour la représentation <i>Dashboard</i> et <i>Mobile</i><br/>
 
 ## Exemple de paramétrage
 Voici l'exemple voulu
-<p><img src="../img/exemple/d/multi_action.png" alt="Résultat" /></p>
+<p><img src="{{site.baseurl}}/widget/img/exemple/d/multi_action.png" alt="Résultat" /></p>
 
 ## Ajout des paramètres
 * Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange) sur chaque commande<br/>
-<p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="500" /></p><br/>
+<p><img src="../img/config_onglet_affichage_action.png" alt="Onglet Affichage" width="500" /></p><br/>
 
 ### Pour la commande <b>Etat</b>
 Vu que cette commande n'est pas affichée, le paramétrage sera laissé en <b>Défaut</b>
@@ -76,7 +76,7 @@ Les paramètres suivants seront mis d'abord pour la commande <b>ON</b>
     </TABLE>
 </CENTER>
 
-<p><img src="../img/help/config_onglet_affichage_action.png" alt="Onglet Affichage" width="500" /></p><br/>
+<p><img src="../img/config_onglet_affichage_action.png" alt="Onglet Affichage" width="500" /></p><br/>
 
 Répéter la même opération sur la commande <b>OFF</b> ou cliquer sur le bouton <b>Appliquer à</b> et sélectionner la commande
 

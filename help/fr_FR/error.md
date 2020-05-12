@@ -28,7 +28,7 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
 
 # Liste des images possible
 
-<p><img src="../img/visuel/error.png" alt="Error" /></p>
+<p><img src="{{site.baseurl}}/widget/img/visuel/error.png" alt="Error" /></p>
 
 # Cas Particulier
 Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'erreur

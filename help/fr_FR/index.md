@@ -34,4 +34,11 @@ Cette rubrique regroupe de l'aide à l'installation des différents widgets
 Cette rubrique regroupe les différentes images disponibles pour les widgets
 >* <a href="{{site.baseurl}}/widget/{{page.lang}}/list_img">Listes des images des widgets </a>
 
+# Troubleshotting
+
+- Je n'ai pas l'historique et l'option historique non visible dans la configuration de la commande sur les widgets de type info
+<p><img src="{{site.baseurl}}/help/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
+>Il faut vérifier que l'option ***Afficher les statistiques sur les widgets*** est active
+>* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
+
 <hr />

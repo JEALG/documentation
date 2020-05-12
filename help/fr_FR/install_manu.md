@@ -25,7 +25,7 @@ Choisir le widget voulu
 <br/>
 voici un exemple pour récupérer les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut">JEEDOM-Multi_action-Defaut</a>
-<p><img src="../img/AIDE_V4_Github_branche_1.png" alt="Choix Branche" width="500"/></p>
+<p><img src="../img/Github_branche_1.png" alt="Choix Branche" width="500"/></p>
 Sélectionner la branche voulue :
 <blockquote>
     <ul>
@@ -35,7 +35,7 @@ Sélectionner la branche voulue :
     </ul>
 </blockquote>
 Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
-<p><img src="../img/AIDE_V4_Github_branche_2.png" alt="Download" width="500"/></p>
+<p><img src="../img/Github_branche_2.png" alt="Download" width="500"/></p>
 
 # Plugin nécessaire "jeexplorer"
 Il faut installer le plugin Jeexplorer
@@ -74,11 +74,11 @@ Se rendre dans le dossier correspondant au type de widget
     </blockquote>
 </ul>
 
-<p><img src="../img/AIDE_V4_ADD_Widget_1.png" alt="ADD" width="500" /></p>
+<p><img src="../img/add_widget_1.png" alt="ADD" width="500" /></p>
 Cliquer sur Envoyer les fichiers
-<p><img src="../img/AIDE_V4_ADD_Widget_2.png" alt="ADD" width="500" /></p>
+<p><img src="../img/add_widget_2.png" alt="ADD" width="500" /></p>
 Cliquer ensuite sur <i>Sélectionner les fichiers à envoyer</i> ou pour envoyer l'ensemble des dossiers, cliquer sur <i>Choisir le dossier</i>
-<p><img src="../img/AIDE_V4_ADD_Widget_3.png" alt="ADD" width="200" /></p>
+<p><img src="../img/add_widget_3.png" alt="ADD" width="200" /></p>
 
 <hr />
 [back](./)
