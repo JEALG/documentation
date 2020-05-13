@@ -20,4 +20,15 @@ title: "Documentations des plugins et widget de JAG"
 description: "Ceci est la documentation des plugins et widget créés par JAG de la solution domotique Jeedom."
 author: "JAG"
 image: https://doc.jeedom.com/img/logo.png
-forum: https://community.jeedom.com
+twitter:
+  username: Jeedom_domotic
+social:
+  name: Jeedom
+  links:
+    - https://twitter.com/Jeedom_domotic
+    - https://www.facebook.com/Jeedom-249936178537210/
+    - https://github.com/jeedom
+community: https://community.jeedom.com
+market: https://market.jeedom.com
+blog: https://blog.jeedom.com
+doc: https://doc.jeedom.com
