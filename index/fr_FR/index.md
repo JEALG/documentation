@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: fr_FR
-title: Liste des plugins et widget de JAG
+title: Liste des plugins et widgets de JAG
 ---
 
 # infos
