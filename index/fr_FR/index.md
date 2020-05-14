@@ -31,6 +31,6 @@ Ici vous trouverez l'ensemble de la documentation pour aider à utiliser mes wid
 
 - [Documentation]({{site.baseurl}}/help/{{page.lang}})
 
-- [Documentation TEST]({{site.help}}/{{page.lang}})
+- [Documentation TEST]({{site.baseurl}}/{{site.help}}/{{page.lang}})
 
 <hr />
