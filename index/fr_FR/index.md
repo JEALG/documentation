@@ -30,5 +30,6 @@ Ici vous trouverez l'ensemble de la documentation des Widgets JAG archivés pour
 Ici vous trouverez l'ensemble de la documentation pour aider à utiliser mes widgets Jeedom
 
 - [Documentation]({{site.baseurl}}/help/{{page.lang}})
+- [Documentation TEST]({{site.help}}/{{page.lang}})
 
 <hr />
