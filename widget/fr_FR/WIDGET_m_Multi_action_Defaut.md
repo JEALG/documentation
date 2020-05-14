@@ -81,11 +81,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_action">Aide pour le paramétrage des widgets de type action</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique, actions)</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/config_action">Aide pour le paramétrage des widgets de type action</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/stats">Afficher les statistiques</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique, actions)</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
@@ -94,15 +94,15 @@ Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images n'est pas normalisé sur ce widget
 <blockquote>
     <ul>
-        <li><a href=".{{site.baseurl}}/help/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
+        <li><a href=".{{site.baseurl}}/{{site.help}}/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
     </ul>
 </blockquote>
 
 ## Exemple de paramétrage
->* <a href="{{site.baseurl}}/help/{{page.lang}}/action">Aide pour le paramétrage des widgets de type action</a>
+>* <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/action">Aide pour le paramétrage des widgets de type action</a>
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/masterv4">Télécharger les sources pour la V4</a></li>

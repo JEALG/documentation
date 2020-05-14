@@ -27,6 +27,6 @@ Nom du Widget | Exemple | Docs/Téléchargement
 # Aide
 Ici vous trouverez l'ensemble de la documentation pour aider à utiliser mes widgets Jeedom
 
-- [Documentation]({{site.baseurl}}/help/{{page.lang}})
+- [Documentation]({{site.baseurl}}/{{site.help}}/{{page.lang}})
 
 <hr />

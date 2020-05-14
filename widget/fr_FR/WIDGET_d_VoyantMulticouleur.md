@@ -53,9 +53,9 @@ Pour choisir le type d'extension de l'image
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
@@ -70,13 +70,13 @@ Le nommage des images est normalisé et doit respecter le format suivant :
         <li><i>Remplacer <b>COULEUR</b> par la valeur bk, bu, gn, or, rd, wh, ye</i></li>
     </ul>
     <ul>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
     </ul>
 </blockquote>
 
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>

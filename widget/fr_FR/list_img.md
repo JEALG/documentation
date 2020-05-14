@@ -81,7 +81,7 @@ Liste des images par dossiers
 
 <hr />
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/masterv4">Télécharger les sources du Widget Multi-action pour le Core V4</a></li>

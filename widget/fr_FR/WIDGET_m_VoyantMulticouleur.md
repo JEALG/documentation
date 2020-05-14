@@ -92,14 +92,14 @@ Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>

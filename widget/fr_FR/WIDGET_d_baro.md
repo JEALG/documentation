@@ -61,12 +61,12 @@ Il est possible de déplacer la légende
 ## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/error">Paramétrage image de défaut</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats">Afficher les statistiques</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/config_info">Aide ajout des paramètres pour un widget Info</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/error">Paramétrage image de défaut</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/stats">Afficher les statistiques</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/stats_temps">Affichage des informations de durée sur les widgets info (binaire, numérique)</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/para">Ajouter les paramètres sur un widget</a></li>
     </ul>
 </blockquote>
 
@@ -80,13 +80,13 @@ Le nommage des images est normalisé et doit respecter le format suivant :
         <li><i>Remplacer <b>x</b> par le niveau (Valeur possible : 940, 950, 960, 970, 980, 990, 1000, 1010, 1020, 1030, 1040, 1050, 1060)</i></li>
     </ul>
     <ul>
-        <li><a href="{{site.baseurl}}/help/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
+        <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
     </ul>
 </blockquote>
 
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Barometre/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
@@ -95,9 +95,9 @@ Le nommage des images est normalisé et doit respecter le format suivant :
 # Troubleshotting
 
 - Je n'ai pas l'historique et l'option historique non visible dans la configuration de la commande sur les widgets de type info
-<p><img src="{{site.baseurl}}/help/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
+<p><img src="{{site.baseurl}}/{{site.help}}/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
 >Il faut vérifier que l'option ***Afficher les statistiques sur les widgets*** est active
->* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
+>* <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
 
 <hr />
 # Changelog
