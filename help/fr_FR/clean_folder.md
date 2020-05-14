@@ -45,12 +45,12 @@ Il faut installer le plugin Jeexplorer
         <TR>
             <TD width="26%">Dashboard</TD>
             <TD width="37%">data/customTemplates/dashboard/</TD>
-            <TD width="37%">plugins/widget/core/template/dashboard/</TD>
+            <TD width="37%">plugins/{{site.widget}}/core/template/dashboard/</TD>
         </TR>
         <TR>
             <TD width="26%">Mobile</TD>
             <TD width="37%">data/customTemplates/mobile/</TD>
-            <TD width="37%">plugins/widget/core/template/mobile/</TD>
+            <TD width="37%">plugins/{{site.widget}}/core/template/mobile/</TD>
         </TR>
     </TABLE>
 </CENTER>

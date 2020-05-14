@@ -7,9 +7,9 @@ description: explication widget Biroute - vent
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
-<p><img src="../img/exemple/d/biroute.png" alt="Resultat" /></p>
+<p><img src="../{{site.img}}/exemple/d/biroute.png" alt="Resultat" /></p>
 
-<p><img src="../img/visuel/vent.png" alt="Visuels" /></p>
+<p><img src="../{{site.img}}/visuel/vent.png" alt="Visuels" /></p>
 
 # A savoir
 <blockquote>
@@ -36,7 +36,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     </ul>
 </blockquote>
 
-<p><img src="../img/exemple/d/biroute_1.png" alt="Resultat" /></p>
+<p><img src="../{{site.img}}/exemple/d/biroute_1.png" alt="Resultat" /></p>
 
 ## Taille des images ou des icônes
 
@@ -84,7 +84,7 @@ Le nommage des images est normalisé et doit respecter le format suivant :
 # Troubleshotting
 
 - Je n'ai pas l'historique et l'option historique non visible dans la configuration de la commande sur les widgets de type info
-<p><img src="{{site.baseurl}}/help/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
+<p><img src="{{site.baseurl}}/help/{{site.img}}/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
 >Il faut vérifier que l'option ***Afficher les statistiques sur les widgets*** est active
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
 

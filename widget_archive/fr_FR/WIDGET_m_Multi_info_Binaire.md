@@ -8,15 +8,15 @@ description: Archive Widget "Multi-info-Binaire (mobile)"
 
 L'ensemble des widgets ci-dessous est incorporé dans le widget
 
-<p><img src="{{site.baseurl}}/widget/img/exemple/m/multi_binaire.png" alt="Exemple Multi-info-Binaire" /></p>
+<p><img src="{{site.baseurl}}/{{site.widget}}/{{site.img}}/exemple/m/multi_binaire.png" alt="Exemple Multi-info-Binaire" /></p>
 
 # A savoir
 <blockquote>
-    <b>Ces widgets sont inclus dans le </b><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget mobile : <b>Multi-info-Binaire</b></a>
+    <b>Ces widgets sont inclus dans le </b><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget mobile : <b>Multi-info-Binaire</b></a>
 </blockquote>
 <br/>
 <blockquote>
-    <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+    <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est necessaire d'avoir le </b><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Widget "Alarme-Status (mobile)"

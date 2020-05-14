@@ -8,7 +8,7 @@ description: explication Widget "Icon_Mode"
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>Info Texte</b>
-<p><img src="../img/exemple/d/icone_mode.png" alt="Resultat" /></p>
+<p><img src="../{{site.img}}/exemple/d/icone_mode.png" alt="Resultat" /></p>
 
 # Info
 ## Merci
@@ -91,7 +91,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 # Exemple Paramétrage d'un mode
-<p><img src="./../img/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
+<p><img src="./../{{site.img}}/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
 <hr />
 ## Exemple 1
 Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"

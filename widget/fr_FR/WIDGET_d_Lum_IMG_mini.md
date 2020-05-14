@@ -7,7 +7,7 @@ description: Widget Luminosité-IMG-Mini
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
-<p><img src="../img/exemple/d/lumi.png" alt="Resultat" /></p>
+<p><img src="../{{site.img}}/exemple/d/lumi.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -66,19 +66,19 @@ Il est possible de déplacer la légende
         <TR>
             <TD width="25%" rowspan="4">leg_pos</TD>
             <TD width="25%" align="center">low<br/>(valeur par défaut)</TD>
-            <TD width="50%" align="center"><img src="../img/exemple/d/lumi.png" alt="Resultat - Bas" /></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/exemple/d/lumi.png" alt="Resultat - Bas" /></TD>
         </TR>
         <TR>
             <TD width="25%" align="center">right</TD>
-            <TD width="50%" align="center"><img src="../img/exemple/d/lumi_r.png" alt="Resultat - Droite" /></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/exemple/d/lumi_r.png" alt="Resultat - Droite" /></TD>
         </TR>
         <TR>
             <TD width="25%" align="center">left</TD>
-            <TD width="50%" align="center"><img src="../img/exemple/d/lumi_l.png" alt="Resultat - Gauche" /></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/exemple/d/lumi_l.png" alt="Resultat - Gauche" /></TD>
         </TR>
         <TR>
             <TD width="25%" align="center">top</TD>
-            <TD width="50%" align="center"><img src="../img/exemple/d/lumi_t.png" alt="Resultat - Gauche" /></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/exemple/d/lumi_t.png" alt="Resultat - Gauche" /></TD>
         </TR>
     </TABLE>
 </CENTER>
@@ -104,7 +104,7 @@ Il est possible de déplacer la légende
 # Troubleshotting
 
 - Je n'ai pas l'historique et l'option historique non visible dans la configuration de la commande sur les widgets de type info
-<p><img src="{{site.baseurl}}/help/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
+<p><img src="{{site.baseurl}}/help/{{site.img}}/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
 >Il faut vérifier que l'option ***Afficher les statistiques sur les widgets*** est active
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
 

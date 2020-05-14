@@ -9,7 +9,7 @@ description: explication Aide pour le paramétrage des widgets de type info (bin
 > **Une vidéo pour aider les nuls : <a href="https://www.youtube.com/watch?v=wiMh8rmfdKU">Virtuel pour les nuls</a>**
 
 Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer les infos suivantes :
-<p><img src="../img/config_info_1.png" alt="Aide 1" width="700"/></p>
+<p><img src="../{{site.img}}/config_info_1.png" alt="Aide 1" width="700"/></p>
 
 # Paramétrage de l'équipement
 
@@ -29,23 +29,23 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 
 ## Exemple de paramétrage
 Voici l'exemple voulu
-<p><img src="{site.baseurl}}/widget/img/exemple/d/multi_binaire.png" alt="Résultat" /></p>
+<p><img src="{site.baseurl}}/{{site.widget}}/{{site.img}}/exemple/d/multi_binaire.png" alt="Résultat" /></p>
 
 ## Les commandes d'action
 voir l'exemple dans la doc <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/config_action">Aide pour le paramétrage des widgets de type action</a>
 
 # Choix du widget
 * Cliquer sur la roue crantée de la commande info
-<p><img src="../img/config_roue.png" alt="Roue Crantée" width="100"/></p>
+<p><img src="../{{site.img}}/config_roue.png" alt="Roue Crantée" width="100"/></p>
 
 * Ensuite sélectionner l'onglet <b><i>Affichage</i></b> (flèche en violet)<br/>
-<p><img src="../img/config_onglet_affichage_info.png" alt="Onglet Affichage" width="700" /></p><br/>
+<p><img src="../{{site.img}}/config_onglet_affichage_info.png" alt="Onglet Affichage" width="700" /></p><br/>
 
 * Ensuite sélectionner le widget <b><i>Multiinfo-Binaire</i></b> (flèche en noir) pour la représentation <i>Dashboard</i> et <i>Mobile</i><br/>
 
 # Ajout des paramètres
 * Ajouter les variables ci-dessous en cliquant sur le bouton <b><i>Ajouter</i></b> (flèche en orange)<br/>
-<p><img src="../img/config_onglet_affichage_info.png" alt="Onglet Affichage" width="700" /></p><br/>
+<p><img src="../{{site.img}}/config_onglet_affichage_info.png" alt="Onglet Affichage" width="700" /></p><br/>
 
 <CENTER>
     <TABLE width="60%">

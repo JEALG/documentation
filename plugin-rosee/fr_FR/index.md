@@ -90,7 +90,7 @@ Le plugin calcule 6 niveaux d'information :
 
 Le plugin affecte par défaut un widget (uniquement pour le Core V4) :<br/>
 
-![Visu Tendance](../images/visu_tendance.png)
+![Visu Tendance](../{{site.img}}/visu_tendance.png)
 
 # FAQ
 
@@ -114,33 +114,33 @@ Le plugin affecte par défaut un widget (uniquement pour le Core V4) :<br/>
 
 # Exemple de configuration
 ## Vue de la liste des équipements
-![exemple vue d'ensemble](../images/vue.png)
+![exemple vue d'ensemble](../{{site.img}}/vue.png)
 
 
 ## Exemple de configuration avec la méthode de calcul "Point de Rosée et Point de Givre"
 
-![exemple équipement](../images/equipement.png)
-![exemple commandes](../images/commandes.png)
+![exemple équipement](../{{site.img}}/equipement.png)
+![exemple commandes](../{{site.img}}/commandes.png)
 
 ## Exemple de configuration avec la méthode de calcul "Point de Givre"
 
-![exemple équipement givre](../images/equipement_givre.png)
-![exemple commandes givre](../images/commandes_givre.png)
+![exemple équipement givre](../{{site.img}}/equipement_givre.png)
+![exemple commandes givre](../{{site.img}}/commandes_givre.png)
 
 ## Exemple de configuration avec la méthode de calcul "Point de rosée"
 
-![exemple équipement rosée](../images/equipement_rosee.png)
-![exemple commandes rosée](../images/commandes_rosee.png)
+![exemple équipement rosée](../{{site.img}}/equipement_rosee.png)
+![exemple commandes rosée](../{{site.img}}/commandes_rosee.png)
 
 ## Exemple de configuration avec la méthode de calcul "Humidité absolue"
 
-![exemple équipement Humidité](../images/equipement_humidite.png)
-![exemple commandes Humidité](../images/commandes_humidite.png)
+![exemple équipement Humidité](../{{site.img}}/equipement_humidite.png)
+![exemple commandes Humidité](../{{site.img}}/commandes_humidite.png)
 
 ## Exemple de configuration avec la méthode de calcul "Tendance Météo"
 
-![exemple équipement Tendance](../images/equipement_tendance.png)
-![exemple commandes Tendance](../images/commandes_tendance.png)
+![exemple équipement Tendance](../{{site.img}}/equipement_tendance.png)
+![exemple commandes Tendance](../{{site.img}}/commandes_tendance.png)
 
 # Troubleshotting
 

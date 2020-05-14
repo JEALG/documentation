@@ -14,70 +14,70 @@ description: Liste des dossiers
 Liste des images par dossiers
 
 ## alarme
-<img src="../img/visuel/alarme.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/alarme.png" alt="Visuels" />
 
 ## baro
-<img src="../img/visuel/baro.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/baro.png" alt="Visuels" />
 
 ## batterie
-<img src="../img/visuel/batterie.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/batterie.png" alt="Visuels" />
 
 ## chauffage
-<img src="../img/visuel/chauffage.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/chauffage.png" alt="Visuels" />
 
 ## courriers
-<img src="../img/visuel/courriers.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/courriers.png" alt="Visuels" />
 
 ## divers
-<img src="../img/visuel/divers.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/divers.png" alt="Visuels" />
 
 ## eau
-<img src="../img/visuel/eau.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/eau.png" alt="Visuels" />
 
 ## error
-<img src="../img/visuel/error.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/error.png" alt="Visuels" />
 
 ## fenetre
-<img src="../img/visuel/fenetre.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/fenetre.png" alt="Visuels" />
 
 ## fibarooeil
-<img src="../img/visuel/oeil.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/oeil.png" alt="Visuels" />
 
 ## humidite
-<img src="../img/visuel/humidite.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/humidite.png" alt="Visuels" />
 
 ## lampe
-<img src="../img/visuel/lampe.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/lampe.png" alt="Visuels" />
 
 ## poubelles
-<img src="../img/visuel/poubelles.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/poubelles.png" alt="Visuels" />
 
 ## presence
-<img src="../img/visuel/presence.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/presence.png" alt="Visuels" />
 
 ## prise
-<img src="../img/visuel/prise.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/prise.png" alt="Visuels" />
 
 ## season
-<img src="../img/visuel/saison.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/saison.png" alt="Visuels" />
 
 ## signal
-<img src="../img/visuel/signal.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/signal.png" alt="Visuels" />
 
 ## store
-<img src="../img/visuel/store.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/store.png" alt="Visuels" />
 
 ## temperature
-<img src="../img/visuel/temperature.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/temperature.png" alt="Visuels" />
 
 ## toggle
-<img src="../img/visuel/toggle.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/toggle.png" alt="Visuels" />
 
 ## vent
-<img src="../img/visuel/vent.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/vent.png" alt="Visuels" />
 
 ## voyant
-<img src="../img/visuel/voyant.png" alt="Visuels" />
+<img src="../{{site.img}}/visuel/voyant.png" alt="Visuels" />
 
 <hr />
 # Télécharger les sources

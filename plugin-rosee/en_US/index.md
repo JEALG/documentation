@@ -19,8 +19,8 @@ En option
 
 Voici un exemple de configuration
 
-![exemple](../images/equipement.png)
-![exemple](../images/commandes.png)
+![exemple](../{{site.img}}/equipement.png)
+![exemple](../{{site.img}}/commandes.png)
 
 # Alerte Givre
 Le plugin calcule 4 niveaux d'alerte

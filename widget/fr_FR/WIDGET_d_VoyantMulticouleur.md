@@ -7,12 +7,12 @@ description: explication Bouton en forme de voyant Multi couleur
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action</b>
-<p><img src="../img/exemple/d/voyant_multicouleur.png" alt="Resultat" /></p>
+<p><img src="../{{site.img}}/exemple/d/voyant_multicouleur.png" alt="Resultat" /></p>
 <blockquote>
 Les visu à utiliser sont :
 </blockquote>
 
-<p><img src="../img/visuel/voyant.png" alt="Visuels" /></p>
+<p><img src="../{{site.img}}/visuel/voyant.png" alt="Visuels" /></p>
 
 # A savoir
 <blockquote>

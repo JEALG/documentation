@@ -7,7 +7,7 @@ description: explication widget Baromètre
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
-<p><img src="../img/exemple/d/baro.png" alt="Resultat" /></p>
+<p><img src="../{{site.img}}/exemple/d/baro.png" alt="Resultat" /></p>
 
 # A savoir
 <blockquote>
@@ -45,15 +45,15 @@ Il est possible de déplacer la légende
         <TR>
             <TD width="25%" rowspan="3">leg_pos</TD>
             <TD width="25%" align="center">right<br/>(valeur par défaut)</TD>
-            <TD width="50%" align="center"><img src="../img/exemple/d/baro.png" alt="Resultat - Droite" /></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/exemple/d/baro.png" alt="Resultat - Droite" /></TD>
         </TR>
         <TR>
             <TD width="25%" align="center">left</TD>
-            <TD width="50%" align="center"><img src="../img/exemple/d/baro_le.png" alt="Resultat - Gauche" /></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/exemple/d/baro_le.png" alt="Resultat - Gauche" /></TD>
         </TR>
         <TR>
             <TD width="25%" align="center">bottom</TD>
-            <TD width="50%" align="center"><img src="../img/exemple/d/baro_l.png" alt="Resultat - Bas" /></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/exemple/d/baro_l.png" alt="Resultat - Bas" /></TD>
         </TR>
     </TABLE>
 </CENTER>
@@ -95,7 +95,7 @@ Le nommage des images est normalisé et doit respecter le format suivant :
 # Troubleshotting
 
 - Je n'ai pas l'historique et l'option historique non visible dans la configuration de la commande sur les widgets de type info
-<p><img src="{{site.baseurl}}/{{site.help}}/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
+<p><img src="{{site.baseurl}}/{{site.help}}/{{site.img}}/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
 >Il faut vérifier que l'option ***Afficher les statistiques sur les widgets*** est active
 >* <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
 

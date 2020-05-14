@@ -38,15 +38,15 @@ description: explication Modification size Texte
         </TR>
         <TR>
             <TD width="50%">Taille normale</TD>
-            <TD width="50%" align="center"><img src="../img/config_size_1.png" alt="Size normal" width="200"/></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/config_size_1.png" alt="Size normal" width="200"/></TD>
         </TR>
         <TR>
             <TD width="50%">Exemple avec la variable **font_size ** = **22px**</TD>
-            <TD width="50%" align="center"><img src="../img/config_size_2.png" alt="Size" width="200" /></TD>
+            <TD width="50%" align="center"><img src="../{{site.img}}/config_size_2.png" alt="Size" width="200" /></TD>
         </TR>
     </TABLE>
 </CENTER>
-<p><img src="../img/config_size_3.png" alt="Size réglage" width="800"/></p>
+<p><img src="../{{site.img}}/config_size_3.png" alt="Size réglage" width="800"/></p>
 
 
 <hr />

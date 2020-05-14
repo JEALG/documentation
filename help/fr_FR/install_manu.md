@@ -13,7 +13,7 @@ Voici une méthode vous permettant d'installer et de faire les mises à jour.
 
 # A Savoir
 <blockquote>
-    Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+    Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 <br/>
 Un script sera disponible dans quelques jours pour installer les mises à jour pour le Core V3 ou V4
 </blockquote>
@@ -25,7 +25,7 @@ Choisir le widget voulu
 <br/>
 voici un exemple pour récupérer les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut">JEEDOM-Multi_action-Defaut</a>
-<p><img src="../img/Github_branche_1.png" alt="Choix Branche" width="500"/></p>
+<p><img src="../{{site.img}}/Github_branche_1.png" alt="Choix Branche" width="500"/></p>
 Sélectionner la branche voulue :
 <blockquote>
     <ul>
@@ -35,7 +35,7 @@ Sélectionner la branche voulue :
     </ul>
 </blockquote>
 Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
-<p><img src="../img/Github_branche_2.png" alt="Download" width="500"/></p>
+<p><img src="../{{site.img}}/Github_branche_2.png" alt="Download" width="500"/></p>
 
 # Plugin nécessaire "jeexplorer"
 Il faut installer le plugin Jeexplorer
@@ -68,17 +68,17 @@ Se rendre dans le dossier correspondant au type de widget
   <b>L'ensemble des fichiers sont à copier dans les dossiers suivant Pour le Core V3 :</b>
     <blockquote>
         <ul>
-            <li>html/plugins/widget/core/template/dashboard/</li>
-            <li>html/plugins/widget/core/template/mobile/ <i>Le nom des "repository" de mes widgets mobiles se termine par "--mobile"</i></li>
+            <li>html/plugins/{{site.widget}}/core/template/dashboard/</li>
+            <li>html/plugins/{{site.widget}}/core/template/mobile/ <i>Le nom des "repository" de mes widgets mobiles se termine par "--mobile"</i></li>
         </ul>
     </blockquote>
 </ul>
 
-<p><img src="../img/add_widget_1.png" alt="ADD" width="500" /></p>
+<p><img src="../{{site.img}}/add_widget_1.png" alt="ADD" width="500" /></p>
 Cliquer sur Envoyer les fichiers
-<p><img src="../img/add_widget_2.png" alt="ADD" width="500" /></p>
+<p><img src="../{{site.img}}/add_widget_2.png" alt="ADD" width="500" /></p>
 Cliquer ensuite sur <i>Sélectionner les fichiers à envoyer</i> ou pour envoyer l'ensemble des dossiers, cliquer sur <i>Choisir le dossier</i>
-<p><img src="../img/add_widget_3.png" alt="ADD" width="200" /></p>
+<p><img src="../{{site.img}}/add_widget_3.png" alt="ADD" width="200" /></p>
 
 <hr />
 [back](./)

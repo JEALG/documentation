@@ -8,7 +8,7 @@ description: Explication widget Multi-info-Binaire
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Binaire</b>
 
-<p><img src="../img/exemple/d/multi_binaire.png" alt="Resultat" /></p>
+<p><img src="../{{site.img}}/exemple/d/multi_binaire.png" alt="Resultat" /></p>
 
 # A savoir
 <ul>
@@ -91,7 +91,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 # Troubleshotting
 
 - Je n'ai pas l'historique et l'option historique non visible dans la configuration de la commande sur les widgets de type info
-<p><img src="{{site.baseurl}}/help/img/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
+<p><img src="{{site.baseurl}}/help/{{site.img}}/troubleshotting_1.png" alt="Troubleshotting Statistique" width="500" /></p>
 >Il faut vérifier que l'option ***Afficher les statistiques sur les widgets*** est active
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
 

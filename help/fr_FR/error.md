@@ -28,15 +28,15 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
 
 # Liste des images possible
 
-<p><img src="{{site.baseurl}}/widget/img/visuel/error.png" alt="Error" /></p>
+<p><img src="{{site.baseurl}}/{{site.widget}}/{{site.img}}/visuel/error.png" alt="Error" /></p>
 
 # Cas Particulier
 Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'erreur
 <ul>
-    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Icon_Mode">Widget Dashboard : <b>Icon_Mode</b></a></li>
-    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Icon_Mode">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
-    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_info_Binaire">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+    <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Icon_Mode">Widget Dashboard : <b>Icon_Mode</b></a></li>
+    <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_m_Icon_Mode">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
+    <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Multi_info_Binaire">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </ul>
 <blockquote>
     <ul>
@@ -47,8 +47,8 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
 
 # Cas Particulier pour les widgets Multi_info-Binaire
 <ul>
-    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_d_Multi_info_Binaire">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
-    <li><a href="{{site.baseurl}}/widget/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
+    <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Multi_info_Binaire">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
+    <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </ul>
 
 Petit rappel : la variable ci-dessous permet de récupérer ou pas les même infos que le Dashboard
