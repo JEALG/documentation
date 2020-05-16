@@ -1,6 +1,6 @@
 ---
 langs: [fr_FR, en_US]
-baseurl: "/documentation" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "/" # the base hostname & protocol for your site
 sass:
   sass_dir: assets/css
@@ -22,7 +22,7 @@ plugins:
 title: "Documentations des plugins et widgets de JAG"
 description: "Ceci est la documentation des plugins et widgets créés par JAG de la solution domotique Jeedom."
 author: "JAG"
-image: https://doc.jeedom.com/{{site.img}}/logo.png
+image: https://doc.jeedom.com/images/logo.png
 twitter:
   username: Jeedom_domotic
 social:
