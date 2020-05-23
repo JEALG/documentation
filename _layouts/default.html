@@ -20,7 +20,7 @@
                     <li><a href="{{site.baseurl}}">Documentations - JAG</a></li>
                     <li>{{page.title}}</li>
                 </ul>
-                <a href="{{site.doc}}" data-activates="nav-mobile" class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i class="material-icons">menu</i></a>
+                <a href="{{site.doc}}" target="_blank" data-activates="nav-mobile" class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
                     <li><a href="https://www.jeedom.com" target="_blank">Site</a></li>
                     <li><a href="{{site.blog}}" target="_blank">Blog</a></li>
@@ -93,7 +93,7 @@
             document.title = 'Documentations JAG | ' + title[0].toUpperCase() + title.substring(1)
             $(".button-collapse").sideNav();
             $('meta[name=description]').remove();
-            $('head').append('<meta name="description" content="Ceci est la documentation ddes plugins et des widgets"' + title[0].toUpperCase() + title.substring(1) + '", lié à la solution domotique Jeedom.">');
+            $('head').append('<meta name="description" content="Ceci est la documentation des plugins et des widgets"' + title[0].toUpperCase() + title.substring(1) + '", lié à la solution domotique Jeedom.">');
             $('img').addClass('responsive-img');
             $('#div_content table').addClass('striped');
             init();
