@@ -23,7 +23,7 @@ Ici vous trouverez l'ensemble de la documentation des Widgets JAG pour Jeedom
 ## Les Widgets archivés
 Ici vous trouverez l'ensemble de la documentation des Widgets JAG archivés pour Jeedom
 
-- [Documentation]({{site.baseurl}}{{site.archive}}{{page.lang}})
+- [Documentation]({{site.baseurl}}/{{site.archive}}{{page.lang}})
 
 
 # Aide

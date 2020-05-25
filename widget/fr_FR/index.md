@@ -53,7 +53,7 @@ Nom du Widget | Exemple | Docs/Téléchargement
 **Température Thermomètre** |<img src="../{{site.img}}/exemple/m/temperature.png" alt="Exemple Température Thermomètre" /> | <a href="./WIDGET_m_Thermometre">Lien</a>
 
 ## Les widgets archivés
-- [Documentation pour les remplacer ]({{site.baseurl}}{{site.archive}}{{page.lang}})
+- [Documentation pour les remplacer ]({{site.baseurl}}/{{site.archive}}/{{page.lang}})
 
 # Liste des images
 Cette rubrique regroupe les différentes images disponibles pour les widgets

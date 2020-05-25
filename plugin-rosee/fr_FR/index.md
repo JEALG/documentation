@@ -72,12 +72,12 @@ Le plugin calcule 6 niveaux d'information :
 
 Niveau| Tendance | image widget
 --- | --- | ---
-<b>0</b>|Forte dégradation, instable |![Tendance 0](../{{site.img}}/tendance_O.png)
-<b>1</b>|Dégradation, mauvais temps durable |![Tendance 1](../{{site.img}}/tendance_1.png)
-<b>2</b>|Lente dégradation, temps stable|![Tendance 2](../{{site.img}}/tendance_2.png)
-<b>3</b>|Lente amélioration, temps stable |![Tendance 3](../{{site.img}}/tendance_3.png)
-<b>4</b>|Amélioration, beau temps durable |![Tendance 4](../{{site.img}}/tendance_4.png)
-<b>5</b>|Forte embellie, instable |![Tendance 5](../{{site.img}}/tendance_5.png)
+<b>0</b>|Forte dégradation, instable |<img src="../{{site.img}}/tendance_0.png" alt="Tendance 0" width="40" />
+<b>1</b>|Dégradation, mauvais temps durable |<img src="../{{site.img}}/tendance_1.png" alt="Tendance 1" width="40" />
+<b>2</b>|Lente dégradation, temps stable|<img src="../{{site.img}}/tendance_2.png" alt="Tendance 2" width="40" />)
+<b>3</b>|Lente amélioration, temps stable |<img src="../{{site.img}}/tendance_3.png" alt="Tendance 3" width="40" />
+<b>4</b>|Amélioration, beau temps durable |<img src="../{{site.img}}/tendance_4.png" alt="Tendance 4" width="40" />
+<b>5</b>|Forte embellie, instable |<img src="../{{site.img}}/tendance_5.png" alt="Tendance 5" width="40" />
 
 Le plugin affecte par défaut un widget (uniquement pour le Core V4) :<br/>
 
