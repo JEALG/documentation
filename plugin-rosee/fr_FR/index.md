@@ -70,11 +70,11 @@ Le plugin calcule 4 niveaux d'alerte :
 
 Le plugin calcule 6 niveaux d'information :
 
-Niveau| Tendance | image widget
---- | --- | ---
+Niveau | Tendance | Image du widget
+:---: | :---  | :---:
 <b>0</b>|Forte dégradation, instable |<img src="../{{site.img}}/tendance_0.png" alt="Tendance 0" width="40" />
 <b>1</b>|Dégradation, mauvais temps durable |<img src="../{{site.img}}/tendance_1.png" alt="Tendance 1" width="40" />
-<b>2</b>|Lente dégradation, temps stable|<img src="../{{site.img}}/tendance_2.png" alt="Tendance 2" width="40" />)
+<b>2</b>|Lente dégradation, temps stable|<img src="../{{site.img}}/tendance_2.png" alt="Tendance 2" width="40" />
 <b>3</b>|Lente amélioration, temps stable |<img src="../{{site.img}}/tendance_3.png" alt="Tendance 3" width="40" />
 <b>4</b>|Amélioration, beau temps durable |<img src="../{{site.img}}/tendance_4.png" alt="Tendance 4" width="40" />
 <b>5</b>|Forte embellie, instable |<img src="../{{site.img}}/tendance_5.png" alt="Tendance 5" width="40" />
@@ -149,10 +149,39 @@ Le plugin affecte par défaut un widget (uniquement pour le Core V4) :<br/>
 >Il faut attendre 4h pour avoir des résultats corrects lors de la création de l'équipement.
 >L'équipement doit être avoir l'historique d'activé pour fonctionner.
 
-- Le message suivant apparait **Le champ "Calcul" ne peut être vide**
+## Message d'erreur
+### Le champs "Calcul" ne peut être vide
+```
+Le champ "Calcul" ne peut être vide
+```
+>Il faut vérifier que le champ calcul ne soit pas vide ou égal à aucune<br/>
+![Calcul Vide](../{{site.img}}/erreur_calcul_vide.png)
 
->Il faut vérifier que le champ calcul ne soit pas vide ou égal à aucune
-![Calcul Vide](../{{site.img}}/calcul_vide.png)
+### Le champs "Température" ne peut être vide
+```
+Le champ "Température" ne peut être vide
+```
+>Il faut vérifier qu'un équipement soit sélectionner dans le champ avec la flèche bleue (voir image ci-dessous)<br/>
+
+### Le champs "Température" ne peut être vide
+```
+Le champ "Température" ne peut être vide
+```
+>Il faut vérifier qu'un équipement soit sélectionner dans le champ avec la flèche bleue (voir image ci-dessous)<br/>
+
+### Le champ "Humidité Relative" ne peut être vide
+```
+Le champ "Humidité Relative" ne peut être vide
+```
+>Il faut vérifier qu'un équipement soit sélectionner dans le champ avec la flèche rouge (voir image ci-dessous)<br/>
+
+### Le champ "Pression Atmosphérique" ne peut être vide
+```
+Le champ "Pression Atmosphérique" ne peut être vide
+```
+>Il faut vérifier qu'un équipement soit sélectionner dans le champ avec la flèche orange (voir image ci-dessous). Cette erreur n'apparait uniquement si le champ **Type de Calcul** a la valeur ***Tendance Météo***<br/>
+
+![Calcul Vide](../{{site.img}}/erreur_champ_vide.png)
 
 # Changelog
 [Changelog]({{site.baseurl}}/plugin-rosee/{{page.lang}}/changelog)
