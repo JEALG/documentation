@@ -38,30 +38,12 @@ Le plugin ne comporte pas de configuration générale, il faut :
 
 Le plugin calcule 4 niveaux d'alerte :
 
-- Cas N°0 :
-    >- Calcul : Aucun cas ci-dessous couvert
-    >- Alerte Givre : 0
-    >- Alerte Rosée : Automatique
-    >- Message numérique Givre : 0
-    >- Message d'info : Aucun risque de Givrage
-- Cas N°1 :
-    >- Calcul : (Température <=1 et Point de Givrage <= 0) et (Humidité absolue en (gr/m3) < Seuil d'humidité absolue)
-    >- Alerte Givre : 1
-    >- Alerte Rosée : forcé à 0
-    >- Message numérique Givre : 1
-    >- Message d'info : Givre peu probable malgré la température
-- Cas N°2 :
-    >- Calcul : (Température <=4 et Point de Givrage <= 0.5)
-    >- Alerte Givre : 1
-    >- Alerte Rosée : forcé à 0
-    >- Message numérique Givre : 2
-    >- Message d'info : Risque de givre
-- Cas N°3 :
-    >- Calcul : (Température <=1 et Point de Givrage <= 0) et (Humidité absolue en (gr/m3) > Seuil d'humidité absolue)
-    >- Alerte Givre : 1
-    >- Alerte Rosée : forcé à 0
-    >- Message numérique Givre : 3
-    >- Message d'info : Givre, Présence de givre
+Cas | Infos |
+:---: | :---
+** 0**| - Calcul : Aucun cas ci-dessous couvert<br/>- Alerte Givre : 0<br/>- Alerte Rosée : Automatique<br/>- Message numérique Givre : 0<br/>- Message d'info : Aucun risque de Givrage
+**1**| - Calcul : (Température <=1 et Point de Givrage <= 0) et (Humidité absolue en (gr/m3) < Seuil d'humidité absolue)<br/>- Alerte Givre : 1<br/>- Alerte Rosée : forcée à 0<br/>- Message numérique : 1<br/>- Message : Givre peu probable malgré la température
+**2**| - Calcul : (Température <=4 et Point de Givrage <= 0.5)<br/>- Alerte Givre : 1<br/>- Alerte Rosée : forcée à 0<br/>- Message numérique : 2<br/>- Message : Risque de givre
+**3**| - Calcul : (Température <=1 et Point de Givrage <= 0) et (Humidité absolue en (gr/m3) > Seuil d'humidité absolue)<br/>- Alerte Givre : 1<br/>- Alerte Rosée : forcée à 0<br/>- Message numérique : 3<br/>- Message : Givre, Présence de givre
 
 # Tendance Météo
 > Sources :
@@ -79,7 +61,7 @@ Niveau | Tendance | Image du widget
 <b>4</b>|Amélioration, beau temps durable |<img src="../{{site.img}}/tendance_4.png" alt="Tendance 4" width="40" />
 <b>5</b>|Forte embellie, instable |<img src="../{{site.img}}/tendance_5.png" alt="Tendance 5" width="40" />
 
-Le plugin affecte par défaut un widget (uniquement pour le Core V4) :<br/>
+Le plugin affecte par défaut un widget sur la commande *Message numérique* (uniquement pour le Core V4) :<br/>
 
 ![Visu Tendance](../{{site.img}}/visu_tendance.png)
 
