@@ -12,7 +12,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 # A savoir
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
-<b>Ce widget remplace ces widgets </b><a href="Archive_WIDGET_d_Luminosite">Archive Widget Luminosité-IMG-Mini</a>
+<b>Ce widget remplace ces widgets : </b><a href="{{site.baseurl}}/{{site.archive}}/{{page.lang}}/WIDGET_d_Lum_IMG_mini">Archive Luminosité-IMG-Mini</a>
 </blockquote>
 
 # Paramétrage
