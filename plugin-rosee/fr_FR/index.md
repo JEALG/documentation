@@ -40,7 +40,7 @@ Le plugin calcule 4 niveaux d'alerte :
 
 Cas | Infos |
 :---: | :---
-** 0**| - Calcul : Aucun cas ci-dessous couvert<br/>- Alerte Givre : 0<br/>- Alerte Rosée : Automatique<br/>- Message numérique Givre : 0<br/>- Message d'info : Aucun risque de Givrage
+**0**| - Calcul : Aucun cas ci-dessous couvert<br/>- Alerte Givre : 0<br/>- Alerte Rosée : Automatique<br/>- Message numérique Givre : 0<br/>- Message d'info : Aucun risque de Givrage
 **1**| - Calcul : (Température <=1 et Point de Givrage <= 0) et (Humidité absolue en (gr/m3) < Seuil d'humidité absolue)<br/>- Alerte Givre : 1<br/>- Alerte Rosée : forcée à 0<br/>- Message numérique : 1<br/>- Message : Givre peu probable malgré la température
 **2**| - Calcul : (Température <=4 et Point de Givrage <= 0.5)<br/>- Alerte Givre : 1<br/>- Alerte Rosée : forcée à 0<br/>- Message numérique : 2<br/>- Message : Risque de givre
 **3**| - Calcul : (Température <=1 et Point de Givrage <= 0) et (Humidité absolue en (gr/m3) > Seuil d'humidité absolue)<br/>- Alerte Givre : 1<br/>- Alerte Rosée : forcée à 0<br/>- Message numérique : 3<br/>- Message : Givre, Présence de givre
