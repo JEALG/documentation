@@ -69,24 +69,15 @@ Le plugin calcule 4 niveaux d'alerte :
 > - <a href="https://www.parallax.com/sites/default/files/downloads/29124-Altimeter-Application-Note-501.pdf">https://www.parallax.com/sites/default/files/downloads/29124-Altimeter-Application-Note-501.pdf</a>
 
 Le plugin calcule 6 niveaux d'information :
-- Niveau 0 :
-    >- Tendance : Forte dégradation, instable
-    >- Tendance numérique : 0
-- Niveau 1 :
-    >- Tendance : Dégradation, mauvais temps durable
-    >- Tendance numérique : 1
-- Niveau 2 :
-    >- Tendance : Lente dégradation, temps stable
-    >- Tendance numérique : 2
-- Niveau 3 :
-    >- Tendance : Lente amélioration, temps stable
-    >- Tendance numérique : 3
-- Niveau 4 :
-    >- Tendance : Amélioration, beau temps durable
-    >- Tendance numérique : 4
-- Niveau 5 :
-    >- Tendance : Forte embellie, instable
-    >- Tendance numérique : 5
+
+Niveau| Tendance | image widget
+--- | --- | ---
+<b>0</b>|Forte dégradation, instable |![Tendance 0](../{{site.img}}/tendance_O.png)
+<b>1</b>|Dégradation, mauvais temps durable |![Tendance 1](../{{site.img}}/tendance_1.png)
+<b>2</b>|Lente dégradation, temps stable|![Tendance 2](../{{site.img}}/tendance_2.png)
+<b>3</b>|Lente amélioration, temps stable |![Tendance 3](../{{site.img}}/tendance_3.png)
+<b>4</b>|Amélioration, beau temps durable |![Tendance 4](../{{site.img}}/tendance_4.png)
+<b>5</b>|Forte embellie, instable |![Tendance 5](../{{site.img}}/tendance_5.png)
 
 Le plugin affecte par défaut un widget (uniquement pour le Core V4) :<br/>
 
@@ -157,6 +148,11 @@ Le plugin affecte par défaut un widget (uniquement pour le Core V4) :<br/>
 
 >Il faut attendre 4h pour avoir des résultats corrects lors de la création de l'équipement.
 >L'équipement doit être avoir l'historique d'activé pour fonctionner.
+
+- Le message suivant apparait **Le champ "Calcul" ne peut être vide**
+
+>Il faut vérifier que le champ calcul ne soit pas vide ou égal à aucune
+![Calcul Vide](../{{site.img}}/calcul_vide.png)
 
 # Changelog
 [Changelog]({{site.baseurl}}/plugin-rosee/{{page.lang}}/changelog)

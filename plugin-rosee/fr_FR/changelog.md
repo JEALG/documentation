@@ -7,12 +7,17 @@ pluginId: rosee
 
 # Info
 ## Description
-Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouillée le matin, ou bien en hiver desavoir s'il va falloir gratter le pare-brise. Pour fonctionner, on doit indiquer sélectionner un équipement de température, d'humidité et de pression (extérieures, bien-sûr…)
+Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouillée le matin, ou bien en hiver de savoir s'il va falloir gratter le pare-brise. Pour fonctionner, on doit indiquer sélectionner un équipement de température, d'humidité et de pression (extérieures, bien-sûr…)
 
 [Documentation]({{site.baseurl}}/plugin-rosee/{{page.lang}})
 
 ## Important
 >***Pour rappel*** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
+
+# Version 20200525
+- Correction Bug Recréation des commandes
+- Fin clean suite à déplacement de la documentation
+- Amélioration code (gestion affichage de paramètres suivant le mode de calcul)
 
 # Version 20200512
 - Déplacement documentation
@@ -21,7 +26,7 @@ Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouill
 - Modification widget pour la tendance
 
 # Version 20200430
-- Correction ajout widget core par défaut sur les nouveaux équipements
+- Correction ajout widget Core par défaut sur les nouveaux équipements
 
 # Version 20200418
 - Ajout calcul "Tendance Météo"
@@ -30,8 +35,8 @@ Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouill
 - Corrections bug sur le choix d'équipement obligatoire
 - Ajout Cron 10/15/Heures
 - Remplacement Cron5 par Cron30 (les calculs se feront par défaut toutes les 30 minutes)
->**Info : Penser à vérifier que le cron 30 est actif si non il faut l'activer**
-- Ajout widget core pour les commandes (uniquement pour les nouveaux équipements)
+>**Info : Penser à vérifier que le Cron 30 est actif sinon il faut l'activer**
+- Ajout widget Core pour les commandes (uniquement pour les nouveaux équipements)
 - Ajout widget pour la tendance (uniquement pour le Core V4 et les nouveaux équipements)
 
 # Version 20200409
@@ -68,9 +73,9 @@ Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouill
     >- CAS N°3 : Message =  *Givre, Présence de givre*, Alerte givre = *1*, Message numérique = *3*
 - Changement du logo du plugin merci @mich0111
 - Correction type de générique
-- Posibilité d'enregistrer l'équipement sans les champs obligatoires si l'équipement n'est pas actif
+- Possibilité d'enregistrer l'équipement sans les champs obligatoires si l'équipement n'est pas actif
 - Modification affichage des commandes
-    >- Ajout la posibilité d'inverser les commandes binaires
+    >- Ajout la possibilité d'inverser les commandes binaires
     >- Suppression de l'historique sur les commandes messages
 - Ajout des nouvelles commandes en automatique sans recréer les commandes (Merci à Kiboost et à Mips)
 - Modification du type de données pour les seuils => Uniquement numérique
@@ -90,13 +95,13 @@ Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouill
 - Correction Bug
 
 # Version 3.2
-- Ajout d’un cron 30 (Merci à kiboost)
+- Ajout d’un Cron 30 (Merci à kiboost)
 - Amélioration de l'affichage pour le Core V4 (Merci à kiboost)
 - Possibilité de renommer les commandes (Merci à kiboost)
 - Correction des historiques (Merci à kiboost)
 - Commande Refresh (sur la tuile, scénario etc) (Merci à kiboost)
 - Amélioration des logs
-- Correction type de generic
+- Correction type de Generic
 - Correction Bug : l'actualisation des données ne se fait plus si l'équipement est désactivé
 - Les alertes sont visible par défaut (plus de masquage si l'alerte est à 0)
 - Nettoyage des dossiers (Merci à kiboost)
@@ -113,7 +118,7 @@ Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouill
 - Migration affichage au format core V4
 
 # Version 2.1
-- Correction affichage point de rosée et givre defaillants
+- Correction affichage point de rosée et givres défaillants
 
 # Version 2.0
 - Mise à jour pour compatibilité V3 Jeedom
@@ -138,7 +143,7 @@ Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouill
 - Ajout d’une alerte point de rosée et d’une alerte point de givrage
 
 # Version 1.2
-- Selection de la temperature et de l’humidité (possibles par un bouton de recherche) (merci Lunarok)
+- Sélection de la température et de l’humidité (possibles par un bouton de recherche) (merci Lunarok)
 
 # Version 1.1
 - Ajout du point de givre
