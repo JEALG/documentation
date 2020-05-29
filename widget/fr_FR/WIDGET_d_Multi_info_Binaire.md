@@ -23,14 +23,13 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 **Dans le cas de l'utilisation avec le nom de l'image normalisé**
 
 > * <b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(pas de valeur par défaut)</i>
-    *   **Attention avec cette variable**, il ne faut mettre ***_off*** ou ***_on*** à la fin du nom de l'image
+    * <b>Attention avec cette variable</b>, il ne faut mettre ***_off*** ou ***_on*** à la fin du nom de l'image
     *  <b>l'utilisation de cette méthode désactive les variables <i>logoON</i> et <i>logoOFF</i></b>
 > * <b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)
 > * Le nommage des images normalisées doit respecter le format suivant :
     * <b>Image pour la valeur ON</b> : type_on
     * <b>Image pour la valeur OFF</b> : type_off
     * <i>Remplacer <b>type</b> par le nom de l'image</i>
-    * <i>à renseigner dans la variable logo <b>type</b
 
 **Dans le cas de l'utilisation avec le nom de l'image non normalisé**
 > * <b>Logo pour la commande ON</b>
@@ -39,7 +38,6 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 > * <b>Logo pour la commande OF</b>
     * <b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : fi_bu_on)</i>
     * <b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
-
 
 ## Sous dossier
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
