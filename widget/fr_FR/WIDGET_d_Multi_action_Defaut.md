@@ -23,6 +23,9 @@ Dans le cas de l'utilisation avec le nom de l'image normalisé
 <blockquote>
     <ul>
         <li><b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(pas de valeur par défaut)</i></li>
+        <ul>
+            <li>**Attention avec cette variable**, il ne faut mettre ***_off*** ou ***_on*** à la fin du nom de l'image</li>
+        </ul>
         <li><b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)</i></li>
         <li>Le nommage des images normalisées doit respecter le format suivant :</li>
         <ul>
