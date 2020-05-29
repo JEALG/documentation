@@ -35,7 +35,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 > * <b>Logo pour la commande ON</b>
     * <b>logoON</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : fi_wh_off")</i>
     * <b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
-> * <b>Logo pour la commande OF</b>
+> * <b>Logo pour la commande OFF</b>
     * <b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : fi_bu_on)</i>
     * <b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
 
@@ -50,17 +50,12 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 
 ## Taille des images ou des icônes
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
-<blockquote>
-    <ul>
-        <li><b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
-        <ul>
-            <li><i>Pourcentage = NO</i> la taille sera en "px"</li>
-            <li><i>Pourcentage = YES</i> la taille sera en "%"</li>
-        </ul>
-        <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
-        <li><b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i></li>
-    </ul>
-</blockquote>
+
+>* <b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i>
+    * <i>Pourcentage = NO</i> la taille sera en "px"
+    * <i>Pourcentage = YES</i> la taille sera en "%"
+>* <b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i>
+>* <b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i>
 
 ## Autres paramétrages possible et Aide
 <blockquote>
