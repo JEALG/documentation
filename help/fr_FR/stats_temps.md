@@ -4,6 +4,7 @@ lang: fr_FR
 title: Affichage des informations de durée
 description: explication Affichage des informations de durée
 ---
+
 [back](./)
 
 Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF) sur les widgets de type info et sur le widget Multi-action.
@@ -14,6 +15,7 @@ il suffit d'ajouter un paramètre optionnel
 # Nom de la Variable
 
 Il est possible d'afficher les informations de temps depuis le dernier allumage/extinction (ON/OFF).
+
 <CENTER>
     <TABLE width="60%">
         <TR>

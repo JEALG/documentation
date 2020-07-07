@@ -4,9 +4,11 @@ lang: fr_FR
 title: Ajouter des images
 description: Ajouter des images - Core V3
 ---
+
 [back](./)
 
 Il est possible d'ajouter des images dans un widget <i>Celle-ci ne sera pas effacer à la mise à jour du widget</i>
+
 <blockquote>
     <ul>
         <li>Il faut se rendre dans le plugin Widget et sélectionner le widget voulu et cliquer sur <i><b>Fichiers</b></i></li>

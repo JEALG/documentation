@@ -4,12 +4,15 @@ lang: fr_FR
 title: Paramétrage image défaut Widget
 description: Paramétrage image défaut Widget
 ---
+
 [back](./)
 
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
 
 # Paramétrage pour le "Dashboard"
+
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
+
 <blockquote>
     <ul>
         <li><b>logoER</b> : Permet de choisir l'image pour la valeur ETAT en cas de problème <i>(valeur par défaut en général : oups)</i></li>
@@ -18,7 +21,9 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
 </blockquote>
 
 # Paramétrage pour le "Mobile"
+
 En cas de défaut de valeur sur un widget de type info (binaire - Numérique), le widget affichage un icône d'erreur, il est possible de paramétrer celui-ci
+
 <blockquote>
     <ul>
         <li><b>logoER-M</b> : Permet de choisir l'image pour la valeur ETAT en cas de problème <i>(valeur par défaut en général : er_oups1)</i></li>
@@ -31,7 +36,9 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
 <p><img src="{{site.baseurl}}/{{site.widget}}/{{site.img}}/visuel/error.png" alt="Error" /></p>
 
 # Cas Particulier
+
 Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'erreur
+
 <ul>
     <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Icon_Mode">Widget Dashboard : <b>Icon_Mode</b></a></li>
     <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_m_Icon_Mode">Widget Mobile : <b>Icon_Mode (mobile)</b></a></li>
@@ -46,12 +53,14 @@ Pour les widgets suivants, il est possible d'indiquer le dossier de l'image d'er
 </blockquote>
 
 # Cas Particulier pour les widgets Multi_info-Binaire
+
 <ul>
     <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Multi_info_Binaire">Widget Dashboard : <b>Multi info - Binaire</b></a></li>
     <li><a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_m_Multi_info_Binaire">Widget Mobile : <b>Multi info - Binaire (mobile)</b></a></li>
 </ul>
 
 Petit rappel : la variable ci-dessous permet de récupérer ou pas les même infos que le Dashboard
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> = <i>YES (valeur par défaut)</i> : Image identique au Dashboard</li>
@@ -60,6 +69,7 @@ Petit rappel : la variable ci-dessous permet de récupérer ou pas les même inf
 </blockquote>
 
 Paramétrage image Erreur : Il est possible d'appliquer la même image que pour la valeur ON ou OFF
+
 <blockquote>
     <ul>
         <li><b>para_ER</b> = <i>logoON</i> : l'image d'erreur sera identique que pour la valeur ON</li>

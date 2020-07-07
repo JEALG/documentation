@@ -4,14 +4,18 @@ lang: fr_FR
 title: Installation Manuelle des widgets
 description: Installation Manuelle des widgets pour le Core V4
 ---
+
 [back](./)
+
 # Info
+
 <blockquote>
 Comme vous le savez le market widget disparu. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour.
 Voici une méthode vous permettant d'installer et de faire les mises à jour.
 </blockquote>
 
 # A Savoir
+
 <blockquote>
     Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 <br/>
@@ -19,12 +23,14 @@ Un script sera disponible dans quelques jours pour installer les mises à jour p
 </blockquote>
 
 # Récupérer les sources
+
 Les sources sont disponible sur mon Github
 <a href="https://github.com/JEALG"> JAG Github</a><br/>
 Choisir le widget voulu
 <br/>
 voici un exemple pour récupérer les sources
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut">JEEDOM-Multi_action-Defaut</a>
+
 <p><img src="../{{site.img}}/Github_branche_1.png" alt="Choix Branche" width="500"/></p>
 Sélectionner la branche voulue :
 <blockquote>
@@ -38,7 +44,9 @@ Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
 <p><img src="../{{site.img}}/Github_branche_2.png" alt="Download" width="500"/></p>
 
 # Plugin nécessaire "jeexplorer"
+
 Il faut installer le plugin Jeexplorer
+
 > Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présents dans le répertoire racine de Jeedom.
 
 > Attention donc aux mauvaises manipulations qui pourraient rendre votre Jeedom complètement inopérant !
@@ -49,11 +57,13 @@ Il faut installer le plugin Jeexplorer
 </ul>
 
 # Installation ou Mise à jour
+
 Dézipper le fichier télécharger du widget voulu
 <br/>
 Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/Jeexplorer</i>
 <br/>
 Se rendre dans le dossier correspondant au type de widget
+
 <ul>
   <b>L'ensemble des fichiers sont à copier dans les dossiers suivant Pour le Core V4 :</b>
     <blockquote>

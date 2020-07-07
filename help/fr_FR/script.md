@@ -4,7 +4,9 @@ lang: fr_FR
 title: Script de mise à jour
 description: Script
 ---
+
 [back](./)
+
 # Prérequis
 
 > Pour utiliser ce script, il faut d'abord installer en ssh
@@ -14,12 +16,13 @@ description: Script
 </code></pre>
 
 # Script Pour le core V3
+
 ## Script Update dossier Image
 
 Ce script va copier les images dans le bon dossier du plugin Widget
 
-> * Script update image Widget Master Core V3 JAG
-> * Mise à jour du script : 20200419
+> - Script update image Widget Master Core V3 JAG
+> - Mise à jour du script : 20200419
 
 <pre><code>
     cd /var/www/html/plugins/{{site.widget}}/core/template/dashboard/
@@ -29,10 +32,14 @@ Ce script va copier les images dans le bon dossier du plugin Widget
 </code></pre>
 
 ## Script pour récupérer les widgets
+
 Ce script va copier l'ensemble de mes widgets
+
 ### Les widgets pour le Dashboard
-> * Script update code Widget Master Core V3 JAG
-> * Mise à jour du script : 20200419
+
+> - Script update code Widget Master Core V3 JAG
+> - Mise à jour du script : 20200419
+
 <pre><code>
     wget https://raw.githubusercontent.com/JEALG/JEEDOM-Barometre/master/cmd.info.numeric.Barometre.html -O /var/www/html/plugins/{{site.widget}}/core/template/dashboard/cmd.info.numeric.Barometre.html
     wget https://raw.githubusercontent.com/JEALG/JEEDOM-Batterie-EeDomus/master/cmd.info.numeric.Batterie-EeDomus.html -O /var/www/html/plugins/{{site.widget}}/core/template/dashboard/cmd.info.numeric.Batterie-EeDomus.html
@@ -56,12 +63,13 @@ Ce script va copier l'ensemble de mes widgets
 </code></pre>
 
 # Script Pour le core V4
+
 ## Script Update dossier Image
 
 Ce script va copier les images dans le bon dossier du plugin Widget
 
-> * Script update image Widget Master Core V4 JAG
-> * Mise à jour du script : 20200419
+> - Script update image Widget Master Core V4 JAG
+> - Mise à jour du script : 20200419
 
 <pre><code>
     cd /var/www/html/data/customTemplates/dashboard/

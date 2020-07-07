@@ -4,9 +4,11 @@ lang: fr_FR
 title: Exemples de paramétrages Widget Fênetre
 description: explication Paramétrage Fenêtre
 ---
+
 [back](./)
 
 Voici un exemple de configuration
+
 <blockquote>
         <li><b>Ma config</b> : 1 baie avec 2 capteurs</li>
 </blockquote>
@@ -14,6 +16,7 @@ Voici un exemple de configuration
 # Paramétrage Virtuel
 
 Tout d'abord j'ai créé un virtuel avec comme configs:
+
 <blockquote>
     <ul>
         <li>Avec une <i>info virtuelle</i> avec le nom <i>Fenêtre</i> : Cette info aura juste la fonction d'affichage</li>
@@ -97,6 +100,7 @@ et j'ai configuré l'etat <b>Fenêtres</b>
 </blockquote>
 
 # Paramétrage Scénario
+
 <blockquote>
 Ensuite j'ai créer un scénario avec le paramétrage suivant
 </blockquote>

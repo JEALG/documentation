@@ -15,12 +15,15 @@
     <div class="navbar-fixed hide-on-print">
         <nav>
             <div class="nav-wrapper container">
-                <a id="logo-container" href="{{site.doc}}" target="_blank" class="brand-logo center"><img src="{{site.baseurl}}/images/logo.png" style="height:50px;margin-top:5px"></a>
+                <a id="logo-container" href="{{site.doc}}" target="_blank" class="brand-logo center"><img
+                        src="{{site.baseurl}}/images/logo.png" style="height:50px;margin-top:5px"></a>
                 <ul class="left hide-on-med-and-down">
                     <li><a href="{{site.baseurl}}">Documentations - JAG</a></li>
                     <li>{{page.title}}</li>
                 </ul>
-                <a href="{{site.doc}}" target="_blank" data-activates="nav-mobile" class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i class="material-icons">menu</i></a>
+                <a href="{{site.doc}}" target="_blank" data-activates="nav-mobile"
+                    class="button-collapse btn-floating btn-large waves-effect waves-light jeedomcolorbg"><i
+                        class="material-icons">menu</i></a>
                 <ul class="right hide-on-med-and-down">
                     <li><a href="https://www.jeedom.com" target="_blank">Site</a></li>
                     <li><a href="{{site.blog}}" target="_blank">Blog</a></li>
@@ -48,7 +51,10 @@
                     <div class="col s10">
                         <select class="sel_lang">
                             {% for lang in site.langs %}
-                            <option data-href="index{% if lang != "fr_FR" %}-{{ lang }}{% endif %}.html" value="{{ lang }}">{% if lang == "fr_FR" %}Français{% endif %}{% if lang == "en_US" %}English{% endif %}{% if lang == "ru_RU" %}Russe{% endif %}{% if lang == "de_DE" %}Deutsch{% endif %}{% if lang == "es_ES" %}Spanish{% endif %}{% if lang == "it_IT" %}Italien{% endif %}{% if lang == "id_ID" %}Indien{% endif %}</option>
+                            <option data-href="index{% if lang != "fr_FR" %}-{{ lang }}{% endif %}.html"
+                                value="{{ lang }}">
+                                {% if lang == "fr_FR" %}Français{% endif %}{% if lang == "en_US" %}English{% endif %}{% if lang == "ru_RU" %}Russe{% endif %}{% if lang == "de_DE" %}Deutsch{% endif %}{% if lang == "es_ES" %}Spanish{% endif %}{% if lang == "it_IT" %}Italien{% endif %}{% if lang == "id_ID" %}Indien{% endif %}
+                            </option>
                             {% endfor %}
                         </select>
                     </div>
@@ -58,7 +64,8 @@
             <div id="div_summary" style="margin-top:-45px;padding-bottom: 45px;"></div>
         </div>
         <div>
-            <i class="material-icons hide-on-print" id="bt_up" style="position:fixed;bottom:10px;right:10px;cursor: pointer;font-size:3em;">keyboard_arrow_up</i>
+            <i class="material-icons hide-on-print" id="bt_up"
+                style="position:fixed;bottom:10px;right:10px;cursor: pointer;font-size:3em;">keyboard_arrow_up</i>
             <div class="hide-on-large-only hide-on-print" id='div_menuMobile'>
                 <div class="row">
                     <div class="col s2">
@@ -68,7 +75,9 @@
                         <select class="sel_lang">
                             {% if site.langs.size >= 2 %}
                             {% for lang in site.langs %}
-                            <option value="{{ lang }}">{% if lang == "fr_FR" %}Français{% endif %}{% if lang == "en_US" %}English{% endif %}{% if lang == "ru_RU" %}Russe{% endif %}{% if lang == "de_DE" %}Deutsch{% endif %}{% if lang == "es_ES" %}Spanish{% endif %}{% if lang == "it_IT" %}Italien{% endif %}{% if lang == "id_ID" %}Indien{% endif %}</option>
+                            <option value="{{ lang }}">
+                                {% if lang == "fr_FR" %}Français{% endif %}{% if lang == "en_US" %}English{% endif %}{% if lang == "ru_RU" %}Russe{% endif %}{% if lang == "de_DE" %}Deutsch{% endif %}{% if lang == "es_ES" %}Spanish{% endif %}{% if lang == "it_IT" %}Italien{% endif %}{% if lang == "id_ID" %}Indien{% endif %}
+                            </option>
                             {% endfor %}
                             {% endif %}
                         </select>
@@ -87,13 +96,15 @@
     <script type="text/javascript" src="{{site.baseurl}}/assets/js/jquery.inview.min.js"></script>
     <script type="text/javascript" src="{{site.baseurl}}/assets/js/jquery.toc.js"></script>
     <script type="text/javascript">
-        $(document).ready(function() {
+        $(document).ready(function () {
             var title = '{{page.title}}';
             $('#doc_title').append(title)
             document.title = 'Documentations JAG | ' + title[0].toUpperCase() + title.substring(1)
             $(".button-collapse").sideNav();
             $('meta[name=description]').remove();
-            $('head').append('<meta name="description" content="Ceci est la documentation des plugins et des widgets"' + title[0].toUpperCase() + title.substring(1) + '", lié à la solution domotique Jeedom.">');
+            $('head').append(
+                '<meta name="description" content="Ceci est la documentation des plugins et des widgets"' +
+                title[0].toUpperCase() + title.substring(1) + '", lié à la solution domotique Jeedom.">');
             $('img').addClass('responsive-img');
             $('#div_content table').addClass('striped');
             init();
@@ -103,22 +114,23 @@
                 $('.sel_lang').val(corresp[1])
             }
             $('select').material_select();
-            $('.sel_lang').on('change', function() {
+            $('.sel_lang').on('change', function () {
                 var regex = /\/([a-z]{2}_[A-Z]{2})\//g;
                 var corresp = regex.exec(window.location.href);
-                var url = window.location.href.replace(corresp[1], $(this).find('option:selected').attr('value'));
+                var url = window.location.href.replace(corresp[1], $(this).find('option:selected').attr(
+                    'value'));
                 if (url.endsWith('/')) {
                     url += 'index';
                 }
                 window.location.href = url;
             })
-            $('#bt_up').on('click', function() {
+            $('#bt_up').on('click', function () {
                 window.scrollTo(0, 0);
             })
-            $(window).on("orientationchange", function(event) {
+            $(window).on("orientationchange", function (event) {
                 init();
             });
-            $(window).on("resize", function(event) {
+            $(window).on("resize", function (event) {
                 init();
             });
 
@@ -142,14 +154,17 @@
                     renderIn: "#div_summary3",
                     selectors: 'h1,h2'
                 });
-                $('#div_summary #toctitle').html('<h2 style="padding-left:5px !important;">' + titlePlugin + '</h2>');
-                $('#div_summary2 #toctitle').html('<h2 style="padding-left:5px !important;">' + titlePlugin + '</h2>');
-                $('#div_summary3 #toctitle').html('<h2 style="padding-left:5px !important;">' + titlePlugin + '</h2>');
+                $('#div_summary #toctitle').html('<h2 style="padding-left:5px !important;">' + titlePlugin +
+                    '</h2>');
+                $('#div_summary2 #toctitle').html('<h2 style="padding-left:5px !important;">' + titlePlugin +
+                    '</h2>');
+                $('#div_summary3 #toctitle').html('<h2 style="padding-left:5px !important;">' + titlePlugin +
+                    '</h2>');
                 $('.toclevel-2').parent().css('color', 'blue');
             }
             var i = 1,
                 j = 1;
-            $('h1, h2', $('#div_content')).each(function() {
+            $('h1, h2', $('#div_content')).each(function () {
                 if ($(this)[0].tagName.toLowerCase() == 'h1') {
                     $('#' + $(this).attr('id')).text(i + ') ' + $(this).text());
                     i++;
@@ -166,7 +181,7 @@
         var idChapitre = null,
             nbrChapitre = 0,
             idAncre = null;
-        $('#div_content h1, #div_content h2').on('inview', function(event, isInView) {
+        $('#div_content h1, #div_content h2').on('inview', function (event, isInView) {
             nbrChapitre = $('a.active').length;
             idAncre = $(this).attr('id');
             if (isInView) {
@@ -182,7 +197,6 @@
             }
             $('#div_summary3 a').removeClass('active');
         });
-
     </script>
 </body>
 

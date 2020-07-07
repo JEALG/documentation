@@ -4,7 +4,9 @@ lang: fr_FR
 title: Modification size Texte
 description: explication Modification size Texte
 ---
+
 [back](./)
+
 # Info importante
 
 <blockquote>
@@ -30,6 +32,7 @@ description: explication Modification size Texte
 </blockquote>
 
 # Exemple
+
 <CENTER>
     <TABLE width="60%">
         <TR>
@@ -47,7 +50,6 @@ description: explication Modification size Texte
     </TABLE>
 </CENTER>
 <p><img src="../{{site.img}}/config_size_3.png" alt="Size réglage" width="800"/></p>
-
 
 <hr />
 [back](./)
