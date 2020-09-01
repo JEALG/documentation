@@ -79,7 +79,7 @@ Les valeurs pour la variable <b>valeur_x</b>par défaut sont :
 
 ## Taille des images ou des icônes
 
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
 
 <blockquote>
     <ul>
@@ -100,7 +100,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
-# Exemples de paramétrage
+# Exemples de paramétrages
 
 <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/para_windows">Exemple de paramétrages</a></li>
 
