@@ -49,7 +49,7 @@ Tout d'abord j'ai créé un virtuel avec comme configs:
             </ul>
         </li>
         <img src="../{{site.img}}/config_windows_5.png" alt="Visuels" />
-        <li>Avec une <i>info virtuelle</i> avec le nom <i>ETAT</i> : Cette info sera créer automatiquement lors de la création des commandes, elle servira pour l'ensemble de mes scénarios</li>
+        <li>Avec une <i>info virtuelle</i> avec le nom <i>ETAT</i> : Cette info sera créée automatiquement lors de la création des commandes, elle servira pour l'ensemble de mes scénarios</li>
         <img src="../{{site.img}}/config_windows_etat.png" alt="Visuels" />
     </ul>
 </blockquote>
@@ -102,7 +102,7 @@ et j'ai configuré l'etat <b>Fenêtres</b>
 # Paramétrage Scénario
 
 <blockquote>
-Ensuite j'ai créer un scénario avec le paramétrage suivant
+Ensuite j'ai créé un scénario avec le paramétrage suivant
 </blockquote>
 <p><img src="../{{site.img}}/config_windows_3.png" alt="Visuels" width="500" /></p>
 <p><img src="../{{site.img}}/config_windows_4.png" alt="Visuels" width="500" /></p>
