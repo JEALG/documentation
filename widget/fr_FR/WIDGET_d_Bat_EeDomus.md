@@ -21,7 +21,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 ## Choix de l'icône
 
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivants :
 
 <blockquote>
     <ul>
@@ -34,7 +34,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 
 ## Taille de l'image
 
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
 
 <blockquote>
     <ul>
