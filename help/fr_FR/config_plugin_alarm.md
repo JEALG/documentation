@@ -23,7 +23,7 @@ Le paramétrage va se faire en plusieurs étapes
 
 # Widgets nécessaires
 
-Pour faire cet affichage il est nécessaire d'avoir :
+Pour faire cet affichage, il est nécessaire d'avoir :
 
 > Dans chaque widget, vous avez un lien pour télécharger les sources
 
