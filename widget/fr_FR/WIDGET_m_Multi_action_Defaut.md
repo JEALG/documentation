@@ -11,7 +11,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 <p><img src="../{{site.img}}/exemple/m/multi_action.png" alt="Resultat" /></p>
 <blockquote>
-    Le widget inclus plusieurs icônes dans des sous dossiers
+    Le widget inclut plusieurs icônes dans des sous dossiers
 </blockquote>
 
 # A savoir
@@ -22,7 +22,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 ## Choix de l'icône
 
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivants :
 Il est possible de récupérer le même réglage que le dashboard
 
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
@@ -72,7 +72,7 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 
 ## Taille des images ou des icônes
 
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
 
 <blockquote>
     <ul>
