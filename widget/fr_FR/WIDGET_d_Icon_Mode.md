@@ -74,7 +74,7 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 
 ## Taille des images ou des icônes
 
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
 
 <blockquote>
     <ul>
@@ -126,8 +126,7 @@ Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.P
 
 # Télécharger les sources
 
-> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-> <br/>
+> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a> > <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
