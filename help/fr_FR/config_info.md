@@ -29,7 +29,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
   - Historiser : Permet d'historiser l'équipement (En option suivant les besoins)
 
 - <b>En bleue</b> : Options
-  - roue cranté permet de choisir le type de widget et les options
+  - roue crantée permet de choisir le type de widget et les options
 
 ## Exemple de paramétrage
 
