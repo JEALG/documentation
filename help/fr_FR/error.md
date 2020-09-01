@@ -31,7 +31,7 @@ En cas de défaut de valeur sur un widget de type info (binaire - Numérique), l
     </ul>
 </blockquote>
 
-# Liste des images possible
+# Liste des images possibles
 
 <p><img src="{{site.baseurl}}/{{site.widget}}/{{site.img}}/visuel/error.png" alt="Error" /></p>
 
