@@ -8,10 +8,13 @@ description: explication Widget "Icon_Mode"
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>Info Texte</b>
+
 <p><img src="../{{site.img}}/exemple/d/icone_mode.png" alt="Resultat" /></p>
 
 # Info
+
 ## Merci
+
 <blockquote>
     <ul>
         <li>Merci @Salviaf pour l'affichage de la durée</li>
@@ -21,11 +24,13 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>Info Text
 </blockquote>
 
 ## A Savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
+
 <hr />
 ## Valeur du mode
 Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
@@ -44,7 +49,9 @@ Pour que le widget fonctionne dans le cas où les noms des commandes sont rempla
 </blockquote>
 
 ## Choix de l'icône
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels si le nom du mode ne correspond pas au nom de l'image :
+
 <blockquote>
     <ul>
         <li><b>logox</b> : Permet de choisir l'image pour la valeur pour le mode <i>(valeur par défaut : <b>Nom_MODE</b>)</i></li>
@@ -54,9 +61,10 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     </ul>
 </blockquote>
 
-
 ## Sous dossier
+
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
+
 <blockquote>
     <ul>
         <li><b>dossier</b> : Nom du dossier (Par défaut : Chauffage)</li>
@@ -65,7 +73,9 @@ Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable 
 </blockquote>
 
 ## Taille des images ou des icônes
+
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
@@ -78,7 +88,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
-## Autres paramétrages possible
+## Autres paramétrages possibles et Aide
+
 <blockquote>
         <ul>
             <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -91,6 +102,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 # Exemple Paramétrage d'un mode
+
 <p><img src="./../{{site.img}}/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
 <hr />
 ## Exemple 1
@@ -113,8 +125,9 @@ Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.P
 </blockquote>
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-<br/>
+
+> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+> <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

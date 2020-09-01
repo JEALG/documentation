@@ -4,9 +4,11 @@ lang: fr_FR
 title: Widget "VoyantMulticouleur (mobile)"
 description: explication Bouton en forme de voyant Multi couleur (mobile)
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Action</b>
+
 <p><img src="../{{site.img}}/exemple/m/voyant_multicouleur.png" alt="Resultat" /></p>
 <blockquote>
 Les visu à utiliser sont :
@@ -18,12 +20,14 @@ Les visu à utiliser sont :
 
 > <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 
-
 # Paramétrage
+
 ## Choix de la couleur
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard <br/>
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -34,6 +38,7 @@ Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</
 </blockquote>
 
 Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -44,10 +49,12 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 </blockquote>
 
 ## Choix de la forme
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
 
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -57,8 +64,8 @@ Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</
     </ul>
 </blockquote>
 
-
 Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -69,9 +76,11 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 </blockquote>
 
 ## Choix de l'extension
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :<br/>
 Il est possible de récupérer le même réglage que le dashboard<br/>
 Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -81,6 +90,7 @@ Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES<
 </blockquote>
 
 Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO</i></b>
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -89,7 +99,8 @@ Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO
     </ul>
 </blockquote>
 
-## Autres paramétrages possible et Aide
+## Autres paramétrages possibles et Aide
+
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -99,8 +110,9 @@ Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO
 </blockquote>
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-<br/>
+
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+> <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

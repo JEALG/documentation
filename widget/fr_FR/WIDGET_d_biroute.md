@@ -4,22 +4,27 @@ lang: fr_FR
 title: Widget "Biroute - vent"
 description: explication widget Biroute - vent
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
+
 <p><img src="../{{site.img}}/exemple/d/biroute.png" alt="Resultat" /></p>
 
 <p><img src="../{{site.img}}/visuel/vent.png" alt="Visuels" /></p>
 
 # A savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
+
 ## Choix de l'icône
 
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>logo</b> : Permet de choisir l'image pour la valeur<i>(valeur par défaut : ve_manche2)</i></li>
@@ -28,6 +33,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 
 <b>Attention</b>
+
 <blockquote>
     <ul>
         <li>L'image change en fonction de la vitesse du vent, il ne faut pas mettre _xx dans le paramètre logo</li>
@@ -40,8 +46,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 
 ## Taille des images ou des icônes
 
-
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
@@ -50,8 +56,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 ## Ajout d'image
+
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
+
 <blockquote>
     <ul>
         <li><b>Image</b> : type_xx</li>
@@ -63,7 +71,8 @@ Le nommage des images est normalisé et doit respecter le format suivant :
     </ul>
 </blockquote>
 
-## Autres paramétrages possible et Aide
+## Autres paramétrages possibles et Aide
+
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -76,7 +85,8 @@ Le nommage des images est normalisé et doit respecter le format suivant :
 </blockquote>
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+
+> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Biroute_vent/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Biroute_vent/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

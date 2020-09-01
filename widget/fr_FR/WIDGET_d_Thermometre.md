@@ -4,18 +4,23 @@ lang: fr_FR
 title: Widget "Temperature thermometre"
 description: explication widget Temperature thermometre
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
+
 <p><img src="../{{site.img}}/exemple/d/temperature.png" alt="Resultat" /></p>
 
 # A savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
+
 ## Affichage de l'historique ou min max sur la gauche
+
 <blockquote>
     <ul>
         <li><b>min_max</b> : Affiche par défaut le min et max configurer dans l'équipement <i>(valeur par défaut : X)</i></li>
@@ -25,6 +30,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
 
 ## Taille du texte
+
 <blockquote>
     <ul>
         Il est possible sur ce widget de modifier la taille du texte, cette fonction ne fonctionne qu'avec le Core V3
@@ -32,8 +38,8 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     </ul>
 </blockquote>
 
+## Autres paramétrages possibles et Aide
 
-## Autres paramétrages possible et Aide
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -44,10 +50,10 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     </ul>
 </blockquote>
 
-
 # Télécharger les sources
-><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-<br/>
+
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+> <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Thermometre/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

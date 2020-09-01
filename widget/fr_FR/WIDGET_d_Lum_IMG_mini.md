@@ -4,20 +4,26 @@ lang: fr_FR
 title: Widget "Luminosité-IMG-Mini"
 description: Widget Luminosité-IMG-Mini
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
+
 <p><img src="../{{site.img}}/exemple/d/lumi.png" alt="Resultat" /></p>
 
 # A savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 <b>Ce widget remplace ces widgets : </b><a href="{{site.baseurl}}/{{site.archive}}/{{page.lang}}/WIDGET_d_Lum_IMG_mini">Archive Luminosité-IMG-Mini</a>
 </blockquote>
 
 # Paramétrage
+
 ## Taille des images ou des icônes
+
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
@@ -31,7 +37,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 ## Choix de l'icône
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>logo_level1</b> : Permet de choisir l'image pour la valeur  pour le niveau 1 <i>(valeur par défaut : moon)</i></li>
@@ -44,7 +52,9 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 
 ## Niveau
+
 Il est possible de modifier les niveaux
+
 <blockquote>
     <ul>
         <li><b>level_1</b> : Niveau Bas (nuit) <i>(valeur par défaut : 20)</i></li>
@@ -83,7 +93,8 @@ Il est possible de déplacer la légende
     </TABLE>
 </CENTER>
 
-## Autres paramétrages possible et Aide
+## Autres paramétrages possibles et Aide
+
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -95,8 +106,9 @@ Il est possible de déplacer la légende
 </blockquote>
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-<br/>
+
+> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+> <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

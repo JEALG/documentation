@@ -4,21 +4,27 @@ lang: fr_FR
 title: Widget "Fenêtre (numérique) (mobile)"
 description: explication widget Fenêtre (numérique)
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
+
 <p><img src="../{{site.img}}/exemple/m/fenetre.png" alt="Resultat" /></p>
 
 <p><img src="../{{site.img}}/visuel/fenetre.png" alt="Visuels" /></p>
 
 # A savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
+
 ## Choix de l'icône
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>logo_<b>x</b></b> : Permet de choisir l'image pour la valeur <b>x</b></li>
@@ -28,6 +34,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 
 Les valeurs pour la variable <b>logo_x</b>par défaut sont :
+
 <blockquote>
     <ul>
         <li><b>logo_<b>0</b></b> : <i>valeur par défaut : ou_baie2_wh_db_off</i></li>
@@ -43,7 +50,9 @@ Les valeurs pour la variable <b>logo_x</b>par défaut sont :
 </blockquote>
 
 ## Choix de la valeur
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
@@ -53,6 +62,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 
 Les valeurs pour la variable <b>valeur_x</b>par défaut sont :
+
 <blockquote>
     <ul>
         <li><b>valeur_<b>0</b></b> : <i>valeur par défaut : 0</i></li>
@@ -67,9 +77,10 @@ Les valeurs pour la variable <b>valeur_x</b>par défaut sont :
     </ul>
 </blockquote>
 
-
 ## Taille des images ou des icônes
+
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>sizeh-M</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
@@ -77,7 +88,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
-## Autres paramétrages possible et Aide
+## Autres paramétrages possibles et Aide
+
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -89,6 +101,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 # Exemples de paramétrage
+
 <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/para_windows">Exemple de paramétrages</a></li>
 
 <hr />
@@ -100,6 +113,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
  <li><a href="https://github.com/JEALG/JEEDOM-Fenetre--mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
 
 # Changelog
+
 <a href="https://github.com/JEALG/JEEDOM-Fenetre--mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Fenetre--mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

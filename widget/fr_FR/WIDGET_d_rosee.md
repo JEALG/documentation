@@ -4,19 +4,25 @@ lang: fr_FR
 title: Widget "Point de rosée"
 description: explication widget Point de rosée
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
+
 <p><img src="../{{site.img}}/exemple/d/rosee.png" alt="Resultat" /></p>
 
 # A savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
+
 ## Taille des images ou des icônes
+
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i></li>
@@ -25,7 +31,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 ## Position Légende
+
 Il est possible de déplacer la légende
+
 <CENTER>
     <TABLE width="100%">
         <TR>
@@ -49,7 +57,8 @@ Il est possible de déplacer la légende
     </TABLE>
 </CENTER>
 
-## Autres paramétrages possible et Aide
+## Autres paramétrages possibles et Aide
+
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -76,6 +85,7 @@ Il est possible de déplacer la légende
 >* <a href="{{site.baseurl}}/help/{{page.lang}}/stats">Aide pour afficher les statistiques</a>
 
 # Changelog
+
 <a href="https://github.com/JEALG/JEEDOM-Point-rosee/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Point-rosee/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

@@ -4,17 +4,21 @@ lang: fr_FR
 title: Widget "Humidite-Goutte_eau (mobile)"
 description: explication widget Humidite-Goutte_eau
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
+
 <p><img src="../{{site.img}}/exemple/m/humidite_goutte_eau.png" alt="Resultat" /></p>
 
 # A savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
-# Autres paramétrages possible et Aide
+# Autres paramétrages possibles et Aide
+
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -25,10 +29,10 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
     </ul>
 </blockquote>
 
-
 # Télécharger les sources
-><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-<br/>
+
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+> <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau--Mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Humidite-Goutte_eau--Mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

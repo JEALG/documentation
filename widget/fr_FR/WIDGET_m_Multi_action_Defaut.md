@@ -4,6 +4,7 @@ lang: fr_FR
 title: Widget "Multi-action (mobile)"
 description: Explication widget Multi-action--mobile
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>action ON/OFF</b>
@@ -14,16 +15,18 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 </blockquote>
 
 # A savoir
-> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a><br/>
-> <b>Ce widget remplace ces widgets : </b><a href="{{site.baseurl}}/{{site.archive}}/{{page.lang}}/WIDGET_m_Multi_action_Defaut">Archive widget Multi-action</a>
 
+> <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a><br/> > <b>Ce widget remplace ces widgets : </b><a href="{{site.baseurl}}/{{site.archive}}/{{page.lang}}/WIDGET_m_Multi_action_Defaut">Archive widget Multi-action</a>
 
 # Paramétrage
+
 ## Choix de l'icône
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
 Il est possible de récupérer le même réglage que le dashboard
 
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -35,6 +38,7 @@ Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</
 </blockquote>
 
 Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
+
 <blockquote>
     <ul>
         <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
@@ -45,11 +49,12 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
     </ul>
 </blockquote>
 
-
 ## Sous dossier
+
 Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
+
 <blockquote>
     <ul>
         <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
@@ -58,6 +63,7 @@ Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</
 </blockquote>
 
 Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
+
 <blockquote>
     <ul>
         <li><b>dossier-M</b> : Nom du dossier (Par défaut : fibarooeil)</li>
@@ -65,7 +71,9 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 </blockquote>
 
 ## Taille des images ou des icônes
+
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
@@ -78,7 +86,8 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
-## Autres paramétrages possible et Aide
+## Autres paramétrages possibles et Aide
+
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -90,8 +99,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 ### Ajout d'image
+
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images n'est pas normalisé sur ce widget
+
 <blockquote>
     <ul>
         <li><a href=".{{site.baseurl}}/{{site.help}}/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
@@ -99,11 +110,13 @@ Le nommage des images n'est pas normalisé sur ce widget
 </blockquote>
 
 ## Exemple de paramétrage
->* <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/action">Aide pour le paramétrage des widgets de type action</a>
+
+> - <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/action">Aide pour le paramétrage des widgets de type action</a>
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-<br/>
+
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+> <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/master">Télécharger les sources pour la V3</a></li>

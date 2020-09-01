@@ -4,19 +4,25 @@ lang: fr_FR
 title: Widget "Store-VELUX (numérique)"
 description: explication widget Store-VELUX (numérique)
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
+
 <p><img src="../{{site.img}}/exemple/d/store_velux.png" alt="Resultat" /></p>
 
 # A savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
+
 ## Choix de l'icône
+
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>logo</b> : Permet de choisir l'imag e<i>(valeur par défaut : st_volet_pos)</i></li>
@@ -25,7 +31,9 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 
 ## Taille des images ou des icônes
+
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 90)</i></li>
@@ -34,7 +42,9 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 ## Masquer la valeur
+
 Il est possible de masquer la valeur de l'ouverture :
+
 <blockquote>
     <ul>
         <li><b>masque_valeur</b> : Permet de masquer la valeur <i>(valeur par défaut :NO)</i></li>
@@ -43,8 +53,10 @@ Il est possible de masquer la valeur de l'ouverture :
     </ul>
 </blockquote>
 
-## Paramétrage des Niveau
+## Paramétrage des Niveaux
+
 Il est possible de personnaliser les niveaux :
+
 <blockquote>
     <ul>
         <li><b>level_0</b> : Niveau 0 <i>(valeur par défaut : 0) </i></li>
@@ -61,7 +73,8 @@ Il est possible de personnaliser les niveaux :
     </ul>
 </blockquote>
 
-## Autres paramétrages possible et Aide
+## Autres paramétrages possibles et Aide
+
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -77,6 +90,7 @@ Il est possible de personnaliser les niveaux :
 
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
+
 <blockquote>
     <ul>
         <li><b>Image</b> : type-x</li>
@@ -104,10 +118,10 @@ Les images en fonction des niveaux
     <li><a href="{{site.baseurl}}/help/{{page.lang}}/add_img">Ajouter des images dans un widget</a></li>
 </blockquote>
 
-
 # Télécharger les sources
-><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-<br/>
+
+> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+> <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Store-Velux-num/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
