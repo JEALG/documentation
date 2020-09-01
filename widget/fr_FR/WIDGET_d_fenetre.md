@@ -115,7 +115,7 @@ Le nommage des images n'est pas normalisé sur ce widget
     </ul>
 </blockquote>
 
-# Exemples de paramétrage
+# Exemples de paramétrages
 
 <li><a href="{{site.baseurl}}/help/{{page.lang}}/para_windows">Exemple de paramétrages</a></li>
 
