@@ -24,7 +24,7 @@ Les visu à utiliser sont :
 
 ## Choix de la couleur
 
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivants :
 Il est possible de récupérer le même réglage que le dashboard <br/>
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 
@@ -50,7 +50,7 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 
 ## Choix de la forme
 
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivants :
 Il est possible de récupérer le même réglage que le dashboard
 
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
@@ -77,7 +77,7 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 
 ## Choix de l'extension
 
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :<br/>
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivants :<br/>
 Il est possible de récupérer le même réglage que le dashboard<br/>
 Cas Image identique avec le Dashboard avec la variable <b>"Dashboard-M = <i>YES</i></b>
 
