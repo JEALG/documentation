@@ -100,7 +100,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
-# Exemples de paramétrage
+# Exemples de paramétrages
 
 <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/para_windows">Exemple de paramétrages</a></li>
 
