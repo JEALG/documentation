@@ -4,25 +4,19 @@ lang: fr_FR
 title: Widget " Batterie-telldusBattery"
 description: explication widget Batterie-telldusBattery
 ---
-
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique </b>
-
 <p><img src="../{{site.img}}/exemple/d/bat_telldusbatter.png" alt="Resultat" /></p>
 
 # A savoir
-
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
-
 ## Choix de l'icône
-
-Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivant :
-
+Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivants :
 <blockquote>
     <ul>
         <li><b>logo</b> : Permet de choisir l'image pour la valeur<i>(valeur par défaut : battery_)</i></li>
@@ -31,9 +25,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 
 ## Taille de l'image
-
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
-
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
 <blockquote>
     <ul>
         <li><b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 65)</i></li>
@@ -42,9 +34,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 </blockquote>
 
 ## Paramétrage des Niveaux
-
 Il est possible de personnaliser les niveaux :
-
 <blockquote>
     <ul>
         <li><b>level_0</b>   : Niveau 0 <i>(valeur par défaut : 0)</i></li>
@@ -57,7 +47,6 @@ Il est possible de personnaliser les niveaux :
 </blockquote>
 
 ## Autres paramétrages possibles et Aide
-
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/help/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
@@ -69,11 +58,10 @@ Il est possible de personnaliser les niveaux :
     </ul>
 </blockquote>
 
-### Ajout d'image
 
+### Ajout d'image
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
 Le nommage des images est normalisé et doit respecter le format suivant :
-
 <blockquote>
     <ul>
         <li><b>Image pour la valeur pour le niveau</b> : battery_Niveau</li>
@@ -84,9 +72,9 @@ Le nommage des images est normalisé et doit respecter le format suivant :
     </ul>
 </blockquote>
 
-# Télécharger les sources
 
-> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+# Télécharger les sources
+><a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Batterie-telldusBattery/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
