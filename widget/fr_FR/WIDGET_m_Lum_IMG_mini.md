@@ -21,7 +21,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 ## Taille des images ou des icônes
 
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
 
 <blockquote>
     <ul>
@@ -45,7 +45,7 @@ Il est possible de modifier les niveaux
         <li><b>level_2</b> : Niveau Haut (jour) <i>(valeur par défaut : 100.0)</i></li>
     </ul>
 </blockquote>
-# Autres paramétrages possible et Aide
+# Autres paramétrages possibles et Aide
 <blockquote>
     <ul>
         <li><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/">Aide (Ensemble de la documentation)</a></li>
