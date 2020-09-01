@@ -24,7 +24,7 @@ Un script sera disponible dans quelques jours pour installer les mises à jour p
 
 # Récupérer les sources
 
-Les sources sont disponible sur mon Github
+Les sources sont disponibles sur mon Github
 <a href="https://github.com/JEALG"> JAG Github</a><br/>
 Choisir le widget voulu
 <br/>
@@ -43,9 +43,9 @@ Sélectionner la branche voulue :
 Cliquer sur <i>Clone or download</i> ensuite cliquer sur <i>Download ZIP</i>
 <p><img src="../{{site.img}}/Github_branche_2.png" alt="Download" width="500"/></p>
 
-# Plugin nécessaire "jeexplorer"
+# Plugin nécessaire "jeeXplorer"
 
-Il faut installer le plugin Jeexplorer
+Il faut installer le plugin JeeXplorer
 
 > Attention : Comme tout explorateur de fichiers, celui-ci vous permet d'accéder et d'éditer tous les fichiers présents dans le répertoire racine de Jeedom.
 
@@ -58,14 +58,14 @@ Il faut installer le plugin Jeexplorer
 
 # Installation ou Mise à jour
 
-Dézipper le fichier télécharger du widget voulu
+Dézipper le fichier téléchargé du widget voulu
 <br/>
-Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/Jeexplorer</i>
+Se rendre dans Jeedom et ouvrir le plugin <i>Organisation/jeeXplorer</i>
 <br/>
 Se rendre dans le dossier correspondant au type de widget
 
 <ul>
-  <b>L'ensemble des fichiers sont à copier dans les dossiers suivant Pour le Core V4 :</b>
+  <b>L'ensemble des fichiers sont à copier dans les dossiers suivants Pour le Core V4 :</b>
     <blockquote>
         <ul>
             <li>html/data/customTemplates/dashboard/</li>
@@ -75,7 +75,7 @@ Se rendre dans le dossier correspondant au type de widget
 </ul>
 
 <ul>
-  <b>L'ensemble des fichiers sont à copier dans les dossiers suivant Pour le Core V3 :</b>
+  <b>L'ensemble des fichiers sont à copier dans les dossiers suivants Pour le Core V3 :</b>
     <blockquote>
         <ul>
             <li>html/plugins/{{site.widget}}/core/template/dashboard/</li>
