@@ -22,13 +22,13 @@ Le plugin ne comporte pas de configuration générale, il faut :
     - Point de Rosée et Point de Givre
     - Tendance Météo
 
->- Renseigner les champs obligatoire suivant la méthode de calcul :
+>- Renseigner les champs obligatoires suivant la méthode de calcul :
     - Équipement "Température" (°C)
     - Équipement "Humidité Relative" (%)
-    - Équipement "Pression Atmosphérique" (hPa) : Ce champs est obligatoire pour la méthode de calcul "Tendance Météo" et il doit être avoir l'historique d'activé. Pour les autres calculs, la valeur est fixée à 1013.25 hPa si non renseignée
+    - Équipement "Pression Atmosphérique" (hPa) : Ce champ est obligatoire pour la méthode de calcul "Tendance Météo" et il doit avoir l'historique d'activé. Pour les autres calculs, la valeur est fixée à 1013.25 hPa si non renseignée.
 
 <b>En option</b>
-> - Seuil de l'Alerte Rosée (°C) : Seuil de déclenchement de l'alerte rosée, 2°C par défaut (dépression du point de rosée T°-Tr°) A ajuster en fonction des observations locales.
+> - Seuil de l'Alerte Rosée (°C) : Seuil de déclenchement de l'alerte rosée, 2°C par défaut (dépression du point de rosée T°-Tr°). A ajuster en fonction des observations locales.
 > - Seuil d'humidité absolue : Seuil humidité absolue en dessous duquel il est peu probable qu'il givre, 2.8 par défaut.
 > - Offset Température : A ajuster en fonction des observations locales et de la position de la sonde, 0 par défaut.
 
@@ -80,7 +80,7 @@ Le plugin affecte par défaut un widget sur la commande *Message numérique* (un
 
 -   Et le point de givrage ?
 
->Le point de givrage, connu également comme la température du point givrage ou le point de gelée, est une donnée météorologique calculée à partir de l'humidité, la pression et la température. Le point de givrage de l'air est la température à laquelle, tout en gardant inchangées les conditions barométriques courantes, l'air devient saturé de vapeur d'eau par rapport à la glace. Le point de givrage est donc l'équivalent du point de rosée pour la condensation de la vapeur d'eau directement en cristaux de glace et non en microgouttelettes. C'est le phénomène de déposition, qui survient lorsque le point de givre est atteint, qui créé la gelée blanche.
+>Le point de givrage, connu également comme la température du point de givrage ou le point de gelée, est une donnée météorologique calculée à partir de l'humidité, la pression et la température. Le point de givrage de l'air est la température à laquelle, tout en gardant inchangées les conditions barométriques courantes, l'air devient saturé de vapeur d'eau par rapport à la glace. Le point de givrage est donc l'équivalent du point de rosée pour la condensation de la vapeur d'eau directement en cristaux de glace et non en microgouttelettes. C'est le phénomène de déposition, qui survient lorsque le point de givre est atteint, qui crée la gelée blanche.
 >
 >Le point de givrage n'est donc défini que sous le point de congélation. Il coexiste avec le point de rosée à ces températures mais comme la pression de vapeur saturante par rapport à la glace est plus faible, le point de givrage est atteint plus rapidement. La capacité hygrométrique détermine les phénomènes de saturation, plus il fait froid, moins l'air peut contenir d'humidité (humidité absolue) et les deux se rejoignent à zéro degré Celsius.
 (Source Wikipédia)
@@ -124,12 +124,12 @@ Le plugin affecte par défaut un widget sur la commande *Message numérique* (un
 
 - Le point de givrage est égal 5°C
 
->La température dépasse 5°C donc le point de givrage n'est plus calculé et sa valeur est fixé à 5.
+>La température dépasse 5°C donc le point de givrage n'est plus calculé et sa valeur est fixée à 5.
 
 - Le calcul de la tendance ne se fait pas
 
 >Il faut attendre 4h pour avoir des résultats corrects lors de la création de l'équipement.
->L'équipement doit être avoir l'historique d'activé pour fonctionner.
+>L'équipement doit avoir l'historique d'activé pour fonctionner.
 
 ## Message d'erreur
 ### Le champs "Calcul" ne peut être vide
@@ -143,25 +143,25 @@ Le champ "Calcul" ne peut être vide
 ```
 Le champ "Température" ne peut être vide
 ```
->Il faut vérifier qu'un équipement soit sélectionner dans le champ avec la flèche bleue (voir image ci-dessous)<br/>
+>Il faut vérifier qu'un équipement soit sélectionné dans le champ avec la flèche bleue (voir image ci-dessous)<br/>
 
-### Le champs "Température" ne peut être vide
+### Le champ "Température" ne peut être vide
 ```
 Le champ "Température" ne peut être vide
 ```
->Il faut vérifier qu'un équipement soit sélectionner dans le champ avec la flèche bleue (voir image ci-dessous)<br/>
+>Il faut vérifier qu'un équipement soit sélectionné dans le champ avec la flèche bleue (voir image ci-dessous)<br/>
 
 ### Le champ "Humidité Relative" ne peut être vide
 ```
 Le champ "Humidité Relative" ne peut être vide
 ```
->Il faut vérifier qu'un équipement soit sélectionner dans le champ avec la flèche rouge (voir image ci-dessous)<br/>
+>Il faut vérifier qu'un équipement soit sélectionné dans le champ avec la flèche rouge (voir image ci-dessous)<br/>
 
 ### Le champ "Pression Atmosphérique" ne peut être vide
 ```
 Le champ "Pression Atmosphérique" ne peut être vide
 ```
->Il faut vérifier qu'un équipement soit sélectionner dans le champ avec la flèche orange (voir image ci-dessous). Cette erreur n'apparait uniquement si le champ **Type de Calcul** a la valeur ***Tendance Météo***<br/>
+>Il faut vérifier qu'un équipement soit sélectionné dans le champ avec la flèche orange (voir image ci-dessous). Cette erreur apparait uniquement si le champ **Type de Calcul** a la valeur ***Tendance Météo***<br/>
 
 ![Calcul Vide](../{{site.img}}/erreur_champ_vide.png)
 
