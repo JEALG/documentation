@@ -26,7 +26,7 @@ Les visu à utiliser sont :
 
 ## Choix de la couleur
 
-Pour choisir la couleur, il faut ajouter les paramètres optionnels suivant :
+Pour choisir la couleur, il faut ajouter les paramètres optionnels suivants :
 
 <blockquote>
     <ul>
@@ -38,7 +38,7 @@ Pour choisir la couleur, il faut ajouter les paramètres optionnels suivant :
 
 ## Choix de la forme
 
-Pour choisir la forme, il faut ajouter les paramètres optionnels suivant :
+Pour choisir la forme, il faut ajouter les paramètres optionnels suivants :
 
 <blockquote>
     <ul>
