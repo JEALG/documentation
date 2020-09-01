@@ -4,19 +4,25 @@ lang: fr_FR
 title: Widget "Luminosité-IMG-Mini (mobile)"
 description: explication widget Luminosité-IMG-Mini (mobile)
 ---
+
 [back](./)
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
+
 <p><img src="../{{site.img}}/exemple/m/lumi.png" alt="Resultat" /></p>
 
 # A savoir
+
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 </blockquote>
 
 # Paramétrage
+
 ## Taille des images ou des icônes
+
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
+
 <blockquote>
     <ul>
         <li><b>Pourcentage-M</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i></li>
@@ -29,8 +35,10 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
     </ul>
 </blockquote>
 
-## Niveau
+## Paramétrage des Niveaux
+
 Il est possible de modifier les niveaux
+
 <blockquote>
     <ul>
         <li><b>level_1</b> : Niveau Bas (nuit) <i>(valeur par défaut : 20)</i></li>
@@ -49,8 +57,8 @@ Il est possible de modifier les niveaux
 </blockquote>
 
 # Télécharger les sources
-><a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-<br/>
+
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a> > <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Luminosite-IMG-Mini--mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
