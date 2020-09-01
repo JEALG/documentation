@@ -51,7 +51,7 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 
 ## Sous dossier
 
-Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
+Il possible d'ajouter les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 
 Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
 
@@ -72,7 +72,7 @@ Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO<
 
 ## Taille des images ou des icônes
 
-Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
+Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivant :
 
 <blockquote>
     <ul>
