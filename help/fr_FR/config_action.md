@@ -22,7 +22,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel
 - <b>En Bleu</b> : les boutons
   _ Type : Sélectionner action
   _ Sous-Type : Défaut
-  - Options : Cocher la case Afficher \* Roue cranté : permet de choisir le type de widget et les options (fléche orange)
+  - Options : Cocher la case Afficher \* Roue cranté : permet de choisir le type de widget et les options (flèche orange)
   - Sous les commandes : Il faut absolument sélectionner le nom de l'état pour que le widget fonctionne (carré vert)
 
 # Choix du widget
@@ -59,7 +59,7 @@ Les paramètres suivants seront mis d'abord pour la commande <b>ON</b>
   - Dashboard : Customtemp/Multi-action-Defaut
   - mobile : Customtemp/Multi-action-Defaut
 
-- <b>Paramètres optionnels widget </b> : les variables ci-dessous seront ajouté en cliquant sur le bouton <i>Ajouter</i>
+- <b>Paramètres optionnels widget </b> : les variables ci-dessous seront ajoutées en cliquant sur le bouton <i>Ajouter</i>
 <CENTER>
     <TABLE width="60%">
         <TR>
