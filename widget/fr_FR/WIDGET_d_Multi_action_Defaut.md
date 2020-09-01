@@ -92,7 +92,7 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 ### Ajout d'image
 
 Il est possible d'inclure d'autres icônes dans le widget.<br/>
-Le nommage des images n'est pas normalisé sur ce widget\$
+Le nommage des images n'est pas normalisé sur ce widget
 
 <blockquote>
     <ul>

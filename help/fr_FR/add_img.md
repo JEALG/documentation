@@ -7,7 +7,7 @@ description: Ajouter des images - Core V3
 
 [back](./)
 
-Il est possible d'ajouter des images dans un widget <i>Celle-ci ne sera pas effacer à la mise à jour du widget</i>
+Il est possible d'ajouter des images dans un widget <i>ces images ne seront pas effacer lors de la mise à jour du widget</i>
 
 <blockquote>
     <ul>
