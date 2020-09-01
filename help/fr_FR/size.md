@@ -18,7 +18,7 @@ description: explication Modification size Texte
 # Modification de la taille du texte
 
 <blockquote>
-    Il est possible de modifier la taille du textes de la valeur et de l'historique sur certains widgets de type Info.
+    Il est possible de modifier la taille du texte de la valeur et de l'historique sur certains widgets de type Info.
 </blockquote>
 
 # Les variables
