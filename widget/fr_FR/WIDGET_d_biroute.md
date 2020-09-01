@@ -38,7 +38,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
     <ul>
         <li>L'image change en fonction de la vitesse du vent, il ne faut pas mettre _xx dans le paramètre logo</li>
         <li>Si vous utilisez l'image par défaut, il n'est pas nécessaire d'ajouter le paramètre <b>logo</b></li>
-        <li>Le Widget est basé sur la vitesse du vent en km/h, il faut donc convertir la vitesse du vent de m/s en km/h. Cela se fait directement depuis l'équipement, Il faut ajouter dans la configuration de l'équipement puis l'onglet configuration la valeur <b>#value#*3.6</b> dans le champs <i>Formule de calcul (#value# pour la valeur)</i> Ne pas oublier ensuite de changer l'unité de la vitesse de vent</li>
+        <li>Le Widget est basé sur la vitesse du vent en km/h, il faut donc convertir la vitesse du vent de m/s en km/h. Cela se fait directement depuis l'équipement, Il faut ajouter dans la configuration de l'équipement puis l'onglet configuration la valeur <b>#value#*3.6</b> dans le champ <i>Formule de calcul (#value# pour la valeur)</i>. Ne pas oublier ensuite de changer l'unité de la vitesse de vent</li>
     </ul>
 </blockquote>
 
