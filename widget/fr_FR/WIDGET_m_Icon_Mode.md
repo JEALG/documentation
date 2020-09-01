@@ -66,7 +66,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 
 ## Sous dossier
 
-Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
+Il possible d'ajouter les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 
 <blockquote>
     <ul>
@@ -131,8 +131,7 @@ Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.P
 
 # Télécharger les sources
 
-> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-> <br/>
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a> > <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

@@ -63,7 +63,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 
 ## Sous dossier
 
-Il possible d'ajouter de mettre les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
+Il possible d'ajouter les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 
 <blockquote>
     <ul>
