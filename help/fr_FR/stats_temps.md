@@ -29,17 +29,17 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
     </TABLE>
 </CENTER>
 
-# Valeur possible
+# Valeurs possibles
 
 <CENTER>
     <TABLE width="60%">
         <TR>
             <th scope="col" width="50%">valeur</th>
-            <th scope="col" width="50%">Desciption</th>
+            <th scope="col" width="50%">Description</th>
         </TR>
         <TR>
             <TD width="50%">duree *ou* durée</TD>
-            <TD width="50%">affiche la durée depuis le dernier allumage/extinction.</TD>
+            <TD width="50%">Affiche la durée depuis le dernier allumage/extinction.</TD>
         </TR>
         <TR>
             <TD width="50%">heure</TD>
@@ -51,7 +51,7 @@ Il est possible d'afficher les informations de temps depuis le dernier allumage/
         </TR>
         <TR>
             <TD width="50%">logoTime</TD>
-            <TD width="50%">duree</TD>
+            <TD width="50%">Durée</TD>
         </TR>
     </TABLE>
 </CENTER>
