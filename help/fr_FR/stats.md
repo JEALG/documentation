@@ -9,13 +9,13 @@ description: explication Affichage de l'historique
 
 # Activation de l'historique
 
-Il est impératif que l'info de l'équipement soit historisé pour être afficher
+Il est impératif que l'info de l'équipement soit historisée pour être affichée
 
 <p><img src="../{{site.img}}/stats_activation_1.png" alt="Activation" width="600"/></p>
 
 # Afficher les statistiques sur les widgets
 
-Il faut vérifier que la case "Afficher les statistiques sur les widgets" soit coché dans la configuration de Jeedoom
+Il faut vérifier que la case "Afficher les statistiques sur les widgets" soit cochée dans la configuration de Jeedoom
 
 <p><img src="../{{site.img}}/stats_activation_2.png" alt="Config V4" width="600"/></p>
 
