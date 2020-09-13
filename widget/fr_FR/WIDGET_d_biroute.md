@@ -24,6 +24,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 ## Choix de l'icône
 
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivants :
+Il n'est pas nécessaire de mettre ses paramètres si vous utilisez le paramétrage par défaut
 
 <blockquote>
     <ul>
@@ -43,9 +44,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 </blockquote>
 <blockquote>
     <ul>
-        <li>Toutes les images présentent dans le dossier ne sont utilisable avec ce widget</li>
-        <li><b>Image</b> : image_xx</li>
-        <li><b>xx</b> doit être égal à 0 ou 45 ou 90 ou over</li>
+        <li>Toutes les images présentent dans le dossier *vent* ne sont utilisables avec ce widget</li>
+        <li><b>Image</b> : image_xx</li>  <b>xx</b> doit être égal à 0 ou 45 ou 90 ou over</li>
     </ul>
 </blockquote>
 
