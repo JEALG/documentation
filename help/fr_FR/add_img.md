@@ -30,7 +30,7 @@ Il faut installer le plugin JeeXplorer
   <b>L'ensemble des images de mes widgets se trouvent dans le dossier suivant pour le Core V4 :</b>
     <blockquote>
         <ul>
-            <li>html/data/customTemplates/dashboard/cmd.action.other.Multi-action-Defaut</li>
+            html/data/customTemplates/dashboard/cmd.action.other.Multi-action-Defaut
         </ul>
     </blockquote>
     <p><img src="../{{site.img}}/add_img_3.png" alt="IMG 1" width="500" /></p>
