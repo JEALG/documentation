@@ -27,13 +27,17 @@ Il faut installer le plugin JeeXplorer
 ## Ajout des images
 
 <ul>
-  <b>L'ensemble des images de mes widgets se trouvent dans le dossier suivant Pour le Core V4 :</b>
+  <b>L'ensemble des images de mes widgets se trouvent dans le dossier suivant pour le Core V4 :</b>
     <blockquote>
         <ul>
             <li>html/data/customTemplates/dashboard/cmd.action.other.Multi-action-Defaut</li>
         </ul>
     </blockquote>
+    <p><img src="../{{site.img}}/add_img_3.png" alt="IMG 1" width="500" /></p>
 </ul>
+
+> Copier vos images dans les dossiers correspondant à la catégorie de celle-ci
+> <b> Attention certains Widgets utilisent une nomalisation des noms, voir la doc du widget</b>
 
 # Pour le Core V3
 
