@@ -41,6 +41,13 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
         <li>Le Widget est basé sur la vitesse du vent en km/h, il faut donc convertir la vitesse du vent de m/s en km/h. Cela se fait directement depuis l'équipement, Il faut ajouter dans la configuration de l'équipement puis l'onglet configuration la valeur <b>#value#*3.6</b> dans le champ <i>Formule de calcul (#value# pour la valeur)</i>. Ne pas oublier ensuite de changer l'unité de la vitesse de vent</li>
     </ul>
 </blockquote>
+<blockquote>
+    <ul>
+        <li>Toutes les images présentent dans le dossier ne sont utilisable avec ce widget</li>
+        <li><b>Image</b> : image_xx</li>
+        <li><b>xx</b> doit être égal à 0 ou 45 ou 90 ou over</li>
+    </ul>
+</blockquote>
 
 <p><img src="../{{site.img}}/exemple/d/biroute_1.png" alt="Resultat" /></p>
 
