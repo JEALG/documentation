@@ -19,7 +19,6 @@ Voici une méthode vous permettant d'installer et de faire les mises à jour.
 <blockquote>
     Pour l'ensemble de mes widgets, il est nécessaire d'avoir le widget <a href="{{site.baseurl}}/{{site.widget}}/{{page.lang}}/WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 <br/>
-Un script sera disponible dans quelques jours pour installer les mises à jour pour le Core V3 ou V4
 </blockquote>
 
 # Récupérer les sources
