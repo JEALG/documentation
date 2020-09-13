@@ -16,7 +16,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 <blockquote>
     <ul>
         <li>Toutes les images présentent dans le dossier <i><b>vent</b></i> ne sont utilisables avec ce widget, il faut que les images soient du style : </li>
-        <li><b>Image</b> : image_xx</li>  <b>xx</b> doit être égal à 0 ou 45 ou 90 ou over</li>
+        <li><b>Image</b> : image_xx <b>xx</b> doit être égal à 0 ou 45 ou 90 ou over</li>
     </ul>
 </blockquote>
 
