@@ -33,6 +33,7 @@ Ici vous trouverez l'ensemble de la documentation des Widgets JAG pour Jeedom
 | **Batterie - EeDomus**       | <img src="../{{site.img}}/exemple/d/bat_eedomus.png" alt="Exemple Batterie - EeDomus" />           | <a href="./WIDGET_d_Bat_EeDomus">Lien</a>         |
 | **Batterie - telldusBatter** | <img src="../{{site.img}}/exemple/d/bat_telldusbatter.png" alt="Exemple Batterie-telldusBatter" /> | <a href="./WIDGET_d_Bat_telldusBattery">Lien</a>  |
 | **Humidite-Goutte_eau**      | <img src="../{{site.img}}/exemple/d/humidite_goutte_eau.png" alt="Exemple Humidite-Goutte_eau" />  | <a href="./WIDGET_d_Humidite_Goutte_eau">Lien</a> |
+| **Humidite-hygrometer**      | <img src="../{{site.img}}/exemple/d/hygrometer.png" alt="Exemple Humidite-Goutte_eau" />           | <a href="./WIDGET_d_hygrometer">Lien</a>          |
 | **Luminosité-IMG-Mini**      | <img src="../{{site.img}}/exemple/d/lumi.png" alt="Exemple Luminosité-IMG-Mini" />                 | <a href="./WIDGET_d_Lum_IMG_mini">Lien</a>        |
 | **Baromètre**                | <img src="../{{site.img}}/exemple/d/baro.png" alt="Exemple Baromètre" />                           | <a href="./WIDGET_d_baro">Lien</a>                |
 | **Biroute - vent**           | <img src="../{{site.img}}/exemple/d/biroute.png" alt="Exemple Biroute Vent" />                     | <a href="./WIDGET_d_biroute">Lien</a>             |
