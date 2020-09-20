@@ -9,7 +9,7 @@ description: explication widget hygrometer
 
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Info Numérique</b>
 
-<p><img src="../{{site.img}}/exemple/d/hygrometer.png" alt="Resultat" /></p>
+<p><img src="../{{site.img}}/exemple/d/hygrometer.png" width="40" alt="Resultat" /></p>
 
 # A savoir
 
