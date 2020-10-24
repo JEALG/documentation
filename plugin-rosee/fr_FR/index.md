@@ -17,7 +17,7 @@ Il est aussi possible de calculer la tendance Météo à venir en se basant de l
 
 Le plugin ne comporte pas de configuration générale, il faut :
 
-> - Choisir une méthode de calcul :
+> Choisir une méthode de calcul :
 
     - Humidité absolue
     - Point de Givre
@@ -25,13 +25,13 @@ Le plugin ne comporte pas de configuration générale, il faut :
     - Point de Rosée et Point de Givre
     - Tendance Météo
 
-> - Renseigner les champs obligatoires suivant la méthode de calcul :
+> Renseigner les champs obligatoires suivant la méthode de calcul :
 
     - Équipement "Température" (°C)
     - Équipement "Humidité Relative" (%)
     - Équipement "Pression Atmosphérique" (hPa) : Ce champ est obligatoire pour la méthode de calcul "Tendance Météo" et il doit avoir l'historique d'activé. Pour les autres calculs, la valeur est fixée à 1013.25 hPa si non renseignée.
 
-<b>En option</b>
+<b>En option : </b>
 
 > - Seuil de l'Alerte Rosée (°C) : Seuil de déclenchement de l'alerte rosée, 2°C par défaut (dépression du point de rosée T°-Tr°). A ajuster en fonction des observations locales.
 > - Seuil d'humidité absolue : Seuil humidité absolue en dessous duquel il est peu probable qu'il givre, 2.8 par défaut.
