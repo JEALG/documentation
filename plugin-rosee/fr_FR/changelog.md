@@ -5,13 +5,9 @@ lang: fr_FR
 pluginId: rosee
 ---
 
+<img src="{{site.baseurl}}/plugin-rosee/{{site.img}}/rosee_icon.png" class="pluginLogo" width="100" />
+
 # Info
-
-## Description
-
-Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouillée le matin, ou bien en hiver de savoir s'il va falloir gratter le pare-brise. Pour fonctionner, on doit indiquer sélectionner un équipement de température, d'humidité et de pression (extérieures, bien-sûr…)
-
-[Documentation]({{site.baseurl}}/plugin-rosee/{{page.lang}})
 
 ## Important
 
