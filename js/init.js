@@ -57,7 +57,12 @@ var docMenu = [
 				link: "/documentation/help/#LANG#/faq",
 				icon: "fas fa-question",
 				fr_FR: "FAQ"
-			}
+			},
+			{
+				link: "/documentation/help/#LANG#/exemple",
+				icon: "fas fa-paint-brush",
+				fr_FR: "Exemples"
+			},
     ]
 	},{
 		fr_FR: "Les Widgets Dashboard",
