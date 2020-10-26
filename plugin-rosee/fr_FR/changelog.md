@@ -18,6 +18,13 @@ pluginId: rosee
 - Amélioration création des commandes
 - Amélioration mise à jour des commandes
 - Modification affichage des commandes
+- Ajout BP reset de recherche
+- Clean Log + code
+- Correction Bug Rosee \_eqNameID (erreur de TEST)
+- Correction bug suppression commande Refresh
+- Correction Warning PHP
+- Correction variable non défini
+- Amélioration si pb historique pression
 
 # Version 20200525
 
