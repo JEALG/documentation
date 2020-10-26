@@ -25,6 +25,7 @@ pluginId: rosee
 - Correction Warning PHP
 - Correction variable non défini
 - Amélioration si pb historique pression
+- Correction Bug création des commandes
 
 # Version 20200525
 
