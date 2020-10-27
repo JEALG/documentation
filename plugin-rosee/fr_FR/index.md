@@ -74,8 +74,8 @@ Le plugin met à disposition deux widgets pour la tendance :
 
 > - Rosee/Tendance (Icône 40x40) (Widget par défaut)
 
-<p><img src="../{{site.img}}/visu_tendance.png" width="150" alt="Visu Tendance 40x40" /></p>
+<p><img src="../{{site.img}}/visu_tendance.png" width="200" alt="Visu Tendance 40x40" /></p>
 
 > - Rosee/Tendance 80x80 (Icône 80x80)
 
-<p><img src="../{{site.img}}/visu_tendance_80x80.png" width="150" alt="Visu Tendance 80x80" /></p>
+<p><img src="../{{site.img}}/visu_tendance_80x80.png" width="200" alt="Visu Tendance 80x80" /></p>
