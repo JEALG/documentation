@@ -70,6 +70,12 @@ Le plugin calcule 6 niveaux d'information :
 | <b>4</b> | Amélioration, beau temps durable   | <img src="../{{site.img}}/tendance_4.png" alt="Tendance 4" width="40" /> |
 | <b>5</b> | Forte embellie, instable           | <img src="../{{site.img}}/tendance_5.png" alt="Tendance 5" width="40" /> |
 
-Le plugin affecte par défaut un widget sur la commande _Message numérique_ (uniquement pour le Core V4) :<br/>
+Le plugin met à disposition deux widgets pour la tendance :
+
+> - Rosee/Tendance (Icône 40x40) (Widget par défaut)
 
 ![Visu Tendance](../{{site.img}}/visu_tendance.png)
+
+> - Rosee/Tendance 80x80 (Icône 80x80)
+
+![Visu Tendance 80x80](../{{site.img}}/visu_tendance_80x80.png)
