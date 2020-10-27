@@ -10,8 +10,8 @@ pluginId: rosee
 # Description
 
 Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouillée le matin, ou bien en hiver savoir s'il va falloir gratter le pare-brise.
-Pour fonctionner, on doit indiquer un équipement température et un équipement humidité (extérieures, bien-sûr…).
-Il est aussi possible de calculer la tendance Météo à venir en se basant de l'évolution de la météo.
+Pour fonctionner, on doit indiquer un équipement température et un équipement humidité (extérieures, bien sûr…).
+Il est aussi possible de calculer la tendance Météo à venir en se basant sur l'évolution de la météo.
 
 # Configuration
 
@@ -72,10 +72,10 @@ Le plugin calcule 6 niveaux d'information :
 
 Le plugin met à disposition deux widgets pour la tendance :
 
-> - Rosee/Tendance (Icône 40x40) (Widget par défaut)
+> - Rosée/Tendance (Icône 40x40) (Widget par défaut)
 
 <p><img src="../{{site.img}}/visu_tendance.png" width="200" alt="Visu Tendance 40x40" /></p>
 
-> - Rosee/Tendance 80x80 (Icône 80x80)
+> - Rosée/Tendance 80x80 (Icône 80x80)
 
 <p><img src="../{{site.img}}/visu_tendance_80x80.png" width="200" alt="Visu Tendance 80x80" /></p>
