@@ -13,9 +13,13 @@ pluginId: rosee
 
 > **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
 
+# Version 20201105
+
+- Correction affichage chiffre pour les seuils et l'offset https://community.jeedom.com/t/pas-dalerte-givre/41213/8?u=jag
+
 # Version 20201031
 
-- Amélioration liste des objets parents
+- Amélioration de la liste des objets parents
 
 # Version 20201027
 
