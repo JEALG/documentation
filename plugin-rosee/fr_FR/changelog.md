@@ -13,6 +13,11 @@ pluginId: rosee
 
 > **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
 
+# Version 202011xx
+
+- Amélioration de l'affichage, ajout info bulle sur les commandes
+- Amélioration mise à jour des command
+
 # Version 20201105
 
 - Correction affichage chiffre pour les seuils et l'offset https://community.jeedom.com/t/pas-dalerte-givre/41213/8?u=jag
