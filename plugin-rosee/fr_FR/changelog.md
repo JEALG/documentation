@@ -16,7 +16,7 @@ pluginId: rosee
 # Version 202011xx
 
 - Amélioration de l'affichage, ajout info bulle sur les commandes
-- Amélioration mise à jour des command
+- Amélioration mise à jour des commandes
 
 # Version 20201105
 
