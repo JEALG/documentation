@@ -124,12 +124,10 @@ Le plugin met à disposition deux widgets pour la tendance :
 >
 > Par exemple, quand la température est de 32°C (ou 90°F) avec 70 % d'humidité relative :
 >
-> - l'index de chaleur est alors de 41°C (ou 106°F).
+> - L'index de chaleur est alors de 41°C (ou 106°F).
 > - Cette température d'index de chaleur a une humidité implicite (non spécifiée) de 20 %.
->
-> C'est la valeur de l'humidité relative pour laquelle la formule d'index de chaleur indique que 41°C est ressentie comme 41 °C.
->
-> Une température d'index de chaleur de 32°C a une humidité relative implicite de 38 %.
+> - C'est la valeur de l'humidité relative pour laquelle la formule d'index de chaleur indique que 41°C est ressentie comme 41 °C.
+> - Une température d'index de chaleur de 32°C a une humidité relative implicite de 38 %.
 >
 > L’indice de chaleur est basé sur la capacité du corps humain à refroidir la peau par la production de sueur.
 >
