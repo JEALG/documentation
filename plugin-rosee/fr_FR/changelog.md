@@ -13,6 +13,12 @@ pluginId: rosee
 
 > **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
 
+# Version 202012xx
+
+- Correction Bug création des commandes
+- Correction Bug Min et Max des commandes numériques
+- Ajout calcul température ressentie pour l'hiver https://community.jeedom.com/t/temperature-ressentie/44377/2?u=jag
+
 # Version 20201129
 
 - Amélioration de l'affichage, ajout info bulle sur les commandes
