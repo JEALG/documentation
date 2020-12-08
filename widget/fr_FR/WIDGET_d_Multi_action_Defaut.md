@@ -27,28 +27,24 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 **Dans le cas de l'utilisation avec le nom de l'image normalisé**
 
 > - <b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(pas de valeur par défaut)</i>
-
-    * <b>Attention avec cette variable</b>, il ne faut mettre ***_off*** ou ***_on*** à la fin du nom de l'image
-    *  <b>l'utilisation de cette méthode désactive les variables <i>logoON</i> et <i>logoOFF</i></b>
+>   - <b>Attention avec cette variable</b>, il ne faut mettre **_\_off_** ou **_\_on_** à la fin du nom de l'image
+>   - <b>l'utilisation de cette méthode désactive les variables <i>logoON</i> et <i>logoOFF</i></b>
 
 > - <b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)
 > - Le nommage des images normalisées doit respecter le format suivant :
-
-    * <b>Image pour la valeur ON</b> : type_on
-    * <b>Image pour la valeur OFF</b> : type_off
-    * <i>Remplacer <b>type</b> par le nom de l'image</i>
+>   - <b>Image pour la valeur ON</b> : type_on
+>   - <b>Image pour la valeur OFF</b> : type_off
+>   - <i>Remplacer <b>type</b> par le nom de l'image</i>
 
 **Dans le cas de l'utilisation avec le nom de l'image non normalisé**
 
 > - <b>Logo pour la commande ON</b>
-
-    * <b>logoON</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : fi_wh_off")</i>
-    * <b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
+>   - <b>logoON</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : fi_wh_off")</i>
+>   - <b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
 
 > - <b>Logo pour la commande OFF</b>
-
-    * <b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : fi_bu_on)</i>
-    * <b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
+>   - <b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : fi_bu_on)</i>
+>   - <b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
 
 ## Sous dossier
 
@@ -66,9 +62,8 @@ Il possible d'ajouter les images dans des sous dossiers, (la variable est valabl
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
 
 > - <b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i>
-
-    * <i>Pourcentage = NO</i> la taille sera en "px"
-    * <i>Pourcentage = YES</i> la taille sera en "%"
+>   - <i>Pourcentage = NO</i> la taille sera en "px"
+>   - <i>Pourcentage = YES</i> la taille sera en "%"
 
 > - <b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i>
 > - <b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i>
