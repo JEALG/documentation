@@ -58,9 +58,8 @@ Il possible d'ajouter les images dans des sous dossiers, (la variable est valabl
 Il est possible de spécifier la hauteur et la largeur des icônes ou images par l'ajout des paramètres optionnels suivants :
 
 > - <b>Pourcentage</b> : Permet de choisir la taille en "px" ou "%" <i>(valeur par défaut : NO donc "px")</i>
-
-    * <i>Pourcentage = NO</i> la taille sera en "px"
-    * <i>Pourcentage = YES</i> la taille sera en "%"
+>   - <i>Pourcentage = NO</i> la taille sera en "px"
+>   - <i>Pourcentage = YES</i> la taille sera en "%"
 
 > - <b>sizeh</b> : Permet de choisir la hauteur de l'image <i>(valeur par défaut : 80)</i>
 > - <b>sizew</b> : Permet de choisir la largeur de l'image <i>(valeur par défaut : 80)</i>
