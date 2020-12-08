@@ -50,12 +50,8 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 
 Il possible d'ajouter les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 
-<blockquote>
-    <ul>
-        <li><b>dossier</b> : Nom du dossier de l'image (Par défaut : divers)</li>
-        <li><a href="list_img">Listes des images par dossiers</a></li>
-    </ul>
-</blockquote>
+> - <b>dossier</b> : Nom du dossier de l'image (Par défaut : divers)</li>
+> - <a href="list_img">Listes des images par dossiers</a></li>
 
 ## Taille des images ou des icônes
 
