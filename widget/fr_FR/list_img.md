@@ -14,6 +14,8 @@ description: Liste des dossiers
 <br>
 <b>Copier le contenu dans du dossier <i>img</i> qui se trouve dans le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a> dans le dossier : html/data/img</b>
 
+</blockquote>
+
 # Liste des images dans les dossiers
 
 Liste des images par dossiers

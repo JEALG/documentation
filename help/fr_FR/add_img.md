@@ -28,6 +28,7 @@ Il faut installer le plugin JeeXplorer
 
 <ul>
   <b>L'ensemble des images de mes widgets se trouvent dans le dossier suivant pour le Core V4 :</b>
+  <br>
   **Attention tous les widgets ont été mis à jour à cause du déplacement des images**
     <blockquote>
         <ul>
