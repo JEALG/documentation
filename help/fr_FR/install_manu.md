@@ -67,8 +67,9 @@ Se rendre dans le dossier correspondant au type de widget
   <b>L'ensemble des fichiers sont à copier dans les dossiers suivants Pour le Core V4 :</b>
     <blockquote>
         <ul>
-            <li>html/data/customTemplates/dashboard/</li>
-            <li>html/data/customTemplates/mobile/ <i>Le nom des "repository" de mes widgets mobiles se termine par "--mobile"</i></li>
+            <li>Pour les widgets du dashboard : html/data/customTemplates/dashboard/</li>
+            <li>Pour les fichiers images se trouvant dans le widget Multi-action, copier le contenu dans le dossier : html/img/</li>
+            <li>Pour les widgets du mobile : html/data/customTemplates/mobile/ <i>Le nom des "repository" de mes widgets mobiles se termine par "--mobile"</i></li>
         </ul>
     </blockquote>
 </ul>

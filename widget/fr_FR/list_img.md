@@ -10,8 +10,9 @@ description: Liste des dossiers
 # A savoir
 
 <blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, Les images se trouvent uniquement dans le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
-</blockquote>
+<b>Afin de simplifier la gestion des images, depuis le 20/12/2020, Les images se trouvent uniquement dans le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+<br>
+<b>Copier le contenu dans du dossier <i>img</i> qui se trouve dans le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a> dans le dossier : html/data/img</b>
 
 # Liste des images dans les dossiers
 
