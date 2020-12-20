@@ -5,23 +5,55 @@ lang: fr_FR
 pluginId: rosee
 ---
 
+<img src="{{site.baseurl}}/plugin-rosee/{{site.img}}/rosee_icon.png" class="pluginLogo" width="100" />
+
 # Info
-
-## Description
-
-Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouillée le matin, ou bien en hiver de savoir s'il va falloir gratter le pare-brise. Pour fonctionner, on doit indiquer sélectionner un équipement de température, d'humidité et de pression (extérieures, bien-sûr…)
-
-[Documentation]({{site.baseurl}}/plugin-rosee/{{page.lang}})
 
 ## Important
 
 > **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
 
-# Version 202010xx
+# Version 20201208
+
+- Correction Bug Calcul Humidex
+- Correction Bug divers
+
+# Version 20201207
+
+- Correction Bug création des commandes
+- Correction Bug Min et Max des commandes numériques
+- Ajout calcul température ressentie pour l'hiver https://community.jeedom.com/t/temperature-ressentie/44377/2?u=jag
+
+# Version 20201129
+
+- Amélioration de l'affichage, ajout info bulle sur les commandes
+- Amélioration mise à jour des commandes
+
+# Version 20201105
+
+- Correction affichage chiffre pour les seuils et l'offset https://community.jeedom.com/t/pas-dalerte-givre/41213/8?u=jag
+
+# Version 20201031
+
+- Amélioration de la liste des objets parents
+
+# Version 20201027
+
+- Amélioration Visu sur dashboard
+
+# Version 20201026
 
 - Amélioration création des commandes
 - Amélioration mise à jour des commandes
 - Modification affichage des commandes
+- Ajout BP reset de recherche
+- Clean Log + code
+- Correction Bug Rosee \_eqNameID (erreur de TEST)
+- Correction bug suppression commande Refresh
+- Correction Warning PHP
+- Correction variable non défini
+- Amélioration si pb historique pression
+- Correction Bug création des commandes
 
 # Version 20200525
 

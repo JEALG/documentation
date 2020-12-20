@@ -25,50 +25,38 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 Pour choisir le type de visuel à afficher, il faut ajouter les paramètres optionnels suivants :
 Il est possible de récupérer le même réglage que le dashboard
 
-Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
+Les images sont identiques que la version <b>Dashboard</b>
 
-<blockquote>
-    <ul>
-        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-        <li><b>logoON</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : di_day)</i></li>
-        <li><b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-        <li><b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : di_night)</i></li>
-        <li><b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-    </ul>
-</blockquote>
+**Dans le cas de l'utilisation avec le nom de l'image normalisé**
 
-Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
+> - <b>logo</b> : Permet de choisir l'image pour la valeur ON ou OFF <i>(pas de valeur par défaut)</i>
+>   - <b>Attention avec cette variable</b>, il ne faut mettre **_\_off_** ou **_\_on_** à la fin du nom de l'image
+>   - <b>l'utilisation de cette méthode désactive les variables <i>logoON</i> et <i>logoOFF</i></b>
 
-<blockquote>
-    <ul>
-        <li><b>Dashboard-M</b> : Image identique au Dashboard <i> (valeur par défaut : YES)</i></li>
-        <li><b>logoON-M</b> : Permet de choisir l'image pour la valeur ON<i> (valeur par défaut : di_day)</i></li>
-        <li><b>logoON_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-        <li><b>logoOFF-M</b> : Permet de choisir l'image pour la valeur OFF<i> (valeur par défaut : di_night)</i></li>
-        <li><b>logoOFF_type-M</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i></li>
-    </ul>
-</blockquote>
+> - <b>logo_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logo</i> (par exemple: 'gif', 'jpg', etc.....)<i>(valeur par défaut : png)
+> - Le nommage des images normalisées doit respecter le format suivant :
+>   - <b>Image pour la valeur ON</b> : type_on
+>   - <b>Image pour la valeur OFF</b> : type_off
+>   - <i>Remplacer <b>type</b> par le nom de l'image</i>
+
+**Dans le cas de l'utilisation avec le nom de l'image non normalisé**
+
+> - <b>Logo pour la commande ON</b>
+>   - <b>logoON</b> : Permet de choisir l'image pour la valeur ON <i>(valeur par défaut : fi_wh_off")</i>
+>   - <b>logoON_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoON</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
+
+> - <b>Logo pour la commande OFF</b>
+>   - <b>logoOFF</b> : Permet de choisir l'image pour la valeur OFF <i>(valeur par défaut : fi_bu_on)</i>
+>   - <b>logoOFF_type</b> : Permet de choisir <i>l'extension</i> pour l'icône/image <i>logoOFF</i> (par exemple: 'gif', 'jpg', etc.....)<i> (valeur par défaut : png)</i>
 
 ## Sous dossier
 
 Il possible d'ajouter les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 
-Cas Image identique avec le Dashboard avec la variable <b>Dashboard-M = <i>YES</i></b>
+Il possible d'ajouter les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 
-<blockquote>
-    <ul>
-        <li><b>dossier</b> : Nom du dossier (Par défaut : fibarooeil)</li>
-        <li><a href="list_img">Listes des images par dossiers</a></li>
-    </ul>
-</blockquote>
-
-Cas Image différente avec le Dashboard avec la variable <b>Dashboard-M = <i>NO</i></b>
-
-<blockquote>
-    <ul>
-        <li><b>dossier-M</b> : Nom du dossier (Par défaut : fibarooeil)</li>
-    </ul>
-</blockquote>
+> - <b>dossier</b> : Nom du dossier de l'image (Par défaut : divers)</li>
+> - <a href="list_img">Listes des images par dossiers</a></li>
 
 ## Taille des images ou des icônes
 
@@ -115,8 +103,7 @@ Le nommage des images n'est pas normalisé sur ce widget
 
 # Télécharger les sources
 
-> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-> <br/>
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a> > <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/masterv4">Télécharger les sources pour la V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut--mobile/tree/master">Télécharger les sources pour la V3</a></li>
