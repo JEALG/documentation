@@ -20,13 +20,6 @@ Ici vous trouverez l'ensemble de la documentation des Widgets JAG pour Jeedom
 
 - [Documentation]({{site.baseurl}}/{{site.widget}}/{{page.lang}})
 
-## Les Widgets archivés
-
-Ici vous trouverez l'ensemble de la documentation des Widgets JAG archivés pour Jeedom
-
-- [Documentation Dashboard]({{site.baseurl}}/{{site.archive}}/{{page.lang}}/dashboard)
-- [Documentation mobile]({{site.baseurl}}/{{site.archive}}/{{page.lang}}/mobile)
-
 # Aide
 
 Ici vous trouverez l'ensemble de la documentation pour aider à utiliser mes widgets Jeedom
