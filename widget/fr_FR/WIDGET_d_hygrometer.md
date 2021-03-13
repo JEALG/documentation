@@ -31,7 +31,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 
 # Télécharger les sources
 
-> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 
 <li><a href="https://github.com/JEALG/Jeedom-hygrometer/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 

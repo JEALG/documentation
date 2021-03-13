@@ -112,7 +112,6 @@ Cas Image différente avec le Dashboard avec la variable <b>"Dashboard-M = <i>NO
 # Télécharger les sources
 
 > <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
-> <br/>
 
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-VoyantMulticouleur--mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

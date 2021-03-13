@@ -95,7 +95,7 @@ Le nommage des images est normalisé et doit respecter le format suivant :
 
 # Télécharger les sources
 
-> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a> > <br/>
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Store-banne/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Store-banne/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>

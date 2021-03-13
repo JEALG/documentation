@@ -51,7 +51,7 @@ Pour choisir le type de visuel à afficher, il faut ajouter les paramètres opti
 Il possible d'ajouter les images dans des sous dossiers, (la variable est valable pour l'ensemble des valeurs)
 
 > - <b>dossier</b> : Nom du dossier de l'image (Par défaut : divers)</li>
-> - <a href="list_img">Listes des images par dossiers</a></li>
+> - <a href="list_img">Listes des images par dossiers</a>
 
 ## Taille des images ou des icônes
 
@@ -93,7 +93,7 @@ Le nommage des images n'est pas normalisé sur ce widget
 
 # Télécharger les sources
 
-> <a href="{{site.baseurl}}/help/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a> > <br/>
+> <a href="{{site.baseurl}}/{{site.help}}/{{page.lang}}/install_manu">Aide pour l'installation manuelle des widgets</a>
 
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
