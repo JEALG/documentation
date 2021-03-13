@@ -9,10 +9,8 @@ description: Installation Manuelle des widgets pour le Core V4
 
 # Info
 
-<blockquote>
-Comme vous le savez le market widget disparu. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour.
-Voici une méthode vous permettant d'installer et de faire les mises à jour.
-</blockquote>
+> Comme vous le savez le market widget disparu. Si vous voulez continuer à utiliser mes widgets et avoir les mises à jour.
+> Voici une méthode vous permettant d'installer et de faire les mises à jour.
 
 # A Savoir
 
