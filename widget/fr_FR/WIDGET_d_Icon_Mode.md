@@ -25,16 +25,19 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>Info Text
 
 ## A Savoir
 
-<blockquote>
-<b>Pour le Core V3, Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
-<b>Pour le Core V4, il faut copier le contenu dans du dossier <i>img</i> qui se trouve dans le </b><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Ensemble des Images pour Core V4</a> dans le dossier : <b><i>html/data/img</i></b>
-</blockquote>
+> - <b>Pour le core V3 </b> : Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+
+> - <b>Pour le core V4</b> :
+>   - Il faut copier le contenu dans du dossier <i>img</i> qui se trouve dans le <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Ensemble des Images pour Core V4</a> dans le dossier : <b><i>html/data/img</i></b>
 
 # Paramétrage
 
 <hr />
+
 ## Valeur du mode
+
 Pour que le widget fonctionne, il faut indiquer la valeur du mode dans les variables
+
 <blockquote>
     <ul>
         <li><b>modex</b> : Valeur du mode</li>
@@ -106,8 +109,11 @@ Il est possible de spécifier la hauteur et la largeur des icônes ou images par
 
 <p><img src="./../{{site.img}}/JEEDOM_Icon_Mode_Para mode.png" alt="exemple Para" /></p>
 <hr />
+
 ## Exemple 1
+
 Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG"
+
 <blockquote>
         <ul>
             <li><b>mode0</b> : renseigner la valeur <b>CONFORT</b></li>
@@ -115,8 +121,11 @@ Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG
             <li><b>logo_type0</b> : Il n'est pas necessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
         </ul>
 </blockquote>
+
 ## Exemple 2
+
 Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PNG"
+
 <blockquote>
         <ul>
             <li><b>mode5</b> : renseigner la valeur <b>PURGE</b></li>
@@ -134,7 +143,9 @@ Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.P
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Télécharger les images pour le Core V4</a></li>
 
 <hr />
+
 # Changelog
+
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

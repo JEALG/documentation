@@ -103,7 +103,9 @@ Le nommage des images n'est pas normalisé sur ce widget
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Télécharger les images pour le Core V4</a></li>
 
 <hr />
+
 # Changelog
+
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>

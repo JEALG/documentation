@@ -22,9 +22,10 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>Info Text
 
 ## A savoir
 
-<blockquote>
-<b>Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
-</blockquote>
+> - <b>Pour le core V3 </b> : Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+
+> - <b>Pour le core V4</b> :
+>   - Il faut copier le contenu dans du dossier <i>img</i> qui se trouve dans le <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Ensemble des Images pour Core V4</a> dans le dossier : <b><i>html/data/img</i></b>
 
 # Paramétrage
 
@@ -116,8 +117,11 @@ Un Premier exemple avec le mode0 = CONFORT et le nom de l'image est "CONFORT.PNG
         <li><b>logo_type0</b> : Il n'est pas nécessaire de le renseigner vu que l'extension de l'image est <i>png</i></li>
     </ul>
 </blockquote>
+
 ## Exemple 2
+
 Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.PNG"
+
 <blockquote>
     <ul>
         <li><b>mode5</b> : renseigner la valeur <b>PURGE</b></li>
@@ -135,7 +139,9 @@ Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.P
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Télécharger les images pour le Core V4</a></li>
 
 <hr />
+
 # Changelog
+
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/commits/masterv4">Changelog WIDGET pour le Core V4</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/commits/master">Changelog WIDGET pour le Core V3</a><br/>
 <a href="https://github.com/JEALG/JEEDOM-Widget_JAG-doc/commits/master">Changelog DOC</a>
