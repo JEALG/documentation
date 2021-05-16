@@ -12,7 +12,7 @@ description: Liste des dossiers
 <blockquote>
 <b>Afin de simplifier la gestion des images, depuis le 20/12/2020, Les images se trouvent uniquement dans le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
 <br>
-<b>Copier le contenu dans du dossier <i>img</i> qui se trouve dans le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a> dans le dossier : <b><i>html/data/img</i></b>
+<b>Pour le Core V4, il faut copier le contenu dans du dossier <i>img</i> qui se trouve dans le </b><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Widget Dashboard : <b>Multi-action</b></a> dans le dossier : <b><i>html/data/img</i></b>
 
 </blockquote>
 
