@@ -16,11 +16,8 @@ Widget pour Jeedom permettant d'afficher une icône pour une valeur <b>Info Text
 ## Merci
 
 <blockquote>
-    <ul>
-        <li>Merci @Salviaf pour l'affichage de la durée</li>
-        <li>Merci @Nicoraptor pour le code pour récupérer valeur Mode</li>
-        <li>Merci @Antoinekl1 pour l'info et le code suite à la modif du plugin "Mode"</li>
-    </ul>
+<b>Pour le Core V3, Afin de simplifier la gestion des images, depuis le 10/09/2019, il est nécessaire d'avoir le </b><a href="WIDGET_d_Multi_action_Defaut">Widget Dashboard : <b>Multi-action</b></a>
+<b>Pour le Core V4, il faut copier le contenu dans du dossier <i>img</i> qui se trouve dans le </b><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Ensemble des Images pour Core V4</a> dans le dossier : <b><i>html/data/img</i></b>
 </blockquote>
 
 ## A savoir
@@ -135,6 +132,7 @@ Un deuxième exemple avec le mode5 = PURGE et le nom de l'image est "puitsvide.P
 
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Icon_Mode--Mobile/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Télécharger les images pour le Core V4</a></li>
 
 <hr />
 # Changelog

@@ -10,7 +10,8 @@ description: Explication widget Multi-action
 Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b>Action ON/OFF</b>
 
 <blockquote>
-    Ce widget regroupe l'ensemble des différentes images de mes widgets
+<b>Pour le Core V3, Ce widget regroupe l'ensemble des différentes images de mes widgets
+<b>Pour le Core V4, il faut copier le contenu dans du dossier <i>img</i> qui se trouve dans le </b><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Ensemble des Images pour Core V4</a> dans le dossier : <b><i>html/data/img</i></b>
 </blockquote>
 
 <p><img src="../{{site.img}}/exemple/d/multi_action.png" alt="Resultat" /></p>
@@ -97,6 +98,7 @@ Le nommage des images n'est pas normalisé sur ce widget
 
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/masterv4">Télécharger les sources du Widget pour le Core V4</a></li>
 <li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/master">Télécharger les sources du Widget pour le Core V3</a></li>
+<li><a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Télécharger les images pour le Core V4</a></li>
 
 <hr />
 # Changelog
