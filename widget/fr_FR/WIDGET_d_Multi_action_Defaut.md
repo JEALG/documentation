@@ -14,7 +14,7 @@ Widget pour Jeedom permettant d'afficher une icône pour une fonction de type <b
 > - <b>Pour le core V4</b> :
 >   - Il faut copier le contenu dans du dossier <i>img</i> qui se trouve dans le <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/images">Ensemble des Images pour Core V4</a> dans le dossier : <b><i>html/data/img</i></b>
 >   - Il est possible de télécharger le fichier json pour utiliser le nouveau système de widget du core <a href="https://github.com/JEALG/JEEDOM-Multi_action-Defaut/tree/json">Fichier JSON MultiAction</a>
->   - Si vous utilisez le fichier JSON, l'ensemble des paramètres ci-dessous, n'est plus valable en cas d'utilisation de ce type de widget </b><a href="https://doc.jeedom.com/fr_FR/core/4.1/widgets?theme=dark">Voir Aide Core Jeedom</a>
+>   - Si vous utilisez le fichier JSON, l'ensemble des paramètres ci-dessous, n'est plus valable en cas d'utilisation de ce type de widget <a href="https://doc.jeedom.com/fr_FR/core/4.1/widgets?theme=dark">Voir Aide Core Jeedom</a>
 
 <p><img src="../{{site.img}}/exemple/d/multi_action.png" alt="Resultat" /></p>
 
