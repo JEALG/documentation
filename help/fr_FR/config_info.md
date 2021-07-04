@@ -35,7 +35,7 @@ Ici l'exemple d'un équipement fait avec le plugin Virtuel, il faut paramétrer 
 
 Voici l'exemple voulu
 
-<p><img src="{site.baseurl}}/{{site.widget}}/{{site.img}}/exemple/d/multi_binaire.png" alt="Résultat" /></p>
+<p><img src="../{{site.img}}/multi_binaire.png" alt="Résultat" /></p>
 
 ## Les commandes d'action
 
