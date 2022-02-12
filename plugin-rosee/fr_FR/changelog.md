@@ -13,9 +13,10 @@ pluginId: rosee
 
 > **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
 
-# Version 20220205 (Beta)
+# Version 202202xx (Beta)
 
 - Affichage Core v4.2
+- La méthode js jeedom.eqLogic.builSelectCmd a été renommée correctement : jeedom.eqLogic.buildSelectCmd.
 
 # Version 20211101
 
