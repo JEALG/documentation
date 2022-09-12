@@ -15,6 +15,8 @@ pluginId: rosee
 
 ## Version 202202xx (Beta)
 
+## Version 20220212
+
 - Affichage Core v4.2
 - Fonction Core v4.3
 - La méthode js jeedom.eqLogic.builSelectCmd a été renommée correctement : jeedom.eqLogic.buildSelectCmd.
