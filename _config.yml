@@ -1,5 +1,5 @@
 ---
-languages: [fr_FR,en_US,es_ES,de_DE]
+languages: [fr_FR, en_US, es_ES, de_DE]
 baseurl: "/"
 url: "/" # the base hostname & protocol for your site
 sass:
@@ -12,12 +12,12 @@ kramdown:
   hard_wrap: false
 highlighter: rouge
 gems:
-- jekyll-paginate
-- jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-seo-tag
 exclude:
-- vendor
+  - vendor
 plugins:
-- jekyll-seo-tag
+  - jekyll-seo-tag
 title: "Documentations des plugins et widgets de JAG"
 description: "Ceci est la documentation des plugins et widgets créés par JAG de la solution domotique Jeedom."
 author: "JAG"
@@ -26,10 +26,6 @@ twitter:
   username: Jeedom_domotic
 social:
   name: Jeedom
-  links:
-    - https://twitter.com/Jeedom_domotic
-    - https://www.facebook.com/Jeedom-249936178537210/
-    - https://github.com/jeedom
 community: https://community.jeedom.com
 market: https://market.jeedom.com
 blog: https://blog.jeedom.com
