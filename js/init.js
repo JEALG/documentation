@@ -35,8 +35,6 @@ var docMenu = [
     ]
   }, {
 		divider: true
-  }, {
-		divider: true
   },
 ]
 
