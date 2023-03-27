@@ -7,14 +7,16 @@ pluginId: rosee
 
 <img src="{{site.baseurl}}/plugin-rosee/{{site.img}}/rosee_icon.png" class="pluginLogo" width="100" />
 
-## Info
-
-### Important
+## Important
 
 > **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
 
-## Version 202202xx (Beta)
+## Changelog
 
+## Version 20230327
+
+- Typo
+s
 ## Version 20220212
 
 - Affichage Core v4.2
