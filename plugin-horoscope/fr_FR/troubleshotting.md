@@ -21,7 +21,7 @@ pluginId: horoscope
 
 - Je n'ai pas d'informations qui s'affiche sur le dashboard
 
-> <img src="../images/horoscope_dashboard.png" alt="Auto actualisation" width="60" />
+> <img src="../images/horoscope_dashboard.png" alt="Auto actualisation" width="350" />
 
 
 > Il faut cocher les cases des informations voulues dans l'équipement
