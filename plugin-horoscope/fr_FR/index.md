@@ -1,17 +1,21 @@
 ---
 layout: default
-title: Plugin Rosee - documentation
+title: Plugin Horoscope - documentation
 lang: fr_FR
-pluginId: rosee
+pluginId: horoscope
 ---
 
-<img src="{{site.baseurl}}/plugin-rosee/{{site.img}}/rosee_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
 
 # Description
 
-Ce plugin permet d'obtenir le point de rosée pour savoir si l'herbe sera mouillée le matin, ou bien en hiver savoir s'il va falloir gratter le pare-brise.
-Pour fonctionner, on doit indiquer un équipement température et un équipement humidité (extérieures, bien sûr…).
-Il est aussi possible de calculer la tendance Météo à venir en se basant sur l'évolution de la météo.
+Ce plugin permet de récupérer son horoscope tous les jours de façon automatique ou manuelle.
+
+Plusieurs phrases sont disponibles chaque jours en fonction de thèmes comme Amour, Argent, Famille, Santé, ...
+Une phrase symbolique est également disponible.
+
+Ceci peut être très pratique afin de donner l'horoscope du jour à une personne (via une caméra Netatmo par exemple) ou par TTS tous les jours.
+
 
 # Configuration
 
