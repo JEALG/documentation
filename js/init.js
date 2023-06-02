@@ -33,7 +33,36 @@ var docMenu = [
 				fr_FR: "Troubleshotting"
 			}
     ]
-  }, {
+  },{
+	fr_FR: "Plugin Horoscope",
+	submenu: [
+		{
+			link: "/documentation/plugin-horoscope/#LANG#/index",
+			icon: "fas fa-book",
+			fr_FR: "Documentation"
+		},
+		{
+			link: "/documentation/plugin-horoscope/#LANG#/changelog",
+			icon: "fas fa-edit",
+			fr_FR: "Changelog"
+		},
+		{
+			link: "/documentation/plugin-horoscope/#LANG#/exemple",
+			icon: "fas fa-paint-brush",
+			fr_FR: "Exemples"
+		},
+		{
+			link: "/documentation/plugin-horoscope/#LANG#/faq",
+			icon: "fas fa-question",
+			fr_FR: "FAQ"
+		},
+		{
+			link: "/documentation/plugin-horoscope/#LANG#/troubleshotting",
+			icon: "fas fa-life-ring",
+			fr_FR: "Troubleshotting"
+		}
+]
+}, {
 		divider: true
   },
 ]
