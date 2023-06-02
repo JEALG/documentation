@@ -18,6 +18,11 @@ var docMenu = [
 				fr_FR: "Changelog"
 			},
 			{
+				link: "/documentation/plugin-rosee/#LANG#/changelog_BETA",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog BETA"
+			},
+			{
 				link: "/documentation/plugin-rosee/#LANG#/exemple",
 				icon: "fas fa-paint-brush",
 				fr_FR: "Exemples"
@@ -45,6 +50,11 @@ var docMenu = [
 			link: "/documentation/plugin-horoscope/#LANG#/changelog",
 			icon: "fas fa-edit",
 			fr_FR: "Changelog"
+		},
+		{
+			link: "/documentation/plugin-horoscope/#LANG#/changelog_beta",
+			icon: "fas fa-edit",
+			fr_FR: "Changelog BETA"
 		},
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/exemple",
