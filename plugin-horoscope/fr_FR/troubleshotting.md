@@ -17,7 +17,7 @@ pluginId: horoscope
 
 > Il faut vérifier que la valeur d'Auto-actualisation ne soit pas vide
 >
-> ![Auto actualisation](../{{site.img}}/horoscope_actualisation.png)
+> <img src="../images/horoscope_actualisation.png" alt="Auto actualisation" width="60" />
 
 - Je n'ai pas d'informations qui s'affiche sur le dashboard
 
