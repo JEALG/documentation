@@ -11,14 +11,18 @@ pluginId: horoscope
 
 - Je n'ai pas d'informations qui remontent
 
-> es commandes sont créées automatiquement après la première actualisation de l'équipement..
+> Les commandes sont créées automatiquement après la première actualisation de l'équipement..
 
 - Je n'ai pas d'actualisation automatique
 
-> La température dépasse 5°C donc le point de givrage n'est plus calculé et sa valeur est fixée à 5.
+> Il faut vérifier que la valeur d'Auto-actualisation ne soit pas vide
+>
+> ![Auto actualisation](../{{site.img}}/horoscope_actualisation.png)
 
-- Le calcul de la tendance ne se fait pas
+- Je n'ai pas d'informations qui s'affiche sur le dashboard
 
-> Il faut attendre 4h pour avoir des résultats corrects lors de la création de l'équipement.
-> L'équipement doit avoir l'historique d'activé pour fonctionner.
+![Dashboard](../{{site.img}}/horoscope_dashboard.png)
 
+> Il faut cocher les cases des informations voulues dans l'équipement
+>
+> ![Commande](../{{site.img}}/horoscope_commande.png)
