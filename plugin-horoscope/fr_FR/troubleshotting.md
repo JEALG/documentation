@@ -17,11 +17,12 @@ pluginId: horoscope
 
 > Il faut vérifier que la valeur d'Auto-actualisation ne soit pas vide
 >
-> <img src="../images/horoscope_actualisation.png" alt="Auto actualisation" width="60" />
+> <img src="../images/horoscope_actualisation.png" alt="Auto actualisation" width="200" />
 
 - Je n'ai pas d'informations qui s'affiche sur le dashboard
 
-![Dashboard](../{{site.img}}/horoscope_dashboard.png)
+> <img src="../images/horoscope_dashboard.png" alt="Auto actualisation" width="60" />
+
 
 > Il faut cocher les cases des informations voulues dans l'équipement
 >
