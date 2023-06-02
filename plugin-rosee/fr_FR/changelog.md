@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2023
 
+#### 02/06/2023
+
+- Mise à jour info market
+
 #### 02/04/2023
 
 - Correction pour core 4.4

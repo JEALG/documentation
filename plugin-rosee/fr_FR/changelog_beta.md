@@ -15,3 +15,6 @@ pluginId: rosee
 
 ### 2023
 
+#### 02/06/2023
+
+- Mise à jour info market
