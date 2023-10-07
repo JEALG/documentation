@@ -18,7 +18,7 @@ var docMenu = [
 				fr_FR: "Changelog"
 			},
 			{
-				link: "/documentation/plugin-rosee/#LANG#/changelog_BETA",
+				link: "/documentation/plugin-rosee/#LANG#/changelog_beta",
 				icon: "fas fa-edit",
 				fr_FR: "Changelog BETA"
 			},
