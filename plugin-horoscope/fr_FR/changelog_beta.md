@@ -15,7 +15,8 @@ pluginId: horoscope
 
 ### 2023
 
-#### 02/06/2023
+#### 08/10/2023
 
-- Récupèration plugin
-- Version mini Core pour le plugin est 4.2
+- Amélioration info vers communauty pour le Core 4.4
+- Typo
+- Changement du sous type de commande pour le nombre de chance en numérique
