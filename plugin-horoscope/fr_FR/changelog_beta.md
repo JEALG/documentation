@@ -20,6 +20,7 @@ pluginId: horoscope
 - Ajout type d'horosocope (Normal ou condensé)
 - Modification création commande Signe
 - Debut modification création des commandes
+- Possibilité de supprimer les commandes
 
 
 #### 08/10/2023
