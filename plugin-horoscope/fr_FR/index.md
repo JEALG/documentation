@@ -34,3 +34,4 @@ Un widget est appliqué automatiquement sur la commande **Signe du zodiaque**
 > Exemples de commandes disponibles
 
 > ![Commande](../{{site.img}}/horoscope_commande.png)
+
