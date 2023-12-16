@@ -15,16 +15,8 @@ pluginId: horoscope
 
 ### 2023
 
-#### 25/11/2023
+#### 16/12/2023
 
 - Ajout type d'horosocope (Normal ou condensé)
-- Modification création commande Signe
-- Debut modification création des commandes
+- Modification de la création des commandes
 - Possibilité de supprimer les commandes
-
-
-#### 08/10/2023
-
-- Amélioration info vers communauty pour le Core 4.4
-- Typo
-- Changement du sous type de commande pour le nombre de chance en numérique
