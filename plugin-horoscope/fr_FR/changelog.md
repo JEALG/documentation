@@ -23,7 +23,7 @@ pluginId: horoscope
 
 #### 08/10/2023
 
-- Amélioration info vers communauty pour le Core 4.4
+- Amélioration info vers Community pour le Core 4.4
 - Typo
 - Changement du sous type de commande pour le nombre de chance en numérique
 
