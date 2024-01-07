@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Plugin Rosee - Changelog BETA
+title:  METAR/TAF Infos Météo Aéroports - Changelog BETA
 lang: fr_FR
-pluginId: rosee
+pluginId: Metar_infos
 ---
 
-<img src="{{site.baseurl}}/plugin-rosee/{{site.img}}/rosee_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-Metar_infos/{{site.img}}/Metar_infos_icon.png" class="pluginLogo" width="100" />
 
 ## Important
 
