@@ -19,20 +19,20 @@ pluginId: Metar_infos
 
 #### 08/01/2024
 
-    - Correction Bug liste déroulante : Choix de l'Aéroport
+- Correction Bug liste déroulante : Choix de l'Aéroport
 
 #### 01/01/2024
 
-    - Amélioration info vers Community pour le Core 4.4
-    - Typo
-    - Correction Warning PHP 8
+- Amélioration info vers Community pour le Core 4.4
+- Typo
+- Correction Warning PHP 8
 
 ### 2023
 
 #### 02/06/2024
 
-    - Ajout lien vers Community
+- Ajout lien vers Community
 
 #### 02/04/2024
 
-    - Support Core 4.4
+- Support Core 4.4
