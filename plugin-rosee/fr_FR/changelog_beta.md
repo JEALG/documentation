@@ -13,6 +13,12 @@ pluginId: rosee
 
 ## Changelog BETA
 
+### 2024
+
+### 14/01/2024
+
+- Amélioration pour core V4.4
+
 ### 2023
 
 #### 08/10/2023

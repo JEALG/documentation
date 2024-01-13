@@ -17,6 +17,10 @@ pluginId: Metar_infos
 
 ### 2024
 
+### 14/01/2024
+
+- Amélioration pour core V4.4
+
 #### 08/01/2024
 
 - Correction Bug liste déroulante : Choix de l'Aéroport
