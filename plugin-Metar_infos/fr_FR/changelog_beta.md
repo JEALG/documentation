@@ -11,7 +11,7 @@ pluginId: Metar_infos
 
 > Ce changelog est hébergé provisoirement en attendant la remise en service du site officiel
 >
-> **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineur.
+> **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineurs.
 
 ## Changelog BETA
 
