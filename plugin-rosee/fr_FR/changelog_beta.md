@@ -15,7 +15,7 @@ pluginId: rosee
 
 ### 2024
 
-### 05/02/2024
+### 04/02/2024
 
 - Suppression lien community suite changement core 4.4
 - Amélioration affichage sous tableau
