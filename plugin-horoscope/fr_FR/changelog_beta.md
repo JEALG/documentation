@@ -15,6 +15,11 @@ pluginId: horoscope
 
 ### 2024
 
+### 04/02/2024
+
+- Suppression lien community suite changement core 4.4
+- Amélioration barre de recherche
+
 ### 14/01/2024
 
 - Amélioration pour core V4.4
