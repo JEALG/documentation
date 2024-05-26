@@ -15,6 +15,11 @@ pluginId: rosee
 
 ### 2024
 
+### 26/05/2024
+
+- Contrôle de la valeur des paramètres spécifiques : Arrêt des calculs si pas de valeur
+- Amélioration des logs
+
 ### 04/02/2024
 
 - Suppression lien community suite changement core 4.4
