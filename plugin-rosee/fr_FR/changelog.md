@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2024
 
+### 28/05/2024
+
+- Correction valeur nulle
+
 ### 26/05/2024
 
 - Contrôle de la valeur des paramètres spécifiques : Arrêt des calculs si pas de valeur
