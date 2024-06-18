@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2024
 
+### 17/06/2024
+
+- Amélioration Log core 4.4
+
 ### 28/05/2024
 
 - Correction valeur nulle
