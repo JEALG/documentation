@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2024
 
+### 30/06/2024
+
+- Typo CRON
+
 ### 17/06/2024
 
 - Amélioration Log core 4.4
