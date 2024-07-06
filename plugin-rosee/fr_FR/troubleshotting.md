@@ -21,7 +21,7 @@ pluginId: rosee
 - Le calcul de la tendance ne se fait pas
 
 > Il faut attendre 4h pour avoir des résultats corrects lors de la création de l'équipement.
-> L'équipement doit avoir l'historique d'activé pour fonctionner.
+> L'équipement doit avoir l'historique d'activé pour fonctionner et avoir "Répéter les valeurs identiques" sur Oui.
 
 # Message d'erreur
 

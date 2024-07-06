@@ -31,7 +31,7 @@ Le plugin ne comporte pas de configuration générale, il faut :
     - Équipement "Température" (°C)
     - Équipement "Humidité Relative" (%)
     - Équipement "Vitesse du Vent"
-    - Équipement "Pression Atmosphérique" (hPa) : Ce champ est obligatoire pour la méthode de calcul "Tendance Météo" et il doit avoir l'historique d'activé. Pour les autres calculs, la valeur est fixée à 1013.25 hPa si non renseignée.
+    - Équipement "Pression Atmosphérique" (hPa) : Ce champ est obligatoire pour la méthode de calcul "Tendance Météo" et il doit avoir l'historique d'activé et avoir "Répéter les valeurs identiques" sur Oui. Pour les autres calculs, la valeur est fixée à 1013.25 hPa si non renseignée.
 
 <b>En option : </b>
 
