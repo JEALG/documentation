@@ -15,7 +15,7 @@ pluginId: rosee
 
 ### 2024
 
-### 06/07/2024
+### 09/07/2024
 
 - Changement logicalId pour la commande grivrage (givrage => frost_point)
 - Changement logicalId pour la commande Humidité Relative (humidityabs => humidityabs_m3)

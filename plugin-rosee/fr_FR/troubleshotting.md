@@ -60,3 +60,16 @@ Le champ "Pression Atmosphérique" ne peut être vide
 > Il faut vérifier qu'un équipement soit sélectionné dans le champ avec la flèche orange (voir image ci-dessous). Cette erreur apparait uniquement si le champ **Type de Calcul** a la valeur **_Tendance Météo_**<br/>
 
 ![Calcul Vide](../{{site.img}}/erreur_champ_vide.png)
+
+## L'historique de la commande xxx doit être activé
+
+```
+L'historique de la commande xxx doit être activé
+```
+
+> l'historique de la commande xx doit ête obligatoirement activé.
+(voir image ci-dessous)<br/>
+
+![Historique](../{{site.img}}/pression1.png)
+<br/>
+![Historique](../{{site.img}}/pression2.png)
