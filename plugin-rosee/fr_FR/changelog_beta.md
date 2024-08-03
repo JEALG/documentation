@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2024
 
+### 03/08/2024
+
+- Amélioration mise à jour des commandes
+
 ### 09/07/2024
 
 - Changement logicalId pour la commande grivrage (givrage => frost_point)

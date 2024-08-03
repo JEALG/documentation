@@ -61,7 +61,7 @@ Le champ "Pression Atmosphérique" ne peut être vide
 
 ![Calcul Vide](../{{site.img}}/erreur_champ_vide.png)
 
-## L'historique de la commande xxx doit être activé
+## L'historique de la commande Pression doit être activé
 
 ```
 L'historique de la commande xxx doit être activé
