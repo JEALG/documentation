@@ -15,6 +15,10 @@ pluginId: horoscope
 
 ### 2024
 
+### 12/08/2024
+
+- Traduction
+
 ### 21/06/2024
 
 - Typo Log core 4.4

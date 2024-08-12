@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2024
 
+### 12/08/2024
+
+- Traduction
+
 ### 03/08/2024
 
 - Amélioration mise à jour des commandes
