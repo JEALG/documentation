@@ -15,6 +15,12 @@ pluginId: horoscope
 
 ### 2024
 
+### 21/08/2024
+
+- Traduction
+- Typo Log core 4.4
+- Amélioration Log core 4.4
+
 ### 04/02/2024
 
 - Suppression lien community suite changement core 4.4

@@ -15,6 +15,16 @@ pluginId: rosee
 
 ### 2024
 
+### 21/08/2024
+
+- Traduction
+- Amélioration mise à jour des commandes
+- Changement logicalId pour la commande grivrage (givrage => frost_point)
+- Changement logicalId pour la commande Humidité Relative (humidityabs => humidityabs_m3)
+- Tendance : plus de calcul si l'historique est null
+- Typo CRON
+- Amélioration Log core 4.4
+
 ### 28/05/2024
 
 - Correction valeur nulle
