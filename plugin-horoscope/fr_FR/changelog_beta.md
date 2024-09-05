@@ -15,31 +15,6 @@ pluginId: horoscope
 
 ### 2024
 
-### 12/08/2024
+### 05/09/2024
 
-- Traduction
-
-### 21/06/2024
-
-- Typo Log core 4.4
-
-### 17/06/2024
-
-- Amélioration Log core 4.4
-
-### 04/02/2024
-
-- Suppression lien community suite changement core 4.4
-- Amélioration barre de recherche
-
-### 14/01/2024
-
-- Amélioration pour core V4.4
-
-### 2023
-
-#### 16/12/2023
-
-- Ajout type d'horosocope (Normal ou condensé)
-- Modification de la création des commandes
-- Possibilité de supprimer les commandes
+- Correction PHP 8

@@ -15,6 +15,10 @@ pluginId: horoscope
 
 ### 2024
 
+### 05/09/2024
+
+- Correction PHP 8
+
 ### 21/08/2024
 
 - Traduction
