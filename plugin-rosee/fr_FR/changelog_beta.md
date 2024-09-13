@@ -15,6 +15,11 @@ pluginId: rosee
 
 ### 2024
 
+### 14/08/2024
+
+- Traduction
+- correction Php 8
+
 ### 12/08/2024
 
 - Traduction
