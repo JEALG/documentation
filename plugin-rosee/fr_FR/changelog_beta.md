@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2024
 
+### 17/08/2024
+
+- Tendance : en cas d'absence de données dans l'historique, les données de tendance et tendance numérique ne sont pas mis à jour 
+
 ### 14/08/2024
 
 - Traduction
