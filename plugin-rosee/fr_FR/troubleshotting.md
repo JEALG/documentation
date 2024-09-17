@@ -73,3 +73,6 @@ L'historique de la commande xxx doit être activé
 ![Historique](../{{site.img}}/pression1.png)
 <br/>
 ![Historique](../{{site.img}}/pression2.png)
+
+Dans certain cas, il est aussi conseillé d'activer "Répéter les valeurs identiques" pour éviter d'avoir l'erreur durant les calculs
+![Historique](../{{site.img}}/pression3.png)
