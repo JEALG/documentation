@@ -13,16 +13,16 @@ pluginId: Metar_infos
 >
 > **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineurs.
 
-## Changelog BETA
+## Changelog
 
 ### 2024
 
-### 05/02/2024
+#### 05/02/2024
 
 - Suppression lien community suite changement core 4.4
 - Amélioration affichage sous tableau
 
-### 14/01/2024
+#### 14/01/2024
 
 - Amélioration pour core V4.4
 
