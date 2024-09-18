@@ -22,7 +22,7 @@ pluginId: Metar_infos
 - Correction des warning PHP 8
 - Reprise des textes des prévisions
 - Ajout des min/max/unité des commandes numériques
-- Correction de bug merci @jpty https://community.jeedom.com/t/error-debian-12-php8/127613?u=jag
+- Correction de bug merci @jpty [https://community.jeedom.com/t/error-debian-12-php8/127613?u=jag](https://community.jeedom.com/t/error-debian-12-php8/127613?u=jag)
 - Nettoyage du code
 - Ajout des traductions
 - Correction des crons
