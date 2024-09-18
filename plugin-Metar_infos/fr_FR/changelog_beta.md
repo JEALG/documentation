@@ -17,7 +17,6 @@ pluginId: Metar_infos
 
 ### 2024
 
-
 ### xx/09/2024
 
 - Correction des warning PHP 8

@@ -73,6 +73,20 @@ var docMenu = [
 		}
 ]
 }, {
+	fr_FR: "Plugin METAR",
+	submenu: [
+		{
+			link: "/documentation/plugin-Metar_infos/#LANG#/changelog",
+			icon: "fas fa-edit",
+			fr_FR: "Changelog"
+		},
+		{
+			link: "/documentation/plugin-Metar_infos/#LANG#/changelog_beta",
+			icon: "fas fa-edit",
+			fr_FR: "Changelog BETA"
+		}
+]
+},{
 		divider: true
   },
 ]
