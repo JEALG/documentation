@@ -12,32 +12,38 @@ var docMenu = [
 			{
 				link: "/documentation/plugin-rosee/#LANG#/index",
 				icon: "fas fa-book",
-				fr_FR: "Documentation"
+				fr_FR: "Documentation",
+				en_US: "Documentation"
 			},
 			{
 				link: "/documentation/plugin-rosee/#LANG#/changelog",
 				icon: "fas fa-edit",
-				fr_FR: "Changelog"
+				fr_FR: "Changelog",
+				en_US: "Changelog"
 			},
 			{
 				link: "/documentation/plugin-rosee/#LANG#/changelog_beta",
 				icon: "fas fa-edit",
-				fr_FR: "Changelog BETA"
+				fr_FR: "Changelog BETA",
+				en_US: "Changelog BETA"
 			},
 			{
 				link: "/documentation/plugin-rosee/#LANG#/exemple",
 				icon: "fas fa-paint-brush",
-				fr_FR: "Exemples"
+				fr_FR: "Exemples",
+				en_US: "Examples"
 			},
 			{
 				link: "/documentation/plugin-rosee/#LANG#/faq",
 				icon: "fas fa-question",
-				fr_FR: "FAQ"
+				fr_FR: "FAQ",
+				en_us: "FAQ"
 			},
 			{
 				link: "/documentation/plugin-rosee/#LANG#/troubleshotting",
 				icon: "fas fa-life-ring",
-				fr_FR: "Troubleshotting"
+				fr_FR: "Troubleshotting",
+				en_US: "Troubleshotting"
 			}
     ]
   },{
@@ -47,32 +53,38 @@ var docMenu = [
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/index",
 			icon: "fas fa-book",
-			fr_FR: "Documentation"
+			fr_FR: "Documentation",
+			en_US: "Documentation"
 		},
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/changelog",
 			icon: "fas fa-edit",
-			fr_FR: "Changelog"
+			fr_FR: "Changelog",
+			en_US: "Changelog",
 		},
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/changelog_beta",
 			icon: "fas fa-edit",
-			fr_FR: "Changelog BETA"
+			fr_FR: "Changelog BETA",
+			en_US: "Changelog BETA"
 		},
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/exemple",
 			icon: "fas fa-paint-brush",
-			fr_FR: "Exemples"
+			fr_FR: "Exemples",
+			en_US: "Examples"
 		},
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/faq",
 			icon: "fas fa-question",
-			fr_FR: "FAQ"
+			fr_FR: "FAQ",
+			en_us: "FAQ"
 		},
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/troubleshotting",
 			icon: "fas fa-life-ring",
-			fr_FR: "Troubleshotting"
+			fr_FR: "Troubleshotting",
+			en_US: "Troubleshotting"
 		}
 ]
 },{
@@ -86,12 +98,14 @@ var docMenu = [
 		{
 			link: "/documentation/plugin-Metar_infos/#LANG#/changelog",
 			icon: "fas fa-edit",
-			fr_FR: "Changelog"
+			fr_FR: "Changelog",
+			en_US: "Changelog"
 		},
 		{
 			link: "/documentation/plugin-Metar_infos/#LANG#/changelog_beta",
 			icon: "fas fa-edit",
-			fr_FR: "Changelog BETA"
+			fr_FR: "Changelog BETA",
+			en_US: "Changelog BETA"
 		}
 ]
 },{
