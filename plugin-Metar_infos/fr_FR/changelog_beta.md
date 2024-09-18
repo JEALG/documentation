@@ -34,4 +34,5 @@ pluginId: Metar_infos
 - Amélioration des logs
 
 > **Attention : Il faut enregistrer les équipements pour avoir les dernières corrections ou ajout de commande.**
+>
 > **Version mini du Core V4.3**
