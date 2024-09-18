@@ -1,11 +1,13 @@
 var docMenu = [
 	{
 		fr_FR: "Github",
+		en_US: "Github",
 		link: "https://github.com/JEALG/"
   }, {
 		divider: true
-  }, {
+	}, {	
 		fr_FR: "Plugin Rosee",
+		en_US: "Plugin Rosee",
 		submenu: [
 			{
 				link: "/documentation/plugin-rosee/#LANG#/index",
@@ -40,6 +42,7 @@ var docMenu = [
     ]
   },{
 	fr_FR: "Plugin Horoscope",
+	en_US: "Plugin Horoscope",
 	submenu: [
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/index",
@@ -74,8 +77,11 @@ var docMenu = [
 ]
 },{
 	divider: true
-}, {
-	fr_FR: "Plugin METAR",
+},
+	{
+		fr_FR: "Plugin METAR",
+		en_US: "Plugin METAR",
+	
 	submenu: [
 		{
 			link: "/documentation/plugin-Metar_infos/#LANG#/changelog",
