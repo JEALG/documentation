@@ -72,6 +72,8 @@ var docMenu = [
 			fr_FR: "Troubleshotting"
 		}
 ]
+},{
+	divider: true
 }, {
 	fr_FR: "Plugin METAR",
 	submenu: [
