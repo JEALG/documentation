@@ -37,7 +37,7 @@ var docMenu = [
 				link: "/documentation/plugin-rosee/#LANG#/faq",
 				icon: "fas fa-question",
 				fr_FR: "FAQ",
-				en_us: "FAQ"
+				en_US: "FAQ"
 			},
 			{
 				link: "/documentation/plugin-rosee/#LANG#/troubleshotting",
@@ -78,7 +78,7 @@ var docMenu = [
 			link: "/documentation/plugin-horoscope/#LANG#/faq",
 			icon: "fas fa-question",
 			fr_FR: "FAQ",
-			en_us: "FAQ"
+			en_US: "FAQ"
 		},
 		{
 			link: "/documentation/plugin-horoscope/#LANG#/troubleshotting",
