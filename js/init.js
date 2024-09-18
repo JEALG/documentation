@@ -96,13 +96,13 @@ var docMenu = [
 	
 	submenu: [
 		{
-			link: "/documentation/plugin-Metar_infos/#LANG#/changelog",
+			link: "/documentation/plugin-Metar_infos/fr_FR/changelog",
 			icon: "fas fa-edit",
 			fr_FR: "Changelog",
 			en_US: "Changelog"
 		},
 		{
-			link: "/documentation/plugin-Metar_infos/#LANG#/changelog_beta",
+			link: "/documentation/plugin-Metar_infos/fr_FR/changelog_beta",
 			icon: "fas fa-edit",
 			fr_FR: "Changelog BETA",
 			en_US: "Changelog BETA"
