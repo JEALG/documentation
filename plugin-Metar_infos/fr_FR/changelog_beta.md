@@ -17,7 +17,7 @@ pluginId: Metar_infos
 
 ### 2024
 
-#### xx/09/2024
+#### 19/09/2024
 
 - Correction des warning PHP 8
 - Reprise des textes des prévisions
@@ -33,31 +33,5 @@ pluginId: Metar_infos
 - Reprise de l'ensemble des mises à jours des commandes => Merci @Phpvarious
 - Amélioration des logs
 
-#### 05/02/2024
-
-- Suppression lien community suite changement core 4.4
-- Amélioration affichage sous tableau
-
-#### 14/01/2024
-
-- Amélioration pour core V4.4
-
-#### 08/01/2024
-
-- Correction Bug liste déroulante : Choix de l'Aéroport
-
-#### 01/01/2024
-
-- Amélioration info vers Community pour le Core 4.4
-- Typo
-- Correction Warning PHP 8
-
-### 2023
-
-#### 02/06/2024
-
-- Ajout lien vers Community
-
-#### 02/04/2024
-
-- Support Core 4.4
+> **Attention : Il faut enregistrer les équipements pour avoir les dernières corrections ou ajout de commande.**
+> **Version mini du Core V4.3**
