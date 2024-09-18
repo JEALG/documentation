@@ -15,27 +15,27 @@ pluginId: horoscope
 
 ### 2024
 
-### 13/09/2024
+#### 13/09/2024
 
 - Correction PHP 8
 - Traduction
 
-### 05/09/2024
+#### 05/09/2024
 
 - Correction PHP 8
 
-### 21/08/2024
+#### 21/08/2024
 
 - Traduction
 - Typo Log core 4.4
 - Amélioration Log core 4.4
 
-### 04/02/2024
+#### 04/02/2024
 
 - Suppression lien community suite changement core 4.4
 - Amélioration barre de recherche
 
-### 14/01/2024
+#### 14/01/2024
 
 - Amélioration pour core V4.4
 

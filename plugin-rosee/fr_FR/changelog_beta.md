@@ -15,34 +15,34 @@ pluginId: rosee
 
 ### 2024
 
-### 17/08/2024
+#### 17/08/2024
 
 - Tendance : en cas d'absence de données dans l'historique, les données de tendance et tendance numérique ne sont pas mis à jour 
 
-### 14/08/2024
+#### 14/08/2024
 
 - Traduction
 - correction Php 8
 
-### 12/08/2024
+#### 12/08/2024
 
 - Traduction
 
-### 03/08/2024
+#### 03/08/2024
 
 - Amélioration mise à jour des commandes
 
-### 09/07/2024
+#### 09/07/2024
 
 - Changement logicalId pour la commande grivrage (givrage => frost_point)
 - Changement logicalId pour la commande Humidité Relative (humidityabs => humidityabs_m3)
 - Tendance : plus de calcul si l'historique est null
 
-### 30/06/2024
+#### 30/06/2024
 
 - Typo CRON
 
-### 17/06/2024
+#### 17/06/2024
 
 - Amélioration Log core 4.4
 

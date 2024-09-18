@@ -15,11 +15,11 @@ pluginId: horoscope
 
 ### 2024
 
-### 13/09/2024
+#### 13/09/2024
 
 - Correction PHP 8
 - Traduction
 
-### 05/09/2024
+#### 05/09/2024
 
 - Correction PHP 8
