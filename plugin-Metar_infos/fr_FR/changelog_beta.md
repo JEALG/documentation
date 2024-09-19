@@ -17,7 +17,7 @@ pluginId: Metar_infos
 
 ### 2024
 
-#### 19/09/2024
+#### 19-20/09/2024
 
 - Correction des warning PHP 8
 - Reprise des textes des prévisions
