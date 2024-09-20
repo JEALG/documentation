@@ -32,6 +32,7 @@ pluginId: Metar_infos
 - Mise à jour code ICAO (typo)
 - Reprise de l'ensemble des mises à jours des commandes => Merci @Phpvarious
 - Amélioration des logs
+- Changement du logicalId pour la commande "TAF valide" de "TAFvalide" à "tafvalide"
 
 > **Attention : Il faut enregistrer les équipements pour avoir les dernières corrections ou ajout de commande.**
 >
