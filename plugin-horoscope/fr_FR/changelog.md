@@ -15,6 +15,12 @@ pluginId: horoscope
 
 ### 2024
 
+#### 22/09/2024
+
+- Traduction
+
+> **Attention : la traduction est uniquement faite sur l'interface, la source des horoscopes est uniquement en français**
+
 #### 13/09/2024
 
 - Correction PHP 8
