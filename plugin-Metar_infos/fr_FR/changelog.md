@@ -17,6 +17,27 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 24/09/2024
+
+- Correction des warning PHP 8
+- Reprise des textes des prévisions
+- Ajout des min/max/unité des commandes numériques
+- Correction de bug merci @jpty [https://community.jeedom.com/t/error-debian-12-php8/127613?u=jag](https://community.jeedom.com/t/error-debian-12-php8/127613?u=jag)
+- Nettoyage du code
+- Ajout des traductions
+- Correction des crons
+- Mise à jour des noms des commandes (Update + Nouveau) => Intégration traduction
+- Ajout commande "icône météo" => Merci @Phpvarious + ajout widget
+- Suppression commande tendance
+- Mise à jour code ICAO (typo)
+- Reprise de l'ensemble des mises à jours des commandes => Merci @Phpvarious
+- Amélioration des logs
+- Changement du logicalId pour la commande "TAF valide" de "TAFvalide" à "tafvalide"
+
+> **Attention : Il faut enregistrer les équipements pour avoir les dernières corrections ou ajout de commande.**
+>
+> **Version mini du Core V4.3**
+
 #### 05/02/2024
 
 - Suppression lien community suite changement core 4.4
