@@ -15,14 +15,18 @@ pluginId: rosee
 
 ### 2024
 
-#### 22/08/2024
+#### 25/09/2024
+
+- Correction bug setConfiguration sur la création des commandes
+
+#### 22/09/2024
 
 - Tendance : en cas d'absence de données dans l'historique, les données de tendance et tendance numérique ne sont pas mis à jour
-- Traduction
+- Traduction  (Merci @Mips)
 
-#### 14/08/2024
+#### 14/09/2024
 
-- Traduction
+- Traduction (Merci @Mips)
 - correction Php 8
 
 #### 21/08/2024
