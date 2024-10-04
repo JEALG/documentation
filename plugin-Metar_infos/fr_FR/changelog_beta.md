@@ -17,6 +17,11 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 05/10/2024
+
+- Ajout image FOG nécessaire pour le widget
+
+
 #### 19-20-21/09/2024
 
 - Correction des warning PHP 8
