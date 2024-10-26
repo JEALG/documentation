@@ -17,6 +17,10 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 27/10/2024
+
+- Amélioration du bulletin météo vocal [https://community.jeedom.com/t/demande-damelioration-de-ce-super-plugin/132881?u=jag](https://community.jeedom.com/t/demande-damelioration-de-ce-super-plugin/132881?u=jag)
+
 #### 05/10/2024
 
 - Ajout image FOG nécessaire pour le widget
