@@ -21,7 +21,7 @@ pluginId: Metar_infos
 
 - Correction min/max humidité [https://community.jeedom.com/t/bug-humidite/133056?u=jag](https://community.jeedom.com/t/bug-humidite/133056?u=jag)
 - Correction convertion vitesse du vent
-- Suppression des parenthéses sur les messages vocaux[https://community.jeedom.com/t/bug-humidite/133056/4?u=jag](https://community.jeedom.com/t/bug-humidite/133056/4?u=jag)
+- Suppression des parenthèses sur les messages vocaux[https://community.jeedom.com/t/bug-humidite/133056/4?u=jag](https://community.jeedom.com/t/bug-humidite/133056/4?u=jag)
 - Traduction en français de la date pour les commandes "Bulletin météo" et "Heure locale du télégramme"
 
 #### 27/10/2024
