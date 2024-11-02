@@ -17,6 +17,10 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 03/11/2024
+
+- Amélioration messages vocaux [https://community.jeedom.com/t/bug-humidite/133056?u=jag](https://community.jeedom.com/t/bug-humidite/133056?u=jag)
+
 #### 01/11/2024
 
 - Correction min/max humidité [https://community.jeedom.com/t/bug-humidite/133056?u=jag](https://community.jeedom.com/t/bug-humidite/133056?u=jag)

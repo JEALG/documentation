@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2024
 
+#### 01/11/2024
+
+- Typo
+
 #### 25/09/2024
 
 - Correction bug setConfiguration sur la création des commandes

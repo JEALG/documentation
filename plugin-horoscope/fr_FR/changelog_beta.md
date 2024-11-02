@@ -15,6 +15,14 @@ pluginId: horoscope
 
 ### 2024
 
+#### 02/11/2024
+
+- Problème de création des requêtes [https://community.jeedom.com/t/debian-12-et-jeedom-4-4-19/133047?u=jag](https://community.jeedom.com/t/debian-12-et-jeedom-4-4-19/133047?u=jag)
+
+#### 01/11/2024
+
+- Typo
+
 #### 22/09/2024
 
 - Traduction
