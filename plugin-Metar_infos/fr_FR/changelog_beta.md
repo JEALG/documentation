@@ -20,6 +20,7 @@ pluginId: Metar_infos
 #### 03/11/2024
 
 - Amélioration messages vocaux [https://community.jeedom.com/t/bug-humidite/133056?u=jag](https://community.jeedom.com/t/bug-humidite/133056?u=jag)
+- Correction de bug refresh équipement merci @jpty
 
 #### 01/11/2024
 
