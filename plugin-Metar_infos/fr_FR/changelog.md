@@ -17,6 +17,10 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 12/11/2024
+
+- Correction max de la commande "Direction du Vent (degré)"
+
 #### 04/11/2024
 
 - Amélioration messages vocaux [https://community.jeedom.com/t/bug-humidite/133056?u=jag](https://community.jeedom.com/t/bug-humidite/133056?u=jag)
