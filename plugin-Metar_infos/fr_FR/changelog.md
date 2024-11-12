@@ -17,6 +17,10 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 13/11/2024
+
+- Remplacement du widget "Badge" par le widget "Line" (cela s'applique uniquement sur les nouveaux équipements) [https://community.jeedom.com/t/affichage-nouveau-plugin-metar-infos-sur-mobile/133685?u=jag](https://community.jeedom.com/t/affichage-nouveau-plugin-metar-infos-sur-mobile/133685?u=jag)
+
 #### 12/11/2024
 
 - Correction max de la commande "Direction du Vent (degré)"
