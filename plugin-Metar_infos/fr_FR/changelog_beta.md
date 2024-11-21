@@ -17,6 +17,10 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 22/11/2024
+
+- Ajout image neige pour le widget
+
 #### 13/11/2024
 
 - Remplacement du widget "Badge" par le widget "Line" (cela s'applique uniquement sur les nouveaux équipements) [https://community.jeedom.com/t/affichage-nouveau-plugin-metar-infos-sur-mobile/133685?u=jag](https://community.jeedom.com/t/affichage-nouveau-plugin-metar-infos-sur-mobile/133685?u=jag)
