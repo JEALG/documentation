@@ -20,7 +20,7 @@ pluginId: Metar_infos
 #### 25/11/2024
 
 - Convertion des rafales de vent en km/h
-- Ajout rafales de vent pour les nouveaux équipements
+- Ajout rafales de vent pour les nouveaux équipements (Pour les anciens équipements, il suffit d'enregistrer celui-ci)
 
 #### 22/11/2024
 
