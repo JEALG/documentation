@@ -17,6 +17,11 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 25/11/2024
+
+- Convertion des rafales de vent en km/h
+- Ajout rafales de vent pour les nouveaux équipements
+
 #### 22/11/2024
 
 - Ajout image neige pour le widget
