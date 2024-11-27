@@ -19,7 +19,7 @@ pluginId: Metar_infos
 
 #### 25/11/2024
 
-- Convertion des rafales de vent en km/h
+- Conversion des rafales de vent en km/h
 - Ajout rafales de vent pour les nouveaux équipements (Pour les anciens équipements, il suffit d'enregistrer celui-ci)
 - Ajout Widget mobile sur la commande "Icône météo"
 - Ajout icône pour la commande point de rosée
