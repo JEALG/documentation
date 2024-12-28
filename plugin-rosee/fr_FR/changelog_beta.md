@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2024
 
+#### 28/12/2024
+
+- Amélioration log
+
 #### 01/11/2024
 
 - Typo

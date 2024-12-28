@@ -17,6 +17,12 @@ pluginId: Metar_infos
 
 ### 2024
 
+#### 28/12/2024
+
+- Amélioration log
+- Mise à jour icône plugin
+- Mise à jour screen pour le market
+
 #### 25/11/2024
 
 - Conversion des rafales de vent en km/h
