@@ -13,6 +13,8 @@ pluginId: horoscope
 
 ## Changelog BETA
 
+### 2025
+
 ### 2024
 
 #### 02/11/2024

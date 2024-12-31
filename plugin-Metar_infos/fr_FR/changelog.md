@@ -15,6 +15,8 @@ pluginId: Metar_infos
 
 ## Changelog
 
+### 2025
+
 ### 2024
 
 #### 28/12/2024

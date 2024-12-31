@@ -13,6 +13,8 @@ pluginId: rosee
 
 ## Changelog BETA
 
+### 2025
+
 ### 2024
 
 ### 30/12/2024
