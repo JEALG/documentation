@@ -107,6 +107,8 @@ Le plugin met à disposition deux widgets pour la tendance :
 |     <b>7</b>      | Danger extrême. Arrêt de travail dans de nombreux domaines.                                                        |
 |     <b>8</b>      | Coup de chaleur imminent (danger de mort).                                                                         |
 
+## Autres infos
+
 - **Est-ce que le plugin s'appuie sur des API tiers ?**
 
 > Non, le plugin fait le calcul en interne par rapport à la température, l’humidité et la vitesse du vent
