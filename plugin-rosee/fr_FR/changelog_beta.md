@@ -15,6 +15,10 @@ pluginId: rosee
 
 ### 2025
 
+### 14/01/2025
+
+- Correction calcul température ressentie :https://community.jeedom.com/t/erreur-calcul-de-la-temperature-ressentie/136577?u=jag
+
 ### 2024
 
 ### 30/12/2024
