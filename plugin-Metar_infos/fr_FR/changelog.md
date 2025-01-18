@@ -38,7 +38,7 @@ pluginId: Metar_infos
 
 #### 13/11/2024
 
-- Remplacement du widget "Badge" par le widget "Line" (cela s'applique uniquement sur les nouveaux équipements) [https://community.jeedom.com/t/affichage-nouveau-plugin-metar-infos-sur-mobile/133685?u=jag](https://community.jeedom.com/t/affichage-nouveau-plugin-metar-infos-sur-mobile/133685?u=jag)
+- Remplacement du widget "Badge" par le widget "Line" (cela s'applique uniquement sur les nouveaux équipements) [https://community.jeedom.com/t/affichage-nouveau-plugin-metar-infos-sur-mobile/133685](https://community.jeedom.com/t/affichage-nouveau-plugin-metar-infos-sur-mobile/133685)
 
 #### 12/11/2024
 
@@ -46,23 +46,23 @@ pluginId: Metar_infos
 
 #### 04/11/2024
 
-- Amélioration messages vocaux [https://community.jeedom.com/t/bug-humidite/133056?u=jag](https://community.jeedom.com/t/bug-humidite/133056?u=jag)
+- Amélioration messages vocaux [https://community.jeedom.com/t/bug-humidite/133056](https://community.jeedom.com/t/bug-humidite/133056)
 
 #### 03/11/2024
 
-- Amélioration messages vocaux [https://community.jeedom.com/t/bug-humidite/133056?u=jag](https://community.jeedom.com/t/bug-humidite/133056?u=jag)
+- Amélioration messages vocaux [https://community.jeedom.com/t/bug-humidite/133056](https://community.jeedom.com/t/bug-humidite/133056)
 - Correction de bug refresh équipement merci @jpty
 
 #### 01/11/2024
 
-- Correction min/max humidité [https://community.jeedom.com/t/bug-humidite/133056?u=jag](https://community.jeedom.com/t/bug-humidite/133056?u=jag)
+- Correction min/max humidité [https://community.jeedom.com/t/bug-humidite/133056](https://community.jeedom.com/t/bug-humidite/133056)
 - Correction convertion vitesse du vent
-- Suppression des parenthèses sur les messages vocaux[https://community.jeedom.com/t/bug-humidite/133056/4?u=jag](https://community.jeedom.com/t/bug-humidite/133056/4?u=jag)
+- Suppression des parenthèses sur les messages vocaux[https://community.jeedom.com/t/bug-humidite/133056/4](https://community.jeedom.com/t/bug-humidite/133056/4)
 - Traduction en français de la date pour les commandes "Bulletin météo" et "Heure locale du télégramme"
 
 #### 27/10/2024
 
-- Amélioration du bulletin météo vocal [https://community.jeedom.com/t/demande-damelioration-de-ce-super-plugin/132881?u=jag](https://community.jeedom.com/t/demande-damelioration-de-ce-super-plugin/132881?u=jag)
+- Amélioration du bulletin météo vocal [https://community.jeedom.com/t/demande-damelioration-de-ce-super-plugin/132881](https://community.jeedom.com/t/demande-damelioration-de-ce-super-plugin/132881)
 
 #### 05/10/2024
 
@@ -73,7 +73,7 @@ pluginId: Metar_infos
 - Correction des warning PHP 8
 - Reprise des textes des prévisions
 - Ajout des min/max/unité des commandes numériques
-- Correction de bug merci @jpty [https://community.jeedom.com/t/error-debian-12-php8/127613?u=jag](https://community.jeedom.com/t/error-debian-12-php8/127613?u=jag)
+- Correction de bug merci @jpty [https://community.jeedom.com/t/error-debian-12-php8/127613](https://community.jeedom.com/t/error-debian-12-php8/127613)
 - Nettoyage du code
 - Ajout des traductions
 - Correction des crons
