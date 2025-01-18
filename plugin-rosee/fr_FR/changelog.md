@@ -22,7 +22,7 @@ pluginId: rosee
 
 ### 14/01/2025
 
-- Correction calcul température ressentie :https://community.jeedom.com/t/erreur-calcul-de-la-temperature-ressentie/136577?u=jag
+- Correction calcul température ressentie :https://community.jeedom.com/t/erreur-calcul-de-la-temperature-ressentie/136577
 
 ### 2024
 
@@ -149,7 +149,7 @@ pluginId: rosee
 
 - Correction Bug création des commandes
 - Correction Bug Min et Max des commandes numériques
-- Ajout calcul température ressentie pour l'hiver https://community.jeedom.com/t/temperature-ressentie/44377/2?u=jag
+- Ajout calcul température ressentie pour l'hiver https://community.jeedom.com/t/temperature-ressentie/44377/2
 
 #### Version 20201129
 
@@ -158,7 +158,7 @@ pluginId: rosee
 
 #### Version 20201105
 
-- Correction affichage chiffre pour les seuils et l'offset https://community.jeedom.com/t/pas-dalerte-givre/41213/8?u=jag
+- Correction affichage chiffre pour les seuils et l'offset https://community.jeedom.com/t/pas-dalerte-givre/41213/8
 
 #### Version 20201031
 
