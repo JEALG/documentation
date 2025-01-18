@@ -7,7 +7,12 @@ pluginId: Metar_infos
 
 <img src="{{site.baseurl}}/plugin-Metar_infos/{{site.img}}/Metar_infos_icon.png" class="pluginLogo" width="100" />
 
-# Troubleshotting
+## Important
+
+> Cette documentation est hébergé provisoirement en attendant la remise en service du site officiel
+
+
+## Troubleshotting
 
 - Je ne trouve pas mon aéroport dans la liste
 
