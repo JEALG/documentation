@@ -126,7 +126,7 @@ var docMenu = [
 			en_US: "FAQ"
 		},
 		{
-			link: "/documentation/plugin-Metar_infos#LANG#/troubleshotting",
+			link: "/documentation/plugin-Metar_infos/#LANG#/troubleshotting",
 			icon: "fas fa-life-ring",
 			fr_FR: "Troubleshotting",
 			en_US: "Troubleshotting"

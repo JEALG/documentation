@@ -20,5 +20,6 @@ Exemple de configuration
 
 ## Exemple de configuration
 
-![exemple équipement](../{{site.img}}/Metar_infos_screenshot2.png)
-![exemple dashboard](../{{site.img}}/Metar_infos_screenshot3.png)
+<img src="../images/Metar_infos_screenshot2.png" alt="Equipement" width="500" />
+
+<img src="../images/Metar_infos_screenshot2.png" alt="Dashboard" width="500" />
