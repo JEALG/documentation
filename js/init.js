@@ -106,6 +106,30 @@ var docMenu = [
 			icon: "fas fa-edit",
 			fr_FR: "Changelog BETA",
 			en_US: "Changelog BETA"
+		},
+		{
+			link: "/documentation/plugin-Metar_infos/#LANG#/changelog_beta",
+			icon: "fas fa-edit",
+			fr_FR: "Changelog BETA",
+			en_US: "Changelog BETA"
+		},
+		{
+			link: "/documentation/plugin-Metar_infos/#LANG#/exemple",
+			icon: "fas fa-paint-brush",
+			fr_FR: "Exemples",
+			en_US: "Examples"
+		},
+		{
+			link: "/documentation/plugin-Metar_infos/#LANG#/faq",
+			icon: "fas fa-question",
+			fr_FR: "FAQ",
+			en_US: "FAQ"
+		},
+		{
+			link: "/documentation/plugin-Metar_infos#LANG#/troubleshotting",
+			icon: "fas fa-life-ring",
+			fr_FR: "Troubleshotting",
+			en_US: "Troubleshotting"
 		}
 ]
 },{
