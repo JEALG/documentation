@@ -34,3 +34,11 @@ Ce plugin vous permet de récupérer et décoder les informations METAR d'un aé
 # Configuration
 
 Le plugin ne comporte pas de configuration particulière.
+
+> Dans l'équipement il faut choisir l'aéroport ou Saisir manuelle le code OACI 
+
+<img src="../images/choix_aeroport.png" alt="Choix de l'Aéroport" width="900" />
+
+> Type d'information : choisir le type de données soit METAR ou METAR et TAF
+
+<img src="../images/choix_metar.png" alt="Choix de l'Aéroport" width="900" />
