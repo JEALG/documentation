@@ -11,6 +11,25 @@ pluginId: Metar_infos
 
 Plugin permetant de recevoir les observations météo des aéroports (METAR) ainsi que les prévisions (TAF)
 
+Un METAR (officiellement METeorological Aerodrome Report1 mais parfois défini par METeorological Airport Report2) est un rapport d'observation (et non de prévision) météorologique pour l'aviation. 
+Ce plugin vous permet de récupérer et décoder les informations METAR d'un aéroport. Dans sa version actuelle, les infos suivantes sont disponibles (mais les données dépendent directement de ce qui est transmis par l'aéroport choisi) : 
+
+> - Etat du ciel
+> - Bulletin météo détaillé
+> - Metar Data
+> - Metar Valide
+> - Heure UTC du télégramme
+> - Heure Locale du télégramme
+> - Vitesse du vent
+> - Direction du vent
+> - Direction du vent(cap)
+> - Visibilité
+> - Température
+> - Point de rosée
+> - Humidité
+> - Pression Atmosphérique
+> - Nuages niveau 1 à 3
+> - Altitude Nuages niveau 1 à 3
 
 # Configuration
 
