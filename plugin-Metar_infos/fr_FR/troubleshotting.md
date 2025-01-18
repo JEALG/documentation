@@ -16,5 +16,6 @@ pluginId: Metar_infos
 
 - Je ne trouve pas mon aéroport dans la liste
 
-> la liste des aéroports METAR se trouve [http://tgftp.nws.noaa.gov/data/observations/metar/stations](ICI)
-> la liste des aéroports TAF se trouve [https://tgftp.nws.noaa.gov/data/forecasts/taf/stations/](ICI)
+> la liste des aéroports METAR se trouve [http://tgftp.nws.noaa.gov/data/observations/metar/stations/](http://tgftp.nws.noaa.gov/data/observations/metar/stations/)
+
+> la liste des aéroports TAF se trouve [https://tgftp.nws.noaa.gov/data/forecasts/taf/stations/](https://tgftp.nws.noaa.gov/data/forecasts/taf/stations/)

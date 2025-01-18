@@ -20,6 +20,6 @@ Exemple de configuration
 
 ## Exemple de configuration
 
-<img src="../images/Metar_infos_screenshot2.png" alt="Equipement" width="500" />
+<img src="../images/Metar_infos_screenshot2.png" alt="Equipement" width="900" />
 
-<img src="../images/Metar_infos_screenshot2.png" alt="Dashboard" width="500" />
+<img src="../images/Metar_infos_screenshot3.png" alt="Dashboard" width="500" />
