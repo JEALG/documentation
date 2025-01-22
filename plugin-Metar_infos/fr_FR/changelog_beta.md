@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  METAR/TAF Infos Météo Aéroports - Changelog BETA
+title:  Changelog-BETA
 lang: fr_FR
 pluginId: Metar_infos
 ---

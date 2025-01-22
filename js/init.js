@@ -6,8 +6,8 @@ var docMenu = [
   }, {
 		divider: true
 	},{
-		fr_FR: "plugin Freebox_OS",
-		en_US: "plugin Freebox_OS",
+		fr_FR: "Plugin Freebox_OS",
+		en_US: "Plugin Freebox_OS",
 		submenu: [
 			{
 				link: "/documentation/plugin-Freebox_OS/#LANG#/index",
@@ -24,8 +24,8 @@ var docMenu = [
 			{
 				link: "/documentation/plugin-Freebox_OS/#LANG#/changelog_beta",
 				icon: "fas fa-edit",
-				fr_FR: "Changelog BETA",
-				en_US: "Changelog BETA"
+				fr_FR: "Changelog-BETA",
+				en_US: "Changelog-BETA"
 			},
 			{
 				link: "/documentation/plugin-Freebox_OS/#LANG#/exemple",
@@ -65,8 +65,8 @@ var docMenu = [
 			{
 				link: "/documentation/plugin-horoscope/#LANG#/changelog_beta",
 				icon: "fas fa-edit",
-				fr_FR: "Changelog BETA",
-				en_US: "Changelog BETA"
+				fr_FR: "Changelog-BETA",
+				en_US: "Changelog-BETA"
 			},
 			{
 				link: "/documentation/plugin-horoscope/#LANG#/exemple",
@@ -106,8 +106,8 @@ var docMenu = [
 			{
 				link: "/documentation/plugin-rosee/#LANG#/changelog_beta",
 				icon: "fas fa-edit",
-				fr_FR: "Changelog BETA",
-				en_US: "Changelog BETA"
+				fr_FR: "Changelog-BETA",
+				en_US: "Changelog-BETA"
 			},
 			{
 				link: "/documentation/plugin-rosee/#LANG#/exemple",
@@ -151,8 +151,8 @@ var docMenu = [
 		{
 			link: "/documentation/plugin-Metar_infos/#LANG#/changelog_beta",
 			icon: "fas fa-edit",
-			fr_FR: "Changelog BETA",
-			en_US: "Changelog BETA"
+			fr_FR: "Changelog-BETA",
+			en_US: "Changelog-BETA"
 		},
 		{
 			link: "/documentation/plugin-Metar_infos/#LANG#/exemple",

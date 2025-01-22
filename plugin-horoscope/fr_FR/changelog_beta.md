@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plugin Horoscope - Changelog BETA
+title: Changelog-BETA
 lang: fr_FR
 pluginId: horoscope
 ---
