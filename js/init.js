@@ -5,7 +5,89 @@ var docMenu = [
 		link: "https://github.com/JEALG/"
   }, {
 		divider: true
-	}, {	
+	},{
+		fr_FR: "plugin Freebox_OS",
+		en_US: "plugin Freebox_OS",
+		submenu: [
+			{
+				link: "/documentation/plugin-Freebox_OS/#LANG#/index",
+				icon: "fas fa-book",
+				fr_FR: "Documentation",
+				en_US: "Documentation"
+			},
+			{
+				link: "/documentation/plugin-Freebox_OS/#LANG#/changelog",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog",
+				en_US: "Changelog",
+			},
+			{
+				link: "/documentation/plugin-Freebox_OS/#LANG#/changelog_beta",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog BETA",
+				en_US: "Changelog BETA"
+			},
+			{
+				link: "/documentation/plugin-Freebox_OS/#LANG#/exemple",
+				icon: "fas fa-paint-brush",
+				fr_FR: "Exemples",
+				en_US: "Examples"
+			},
+			{
+				link: "/documentation/plugin-Freebox_OS/#LANG#/faq",
+				icon: "fas fa-question",
+				fr_FR: "FAQ",
+				en_US: "FAQ"
+			},
+			{
+				link: "/documentation/plugin-Freebox_OS/#LANG#/troubleshotting",
+				icon: "fas fa-life-ring",
+				fr_FR: "Troubleshotting",
+				en_US: "Troubleshotting"
+			}
+	]
+	},{
+		fr_FR: "Plugin Horoscope",
+		en_US: "Plugin Horoscope",
+		submenu: [
+			{
+				link: "/documentation/plugin-horoscope/#LANG#/index",
+				icon: "fas fa-book",
+				fr_FR: "Documentation",
+				en_US: "Documentation"
+			},
+			{
+				link: "/documentation/plugin-horoscope/#LANG#/changelog",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog",
+				en_US: "Changelog",
+			},
+			{
+				link: "/documentation/plugin-horoscope/#LANG#/changelog_beta",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog BETA",
+				en_US: "Changelog BETA"
+			},
+			{
+				link: "/documentation/plugin-horoscope/#LANG#/exemple",
+				icon: "fas fa-paint-brush",
+				fr_FR: "Exemples",
+				en_US: "Examples"
+			},
+			{
+				link: "/documentation/plugin-horoscope/#LANG#/faq",
+				icon: "fas fa-question",
+				fr_FR: "FAQ",
+				en_US: "FAQ"
+			},
+			{
+				link: "/documentation/plugin-horoscope/#LANG#/troubleshotting",
+				icon: "fas fa-life-ring",
+				fr_FR: "Troubleshotting",
+				en_US: "Troubleshotting"
+			}
+	]
+	},{	
 		fr_FR: "Plugin Rosee",
 		en_US: "Plugin Rosee",
 		submenu: [
@@ -47,47 +129,6 @@ var docMenu = [
 			}
     ]
   },{
-	fr_FR: "Plugin Horoscope",
-	en_US: "Plugin Horoscope",
-	submenu: [
-		{
-			link: "/documentation/plugin-horoscope/#LANG#/index",
-			icon: "fas fa-book",
-			fr_FR: "Documentation",
-			en_US: "Documentation"
-		},
-		{
-			link: "/documentation/plugin-horoscope/#LANG#/changelog",
-			icon: "fas fa-edit",
-			fr_FR: "Changelog",
-			en_US: "Changelog",
-		},
-		{
-			link: "/documentation/plugin-horoscope/#LANG#/changelog_beta",
-			icon: "fas fa-edit",
-			fr_FR: "Changelog BETA",
-			en_US: "Changelog BETA"
-		},
-		{
-			link: "/documentation/plugin-horoscope/#LANG#/exemple",
-			icon: "fas fa-paint-brush",
-			fr_FR: "Exemples",
-			en_US: "Examples"
-		},
-		{
-			link: "/documentation/plugin-horoscope/#LANG#/faq",
-			icon: "fas fa-question",
-			fr_FR: "FAQ",
-			en_US: "FAQ"
-		},
-		{
-			link: "/documentation/plugin-horoscope/#LANG#/troubleshotting",
-			icon: "fas fa-life-ring",
-			fr_FR: "Troubleshotting",
-			en_US: "Troubleshotting"
-		}
-]
-},{
 	divider: true
 },
 	{
