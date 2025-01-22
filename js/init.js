@@ -28,12 +28,6 @@ var docMenu = [
 				en_US: "Changelog-BETA"
 			},
 			{
-				link: "/documentation/plugin-Freebox_OS/#LANG#/exemple",
-				icon: "fas fa-paint-brush",
-				fr_FR: "Exemples",
-				en_US: "Examples"
-			},
-			{
 				link: "/documentation/plugin-Freebox_OS/#LANG#/faq",
 				icon: "fas fa-question",
 				fr_FR: "FAQ",
