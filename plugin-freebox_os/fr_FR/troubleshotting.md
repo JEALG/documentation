@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Freebox OS (Freebox_OS) - Troubleshotting
+title: freebox OS (Freebox_OS) - Troubleshotting
 lang: fr_FR
 pluginId: freebox_OS
 ---
