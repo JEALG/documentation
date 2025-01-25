@@ -161,7 +161,7 @@ var docMenu = [
 			en_US: "Troubleshotting"
 		},
 		{
-			link: "/documentation/plugin-metar_infos/#LANG#/changelog_beta",
+			link: "/documentation/plugin-metar_infos/#LANG#/beta",
 			icon: "fas fa-edit",
 			fr_FR: "Changelog-BETA",
 			en_US: "Changelog-BETA"
