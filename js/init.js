@@ -38,7 +38,7 @@ var docMenu = [
 				icon: "fas fa-edit",
 				fr_FR: "Changelog-BETA",
 				en_US: "Changelog-BETA"
-			},
+			}
 	]
 	},{
 		fr_FR: "Plugin Horoscope",
