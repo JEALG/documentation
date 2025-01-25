@@ -15,6 +15,10 @@ pluginId: rosee
 
 ## 2025
 
+### 25/01/2025
+
+- Mise à jour lien documentation
+
 ### 15-16/01/2025
 
 - Ajout contrôle unité pour la vitesse du vent

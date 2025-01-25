@@ -15,6 +15,10 @@ pluginId: horoscope
 
 ## 2025
 
+### 25/01/2025
+
+- Mise à jour lien documentation
+
 ## 2024
 
 ### 02/11/2024

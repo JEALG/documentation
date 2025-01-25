@@ -21,7 +21,13 @@ pluginId: freebox_OS
 
 ## 2025
 
+### 26/01/2025
+
+- Mise à jour des liens des images
+
 ### 12/01/2025
+
+- Mise à jour des liens des images
 
 - **Wifi**
 - Ajout Etat mode eco Wifi (pour les freebox compatibles)
