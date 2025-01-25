@@ -5,7 +5,7 @@ lang: fr_FR
 pluginId: freebox_OS
 ---
 
-<img src="{{site.baseurl}}/plugin-Freebox_OS/{{site.img}}/Freebox_OS_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/freebox_OS_icon.png" class="pluginLogo" width="100" />
 
 
 ## Description
@@ -47,7 +47,7 @@ Il faut se rendre dans la page principale du plugin et cliquer
 
 Il faut ensuite suivre les différents écrans pour valider l'appairage
 
-<p><img src="../images/Freebox_OS_screenshot2.png" alt="Authentification 1" width="300" /></p>
+<p><img src="../images/freebox_OS_screenshot2.png" alt="Authentification 1" width="300" /></p>
 
 ### Réglages
 
@@ -67,7 +67,7 @@ Dans la fenêtre ci-dessous, il est possible de modifier
 
 > Il est impératif que votre Jeedom soit nommé pour continuer l'appairage du plugin avec votre Freebox
 
-<p><img src="../images/Freebox_OS_screenshot3.png" alt="Authentification 2" width="300" /></p>
+<p><img src="../images/freebox_OS_screenshot3.png" alt="Authentification 2" width="300" /></p>
 
 ### Authentification
 
@@ -76,7 +76,7 @@ Dans la fenêtre ci-dessous, il va être réalisée l'authentification sur la Fr
 - Cliquer sur le bouton **Lancement de l'Authentification**
 - Suivre à la fois les identifications sur cet écran ainsi que sur la Freebox
 
-<p><img src="../images/Freebox_OS_screenshot4.png" alt="Authentification 3" width="300" /></p>
+<p><img src="../images/freebox_OS_screenshot4.png" alt="Authentification 3" width="300" /></p>
 
 ### Vérification des droits
 
@@ -87,7 +87,7 @@ Dans la fenêtre ci-dessous, Le système va contrôler les droits qui sont attri
   > Si les droits sont OK, le bouton **suivant** deviendra visible
   > Les droits obligatoires sont en gras
 
-<p><img src="../images/Freebox_OS_screenshot5.png" alt="Authentification 4" width="300" /></p>
+<p><img src="../images/freebox_OS_screenshot5.png" alt="Authentification 4" width="300" /></p>
 
 ### Lier les pièces Freebox avec les Objets Jeedom
 
@@ -97,19 +97,19 @@ Dans la fenêtre ci-dessous, Le système va contrôler les droits qui sont attri
 >
 > <b>Ne pas oublier</b> de cliquer sur sauvegarder pour prendre en compte les changements
 
-<p><img src="../images/Freebox_OS_screenshot6.png" alt="Authentification 4" width="300" /></p>
+<p><img src="../images/freebox_OS_screenshot6.png" alt="Authentification 4" width="300" /></p>
 
 ### Scan
 
 Dans la fenêtre ci-dessous, Il est possible de lancer le scan des différents équipements.
 
-<p><img src="../images/Freebox_OS_screenshot7.png" alt="Authentification 5" width="300" /></p>
+<p><img src="../images/freebox_OS_screenshot7.png" alt="Authentification 5" width="300" /></p>
 
 ### Authentification terminée
 
 L'authentification est réussie.
 
-<p><img src="../images/Freebox_OS_screenshot8.png" alt="Authentification 6" width="300" /></p>
+<p><img src="../images/freebox_OS_screenshot8.png" alt="Authentification 6" width="300" /></p>
 
 ### Problème d'Authentification terminée
 
@@ -147,16 +147,16 @@ Certains droits d'accès supplémentaires sont nécessaires pour l'utilisation d
 - Se connecter à l'interface de la Freebox (http://maFreebox.Freebox.fr)
 - Ouvrir les paramètres de la Freebox
 
-<p><img src="../images/Freebox_para.png" alt="Paramètres de la Freebox" width="100" /></p>
+<p><img src="../images/freebox_para.png" alt="Paramètres de la Freebox" width="100" /></p>
 
 - Ouvrir la gestion des accès de la Freebox _(ce réglage se trouve dans le mode avancé)_
 
-<p><img src="../images/Freebox_gestion_acces_1.png" alt="Paramètres de gestion des accès de la Freebox" width="600" /></p>
+<p><img src="../images/freebox_gestion_acces_1.png" alt="Paramètres de gestion des accès de la Freebox" width="600" /></p>
 
 - Cliquer sur l'onglet **Applications**
 - Dans la liste, choisir l'Application déclarée lors de l'installation du Plugin _(par défaut : Plugin Freebox OS)_
 
-<p><img src="../images/Freebox_gestion_acces_2.jpg" alt="Paramètres de gestion des accès de la Freebox" width="500" /></p>
+<p><img src="../images/freebox_gestion_acces_2.jpg" alt="Paramètres de gestion des accès de la Freebox" width="500" /></p>
 
 - **Autoriser tous les droits d'accès**
 
@@ -278,7 +278,7 @@ Cet équipement permet de :
 
 ### Attribuer une adresse IP
 
-<p><img src="../images/Modif_equip_IP_FIXE.png" alt="Modification IP" width="800" /></p>
+<p><img src="../images/modif__equip_ip_fixe.png" alt="Modification IP" width="800" /></p>
 
 Il faut avoir les valeurs les champs suivants renseignés
 
@@ -295,7 +295,7 @@ Il faut avoir les valeurs les champs suivants renseignés
 
 ### Changer le type de périphérique
 
-<p><img src="../images/Modif_equip_type.png" alt="Modification des équipements" width="800" /></p>
+<p><img src="../images/modif__equip_type.png" alt="Modification des équipements" width="800" /></p>
 
 Il faut avoir les valeurs les champs suivants renseignés
 
@@ -310,7 +310,7 @@ Il faut avoir les valeurs les champs suivants renseignés
 
 ### Gérer le filtrage des adresses MAC (WIFI)
 
-<p><img src="../images/Modif_equip_filtrage.png" alt="Modification des équipements" width="800" /></p>
+<p><img src="../images/modif__equip_filtrage.png" alt="Modification des équipements" width="800" /></p>
 
 Il est possible de faire cela avec les commandes depuis les équipements appareils connectés ou wifi
 Il faut avoir les valeurs les champs suivants renseignés
@@ -332,7 +332,7 @@ Il faut avoir les valeurs les champs suivants renseignés
 
 ### Fonction Wake on LAN
 
-<p><img src="../images/Modif_equip_wol.png" alt="Modification des équipements" width="800" /></p>
+<p><img src="../images/modif__equip_wol.png" alt="Modification des équipements" width="800" /></p>
 
 - Sélectionner l'appareil connecté
 - Sélection modification Appareil avec une valeur suivante
@@ -406,7 +406,7 @@ Les valeurs possibles sont :
 - Depuis la version du plugin 20210507, pour la **partie domotique**
   > Un Cron d'actualisation global est activé par défaut
   >
-  > <p><img src="../images/Cron_tiles.png" alt="Temps de rafraichissement" width="800" /></p>
+  > <p><img src="../images/cron_tiles.png" alt="Temps de rafraichissement" width="800" /></p>
   >
   > si cette option est désactivé, le **Cron sera réglé à 1 minute**
 

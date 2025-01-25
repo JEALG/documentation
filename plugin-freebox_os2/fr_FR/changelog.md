@@ -5,7 +5,7 @@ lang: fr_FR
 pluginId: freebox_OS
 ---
 
-<img src="{{site.baseurl}}/plugin-Freebox_OS/{{site.img}}/Freebox_OS_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-Freebox_OS/{{site.img}}/freebox_OS_icon.png" class="pluginLogo" width="100" />
 
 ## Info
 
@@ -881,7 +881,7 @@ pluginId: freebox_OS
 - **Appairage**
   - Mise en place d'une fenêtre de type modale pour faciliter l'appairage (l'association) avec la Freebox
     > Le menu se trouve maintenant dans l'interface du plugin
-    > La documentation du plugin a été mise à jour en conséquence [Voir Documentation](https://mika-nt28.github.io/Documentations/Freebox_OS/fr_FR/?theme=light#tocAnchor-1-2-1)
+    > La documentation du plugin a été mise à jour en conséquence [Voir Documentation](https://mika-nt28.github.io/Documentations/freebox_OS/fr_FR/?theme=light#tocAnchor-1-2-1)
   - Modification des réglages par défaut (masquages des paramètres non nécessaires)
   - Ajout d'une fonction pour contrôler les droits, si **NOK**, il n'est pas possible de continuer (Droits obligatoires en gras)
   - Pour la Freebox Delta : Il est possible de lier les pièces de la Freebox avec les objets de Jeedom

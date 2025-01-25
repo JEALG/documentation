@@ -1,11 +1,11 @@
 ---
 layout: default
-title:  Changelog-BETA
+title:  METAR/TAF Infos Météo Aéroports - Changelog
 lang: fr_FR
 pluginId: Metar_infos
 ---
 
-<img src="{{site.baseurl}}/plugin-Metar_infos/{{site.img}}/Metar_infos_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-metar_infos/{{site.img}}/metar_infos_icon.png" class="pluginLogo" width="100" />
 
 ## Important
 
@@ -13,14 +13,9 @@ pluginId: Metar_infos
 >
 > **_Pour rappel_** s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineurs.
 
-## Changelog BETA
+## Changelog
 
 ### 2025
-
-#### 19/01/2025
-
-- Amélioration log pour les problèmes de téléchargement des données
-- Contrôle TAF Valide avant de faire les mises à jour des données TAF
 
 ### 2024
 
@@ -65,7 +60,6 @@ pluginId: Metar_infos
 - Suppression des parenthèses sur les messages vocaux[https://community.jeedom.com/t/bug-humidite/133056/4](https://community.jeedom.com/t/bug-humidite/133056/4)
 - Traduction en français de la date pour les commandes "Bulletin météo" et "Heure locale du télégramme"
 
-
 #### 27/10/2024
 
 - Amélioration du bulletin météo vocal [https://community.jeedom.com/t/demande-damelioration-de-ce-super-plugin/132881](https://community.jeedom.com/t/demande-damelioration-de-ce-super-plugin/132881)
@@ -74,8 +68,7 @@ pluginId: Metar_infos
 
 - Ajout image FOG nécessaire pour le widget
 
-
-#### 19-20-21/09/2024
+#### 24/09/2024
 
 - Correction des warning PHP 8
 - Reprise des textes des prévisions
@@ -95,3 +88,32 @@ pluginId: Metar_infos
 > **Attention : Il faut enregistrer les équipements pour avoir les dernières corrections ou ajout de commande.**
 >
 > **Version mini du Core V4.3**
+
+#### 05/02/2024
+
+- Suppression lien community suite changement core 4.4
+- Amélioration affichage sous tableau
+
+#### 14/01/2024
+
+- Amélioration pour core V4.4
+
+#### 08/01/2024
+
+- Correction Bug liste déroulante : Choix de l'Aéroport
+
+#### 01/01/2024
+
+- Amélioration info vers Community pour le Core 4.4
+- Typo
+- Correction Warning PHP 8
+
+### 2023
+
+#### 02/06/2024
+
+- Ajout lien vers Community
+
+#### 02/04/2024
+
+- Support Core 4.4

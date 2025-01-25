@@ -10,25 +10,25 @@ var docMenu = [
 		en_US: "Plugin Freebox_OS",
 		submenu: [
 			{
-				link: "/documentation/plugin-Freebox_OS/#LANG#/index",
+				link: "/documentation/plugin-freebox_os/#LANG#/index",
 				icon: "fas fa-book",
 				fr_FR: "Documentation",
 				en_US: "Documentation"
 			},
 			{
-				link: "/documentation/plugin-Freebox_OS/#LANG#/changelog",
+				link: "/documentation/plugin-freebox_os/#LANG#/changelog",
 				icon: "fas fa-edit",
 				fr_FR: "Changelog",
 				en_US: "Changelog",
 			},
 			{
-				link: "/documentation/plugin-Freebox_OS/#LANG#/changelog_beta",
+				link: "/documentation/plugin-freebox_os/#LANG#/changelog_beta",
 				icon: "fas fa-edit",
 				fr_FR: "Changelog-BETA",
 				en_US: "Changelog-BETA"
 			},
 			{
-				link: "/documentation/plugin-Freebox_OS/#LANG#/troubleshotting",
+				link: "/documentation/plugin-freebox_os/#LANG#/troubleshotting",
 				icon: "fas fa-life-ring",
 				fr_FR: "Troubleshotting",
 				en_US: "Troubleshotting"
