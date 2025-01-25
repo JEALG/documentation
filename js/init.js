@@ -22,17 +22,23 @@ var docMenu = [
 				en_US: "Changelog",
 			},
 			{
-				link: "/documentation/plugin-freebox_os/#LANG#/changelog_beta",
-				icon: "fas fa-edit",
-				fr_FR: "BETA-Changelog",
-				en_US: "BETA-Changelog"
-			},
-			{
 				link: "/documentation/plugin-freebox_os/#LANG#/troubleshotting",
 				icon: "fas fa-life-ring",
 				fr_FR: "Troubleshotting",
 				en_US: "Troubleshotting"
-			}
+			},
+			{
+				link: "/documentation/plugin-freebox_os/#LANG#/index_beta",
+				icon: "fas fa-book",
+				fr_FR: "Documentation-BETA",
+				en_US: "Documentation-BETA"
+			},
+			{
+				link: "/documentation/plugin-freebox_os/#LANG#/changelog_beta",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog-BETA",
+				en_US: "Changelog-BETA"
+			},
 	]
 	},{
 		fr_FR: "Plugin Horoscope",
@@ -49,13 +55,7 @@ var docMenu = [
 				icon: "fas fa-edit",
 				fr_FR: "Changelog",
 				en_US: "Changelog",
-			},
-			{
-				link: "/documentation/plugin-horoscope/#LANG#/changelog_beta",
-				icon: "fas fa-edit",
-				fr_FR: "BETA-Changelog",
-				en_US: "BETA-Changelog"
-			},
+			}
 			{
 				link: "/documentation/plugin-horoscope/#LANG#/exemple",
 				icon: "fas fa-paint-brush",
@@ -73,6 +73,12 @@ var docMenu = [
 				icon: "fas fa-life-ring",
 				fr_FR: "Troubleshotting",
 				en_US: "Troubleshotting"
+			},
+			{
+				link: "/documentation/plugin-horoscope/#LANG#/changelog_beta",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog-BETA",
+				en_US: "Changelog-BETA"
 			}
 	]
 	},{	
@@ -92,12 +98,6 @@ var docMenu = [
 				en_US: "Changelog"
 			},
 			{
-				link: "/documentation/plugin-rosee/#LANG#/changelog_beta",
-				icon: "fas fa-edit",
-				fr_FR: "BETA-Changelog",
-				en_US: "BETA-Changelog"
-			},
-			{
 				link: "/documentation/plugin-rosee/#LANG#/exemple",
 				icon: "fas fa-paint-brush",
 				fr_FR: "Exemples",
@@ -114,6 +114,12 @@ var docMenu = [
 				icon: "fas fa-life-ring",
 				fr_FR: "Troubleshotting",
 				en_US: "Troubleshotting"
+			},
+			{
+				link: "/documentation/plugin-rosee/#LANG#/changelog_beta",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog-BETA",
+				en_US: "Changelog-BETA"
 			}
     ]
   },{
@@ -137,12 +143,6 @@ var docMenu = [
 			en_US: "Changelog"
 		},
 		{
-			link: "/documentation/plugin-metar_infos/#LANG#/changelog_beta",
-			icon: "fas fa-edit",
-			fr_FR: "BETA-Changelog",
-			en_US: "BETA-Changelog"
-		},
-		{
 			link: "/documentation/plugin-metar_infos/#LANG#/exemple",
 			icon: "fas fa-paint-brush",
 			fr_FR: "Exemples",
@@ -159,6 +159,12 @@ var docMenu = [
 			icon: "fas fa-life-ring",
 			fr_FR: "Troubleshotting",
 			en_US: "Troubleshotting"
+		},
+		{
+			link: "/documentation/plugin-metar_infos/#LANG#/changelog_beta",
+			icon: "fas fa-edit",
+			fr_FR: "Changelog-BETA",
+			en_US: "Changelog-BETA"
 		}
 ]
 },{
