@@ -5,7 +5,7 @@ lang: fr_FR
 pluginId: freebox_OS
 ---
 
-<img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/freebox_OS_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/freebox_os_icon.png" class="pluginLogo" width="100" />
 
 ## Description
 
@@ -46,7 +46,7 @@ Il faut se rendre dans la page principale du plugin et cliquer
 
 Il faut ensuite suivre les différents écrans pour valider l'appairage
 
-<p><img src="../images/freebox_OS_screenshot2.png" alt="Authentification 1" width="300" /></p>
+<p><img src="../images/freebox_os_screenshot2.png" alt="Authentification 1" width="300" /></p>
 
 ### Réglages
 
@@ -66,7 +66,7 @@ Dans la fenêtre ci-dessous, il est possible de modifier
 
 > Il est impératif que votre Jeedom soit nommé pour continuer l'appairage du plugin avec votre Freebox
 
-<p><img src="../images/freebox_OS_screenshot3.png" alt="Authentification 2" width="300" /></p>
+<p><img src="../images/freebox_os_screenshot3.png" alt="Authentification 2" width="300" /></p>
 
 ### Authentification
 
@@ -75,7 +75,7 @@ Dans la fenêtre ci-dessous, il va être réalisée l'authentification sur la Fr
 - Cliquer sur le bouton **Lancement de l'Authentification**
 - Suivre à la fois les identifications sur cet écran ainsi que sur la Freebox
 
-<p><img src="../images/freebox_OS_screenshot4.png" alt="Authentification 3" width="300" /></p>
+<p><img src="../images/freebox_os_screenshot4.png" alt="Authentification 3" width="300" /></p>
 
 ### Vérification des droits
 
@@ -86,7 +86,7 @@ Dans la fenêtre ci-dessous, Le système va contrôler les droits qui sont attri
   > Si les droits sont OK, le bouton **suivant** deviendra visible
   > Les droits obligatoires sont en gras
 
-<p><img src="../images/freebox_OS_screenshot5.png" alt="Authentification 4" width="300" /></p>
+<p><img src="../images/freebox_os_screenshot5.png" alt="Authentification 4" width="300" /></p>
 
 ### Lier les pièces Freebox avec les Objets Jeedom
 
@@ -96,19 +96,19 @@ Dans la fenêtre ci-dessous, Le système va contrôler les droits qui sont attri
 >
 > <b>Ne pas oublier</b> de cliquer sur sauvegarder pour prendre en compte les changements
 
-<p><img src="../images/freebox_OS_screenshot6.png" alt="Authentification 4" width="300" /></p>
+<p><img src="../images/freebox_os_screenshot6.png" alt="Authentification 4" width="300" /></p>
 
 ### Scan
 
 Dans la fenêtre ci-dessous, Il est possible de lancer le scan des différents équipements.
 
-<p><img src="../images/freebox_OS_screenshot7.png" alt="Authentification 5" width="300" /></p>
+<p><img src="../images/freebox_os_screenshot7.png" alt="Authentification 5" width="300" /></p>
 
 ### Authentification terminée
 
 L'authentification est réussie.
 
-<p><img src="../images/freebox_OS_screenshot8.png" alt="Authentification 6" width="300" /></p>
+<p><img src="../images/freebox_os_screenshot8.png" alt="Authentification 6" width="300" /></p>
 
 ### Problème d'Authentification terminée
 
