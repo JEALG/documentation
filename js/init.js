@@ -28,7 +28,7 @@ var docMenu = [
 				en_US: "Troubleshotting"
 			},
 			{
-				link: "/documentation/plugin-freebox_os/#LANG#/index_beta",
+				link: "/documentation/plugin-freebox_os/#LANG#/doc_beta",
 				icon: "fas fa-book",
 				fr_FR: "Documentation-BETA",
 				en_US: "Documentation-BETA"
