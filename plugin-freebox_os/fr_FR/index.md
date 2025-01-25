@@ -156,7 +156,7 @@ Certains droits d'accès supplémentaires sont nécessaires pour l'utilisation d
 - Cliquer sur l'onglet **Applications**
 - Dans la liste, choisir l'Application déclarée lors de l'installation du Plugin _(par défaut : Plugin Freebox OS)_
 
-<p><img src="../images/freebox_gestion_acces_2.jpg" alt="Paramètres de gestion des accès de la Freebox" width="500" /></p>
+<p><img src="../images/freebox_gestion_acces_2.png" alt="Paramètres de gestion des accès de la Freebox" width="500" /></p>
 
 - **Autoriser tous les droits d'accès**
 
