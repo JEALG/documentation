@@ -55,7 +55,7 @@ var docMenu = [
 				icon: "fas fa-edit",
 				fr_FR: "Changelog",
 				en_US: "Changelog",
-			}
+			},
 			{
 				link: "/documentation/plugin-horoscope/#LANG#/exemple",
 				icon: "fas fa-paint-brush",
