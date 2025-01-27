@@ -21,6 +21,10 @@ pluginId: freebox_OS
 
 ## 2025
 
+## 28/01/2025
+
+- Migration de l'API mini en v12.
+
 ### 27/01/2025
 
 - **Wifi**
