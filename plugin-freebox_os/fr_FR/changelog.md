@@ -23,7 +23,7 @@ pluginId: freebox_OS
 
 ## 28/01/2025
 
-- Migration de l'API mini en v12.
+- Migration de l'API mini en v13.
 
 ### 27/01/2025
 
