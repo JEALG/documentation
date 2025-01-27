@@ -1,11 +1,12 @@
 ---
 layout: default
-title: freebox OS (Freebox_OS) - BETA
+title: freebox OS (Freebox_OS)
 lang: fr_FR
 pluginId: freebox_OS
 ---
 
 <img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/freebox_os_icon.png" class="pluginLogo" width="100" />
+
 
 ## Description
 
@@ -69,6 +70,13 @@ Dans la fenêtre ci-dessous, il est possible de modifier
 <p><img src="../images/freebox_os_screenshot3.png" alt="Authentification 2" width="300" /></p>
 
 ### Authentification
+
+#### Firmware minimun de la Freebox
+
+ > Le plugin pour fonctionner nécessite d'avoir un firmware minimum.
+ > Le firmware minimum est indiqué sur le changelog au début et au début de cette documentation
+
+#### Authentification
 
 Dans la fenêtre ci-dessous, il va être réalisée l'authentification sur la Freebox
 
@@ -155,7 +163,7 @@ Certains droits d'accès supplémentaires sont nécessaires pour l'utilisation d
 - Cliquer sur l'onglet **Applications**
 - Dans la liste, choisir l'Application déclarée lors de l'installation du Plugin _(par défaut : Plugin Freebox OS)_
 
-<p><img src="../images/freebox_gestion_acces_2.jpg" alt="Paramètres de gestion des accès de la Freebox" width="500" /></p>
+<p><img src="../images/freebox_gestion_acces_2.png" alt="Paramètres de gestion des accès de la Freebox" width="500" /></p>
 
 - **Autoriser tous les droits d'accès**
 
@@ -277,7 +285,7 @@ Cet équipement permet de :
 
 ### Attribuer une adresse IP
 
-<p><img src="../images/Modif_equip_IP_FIXE.png" alt="Modification IP" width="800" /></p>
+<p><img src="../images/modif__equip_ip_fixe.png" alt="Modification IP" width="800" /></p>
 
 Il faut avoir les valeurs les champs suivants renseignés
 
@@ -294,7 +302,7 @@ Il faut avoir les valeurs les champs suivants renseignés
 
 ### Changer le type de périphérique
 
-<p><img src="../images/Modif_equip_type.png" alt="Modification des équipements" width="800" /></p>
+<p><img src="../images/modif__equip_type.png" alt="Modification des équipements" width="800" /></p>
 
 Il faut avoir les valeurs les champs suivants renseignés
 
@@ -309,7 +317,7 @@ Il faut avoir les valeurs les champs suivants renseignés
 
 ### Gérer le filtrage des adresses MAC (WIFI)
 
-<p><img src="../images/Modif_equip_filtrage.png" alt="Modification des équipements" width="800" /></p>
+<p><img src="../images/modif__equip_filtrage.png" alt="Modification des équipements" width="800" /></p>
 
 Il est possible de faire cela avec les commandes depuis les équipements appareils connectés ou wifi
 Il faut avoir les valeurs les champs suivants renseignés
@@ -331,7 +339,7 @@ Il faut avoir les valeurs les champs suivants renseignés
 
 ### Fonction Wake on LAN
 
-<p><img src="../images/Modif_equip_wol.png" alt="Modification des équipements" width="800" /></p>
+<p><img src="../images/modif__equip_wol.png" alt="Modification des équipements" width="800" /></p>
 
 - Sélectionner l'appareil connecté
 - Sélection modification Appareil avec une valeur suivante
@@ -405,7 +413,7 @@ Les valeurs possibles sont :
 - Depuis la version du plugin 20210507, pour la **partie domotique**
   > Un Cron d'actualisation global est activé par défaut
   >
-  > <p><img src="../images/Cron_tiles.png" alt="Temps de rafraichissement" width="800" /></p>
+  > <p><img src="../images/cron_tiles.png" alt="Temps de rafraichissement" width="800" /></p>
   >
   > si cette option est désactivé, le **Cron sera réglé à 1 minute**
 

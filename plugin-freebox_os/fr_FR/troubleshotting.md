@@ -101,25 +101,25 @@ pluginId: freebox_OS
   >
   > - **FreeboxGET** : Permet de récupérer les données de type info de la partie domotique
 
-  - **L'état du Player ne remonte pas**
+- **L'état du Player ne remonte pas**
 
   > Il faut vérifier que le type pour la commande "Etat" est le sous type **Autre**
   > <p><img src="../images/player.png" alt="Player" width="800" /></p>
   
-  - **Le statut du Player n'est pas disponible**
+- **Le statut du Player n'est pas disponible**
 
   > Il faut absolument lancer un scan des équipements standards avec le Player sous tension
 
-  - **Les commandes "Appareil connecté choisi" et "Sélection appareil connecté"" dans l'équipement Gestion réseau**
+- **Les commandes "Appareil connecté choisi" et "Sélection appareil connecté"" dans l'équipement Gestion réseau**
 
   > Ces commandes seront créées automatiquement par l'équipement *Appareils connectés* et/ou *Appareils connectés Wifi Invité*
 
-  - **Impossible de démarrer le Demon**
+- **Impossible de démarrer le Demon**
 
   > Le démon sera autorisé a démaré uniquement si l'authentification et les droits sont OK. Cela se fait depuis le menu "appairage"
 
- - **Le changelog indique : Attention : Il est nécessaire d’avoir la Freebox serveur en version 4.8.13 pour que le plugin fonctionne.**
+- **Le changelog indique : Attention : Il est nécessaire d’avoir la Freebox serveur en version 4.8.13 pour que le plugin fonctionne.**
 
- > Le plugin pour fonctionner necessite d'avoir un un firmware minimun.
+ > Le plugin pour fonctionner nécessite d'avoir un firmware minimum.
  > <p><img src="../images/firmware.png" alt="Firmware Freebox" width="800" /></p> 
- > Le firmware minimun est en général indiqué sur le changelog au début et dans la documentation
+ > Le firmware minimum est indiqué sur le changelog au début et au début de cette documentation

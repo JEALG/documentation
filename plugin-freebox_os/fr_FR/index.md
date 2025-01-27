@@ -71,6 +71,13 @@ Dans la fenêtre ci-dessous, il est possible de modifier
 
 ### Authentification
 
+#### Firmware minimun de la Freebox
+
+ > Le plugin pour fonctionner nécessite d'avoir un firmware minimum.
+ > Le firmware minimum est indiqué sur le changelog au début et au début de cette documentation
+
+#### Authentification
+
 Dans la fenêtre ci-dessous, il va être réalisée l'authentification sur la Freebox
 
 - Cliquer sur le bouton **Lancement de l'Authentification**
