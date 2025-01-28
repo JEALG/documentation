@@ -21,6 +21,11 @@ pluginId: freebox_OS
 
 ## 2025
 
+## 29/01/2025
+
+- Correction version API en cas de reset : Passage de V10 à v13
+- Correction bouton "Lancement de l'authentification"
+
 ## 28/01/2025
 
 - Migration de l'API mini en v13.
