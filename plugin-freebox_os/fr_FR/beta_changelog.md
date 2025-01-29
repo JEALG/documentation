@@ -25,6 +25,8 @@ pluginId: freebox_OS
 
 - Correction version API en cas de reset : Passage de V10 à v13
 - Correction bouton "Lancement de l'authentification"
+- Changement dépot Plugin > [Voir GITHUB](https://github.com/JEALG/Jeedom-Freebox_OS)
+- Changement icône Plugin
 
 ## 28/01/2025
 
