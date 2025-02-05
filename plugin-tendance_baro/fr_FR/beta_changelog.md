@@ -1,6 +1,6 @@
 # Plugin Tendance Baro
 
-<img src="{{site.baseurl}}/pplugin-tendance_baro/{{site.img}}/baro_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-tendance_baro/{{site.img}}/baro_icon.png" class="pluginLogo" width="100" />
 
 ## Info Changelog BETA
 
