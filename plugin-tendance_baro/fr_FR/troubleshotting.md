@@ -6,8 +6,6 @@
 
 - Je n'ai pas d'informations qui remontent
 
- Je n'ai pas d'informations qui remontent
-
   > Il faut bien indiquer l'équipement pression pour que le plugin fonctionne correctement. L'équipement doit être aussi historisé pour pouvoir fonctionner
   >
   > On peut rechercher les équipements grâce au bouton de recherche de l’équipement.

@@ -31,7 +31,7 @@ Le plugin calcule 6 niveaux d'information
 | <b>4</b> | Amélioration, beau temps durable   | <img src="../images/tendance_4.png" alt="Tendance 4" width="40" /> |
 | <b>5</b> | Forte embellie, instable           | <img src="../images/tendance_5.png" alt="Tendance 5" width="40" /> |
 
-Le plugin met à disposition deux widgets pour la tendance :
+## Le plugin met à disposition deux widgets pour la tendance :
 
 > - Baro/Tendance (Icône 40x40) (Widget par défaut)
 
