@@ -1,6 +1,6 @@
-# Plugin Temperature
+# Plugin Tendance Baro
 
-<img src="{{site.baseurl}}/plugin-Temperature/{{site.img}}/temperature_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/pplugin-tendance_baro/{{site.img}}/baro_icon.png" class="pluginLogo" width="100" />
 
 ## Info Changelog BETA
 
@@ -9,3 +9,7 @@
 > **_Pour rappel_**, s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineurs.
 
 ## 2025
+
+### 06/02/2025
+
+- Migration documentation

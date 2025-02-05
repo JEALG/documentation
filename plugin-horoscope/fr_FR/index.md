@@ -17,13 +17,13 @@ Le plugin ne comporte pas de configuration particulière.
 
 > Il est possible de configurer un cron pour activer le relever automatique.
 
-<img src="../images/horoscope_actualisation.png" alt="Auto actualisation" width="900" />
+<img src="../{{site.img}}/horoscope_actualisation.png" alt="Auto actualisation" width="900" />
 
 > Le plugin configure l'Auto-actualisation à 5h du matin tous les jours par défaut pour les nouveaux équipements.
 
 Un widget est appliqué automatiquement sur la commande **Signe du zodiaque**
 
-> <img src="../images/horoscope_dashboard.png" alt="Dashboard" width="350" />
+> <img src="../{{site.img}}/horoscope_dashboard.png" alt="Dashboard" width="350" />
 
 > Exemples de commandes disponibles
 

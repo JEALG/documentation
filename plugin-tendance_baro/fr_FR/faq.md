@@ -1,13 +1,13 @@
-# Plugin Temperature
+# Plugin Tendance Baro
 
-<img src="{{site.baseurl}}/plugin-Temperature/{{site.img}}/temperature_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/pplugin-tendance_baro/{{site.img}}/baro_icon.png" class="pluginLogo" width="100" />
 
 ## FAQ
 
-- Est-ce que ce plugin s'appuie sur des API tiers ?
+- Est-ce que le plugin s'appuie sur des API tiers ?
 
-> Le plugin n'utilise que du PHP  pour aller chercher les informations (après découpage) sur un site d'astrologie.
+  > Non, le plugin fait le calcul en interne par rapport à la pression atmosphérique
 
-- Pourquoi est-il conseillé de régler le cron d'actualisation à ***5H du matin*** ?
+- A quoi sert le plugin ?
 
-> Ne connaissant pas exactement l'heure d'actualisation du site internet, il est préférable de le faire tôt dans la matinée.
+  > Le plugin calcul une tendance météo en se basant sur l'évolution de la pression atmosphérique sur les dernières heures
