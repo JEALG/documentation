@@ -1,9 +1,3 @@
----
-layout: default
-title: Plugin Rosee - Changelog BETA
-lang: fr_FR
-pluginId: rosee
----
 # Plugin Rosée - Givre - Tendance
 
 <img src="{{site.baseurl}}/plugin-rosee/{{site.img}}/rosee_icon.png" class="pluginLogo" width="100" />
@@ -78,4 +72,3 @@ pluginId: rosee
 #### 17/06/2024
 
 - Amélioration Log core 4.4
-

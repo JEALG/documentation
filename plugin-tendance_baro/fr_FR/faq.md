@@ -1,6 +1,6 @@
-# Plugin Horoscope
+# Plugin Temperature
 
-<img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-Temperature/{{site.img}}/temperature_icon.png" class="pluginLogo" width="100" />
 
 ## FAQ
 

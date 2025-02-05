@@ -122,7 +122,77 @@ var docMenu = [
 				en_US: "Changelog-BETA"
 			}
     ]
-  },{
+	},{
+		fr_FR: "Plugin Température",
+		en_US: "Plugin Temperature",
+		submenu: [
+			{
+				link: "/documentation/plugin-temperature/#LANG#/index",
+				icon: "fas fa-book",
+				fr_FR: "Documentation",
+				en_US: "Documentation"
+			},
+			{
+				link: "/documentation/plugin-temperature/#LANG#/changelog",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog",
+				en_US: "Changelog",
+			},
+			{
+				link: "/documentation/plugin-temperature/#LANG#/troubleshotting",
+				icon: "fas fa-life-ring",
+				fr_FR: "Troubleshotting",
+				en_US: "Troubleshotting"
+			},
+			{
+				link: "/documentation/plugin-temperature/#LANG#/doc_beta",
+				icon: "fas fa-book",
+				fr_FR: "Documentation-BETA",
+				en_US: "Documentation-BETA"
+			},
+			{
+				link: "/documentation/plugin-temperature/#LANG#/beta_changelog",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog-BETA",
+				en_US: "Changelog-BETA"
+			}
+	]
+	},{
+		fr_FR: "Plugin Tendance Baro",
+		en_US: "Plugin Tendance Baro",
+		submenu: [
+			{
+				link: "/documentation/plugin-tendance_baro/#LANG#/index",
+				icon: "fas fa-book",
+				fr_FR: "Documentation",
+				en_US: "Documentation"
+			},
+			{
+				link: "/documentation/plugin-tendance_baro/#LANG#/changelog",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog",
+				en_US: "Changelog",
+			},
+			{
+				link: "/documentation/plugin-tendance_baro/#LANG#/troubleshotting",
+				icon: "fas fa-life-ring",
+				fr_FR: "Troubleshotting",
+				en_US: "Troubleshotting"
+			},
+			{
+				link: "/documentation/plugin-tendance_baro/#LANG#/doc_beta",
+				icon: "fas fa-book",
+				fr_FR: "Documentation-BETA",
+				en_US: "Documentation-BETA"
+			},
+			{
+				link: "/documentation/plugin-tendance_baro/#LANG#/beta_changelog",
+				icon: "fas fa-edit",
+				fr_FR: "Changelog-BETA",
+				en_US: "Changelog-BETA"
+			}
+	]
+	},{
 	divider: true
 },
 	{

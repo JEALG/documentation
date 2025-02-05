@@ -1,14 +1,8 @@
----
-layout: default
-title: Plugin Rosee - Troubleshotting
-lang: fr_FR
-pluginId: rosee
----
 # Plugin Rosée - Givre - Tendance
 
 <img src="{{site.baseurl}}/plugin-rosee/{{site.img}}/rosee_icon.png" class="pluginLogo" width="100" />
 
-# Troubleshotting
+## Troubleshotting
 
 - Je n'ai pas d'informations qui remontent
 
@@ -24,9 +18,9 @@ pluginId: rosee
 > Il faut attendre 4h pour avoir des résultats corrects lors de la création de l'équipement.
 > L'équipement doit avoir l'historique d'activé pour fonctionner et avoir "Répéter les valeurs identiques" sur Oui.
 
-# Message d'erreur
+## Message d'erreur
 
-## Le champs "Calcul" ne peut être vide
+### Le champs "Calcul" ne peut être vide
 
 ```
 Le champ "Calcul" ne peut être vide
@@ -36,7 +30,7 @@ Le champ "Calcul" ne peut être vide
 
 ![Calcul Vide](../{{site.img}}/erreur_calcul_vide.png)
 
-## Le champ "Température" ne peut être vide
+### Le champ "Température" ne peut être vide
 
 ```
 Le champ "Température" ne peut être vide
@@ -44,7 +38,7 @@ Le champ "Température" ne peut être vide
 
 > Il faut vérifier qu'un équipement soit sélectionné dans le champ avec la flèche bleue (voir image ci-dessous)<br/>
 
-## Le champ "Humidité Relative" ne peut être vide
+### Le champ "Humidité Relative" ne peut être vide
 
 ```
 Le champ "Humidité Relative" ne peut être vide
@@ -52,7 +46,7 @@ Le champ "Humidité Relative" ne peut être vide
 
 > Il faut vérifier qu'un équipement soit sélectionné dans le champ avec la flèche rouge (voir image ci-dessous)<br/>
 
-## Le champ "Pression Atmosphérique" ne peut être vide
+### Le champ "Pression Atmosphérique" ne peut être vide
 
 ```
 Le champ "Pression Atmosphérique" ne peut être vide
@@ -62,7 +56,7 @@ Le champ "Pression Atmosphérique" ne peut être vide
 
 ![Calcul Vide](../{{site.img}}/erreur_champ_vide.png)
 
-## L'historique de la commande Pression doit être activé
+### L'historique de la commande Pression doit être activé
 
 ```
 L'historique de la commande xxx doit être activé

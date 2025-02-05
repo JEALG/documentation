@@ -1,9 +1,3 @@
----
-layout: default
-title: Plugin Horoscope - Changelog
-lang: fr_FR
-pluginId: horoscope
----
 # Plugin Horoscope
 
 <img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />

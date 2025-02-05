@@ -1,9 +1,3 @@
----
-layout: default
-title: Changelog-BETA
-lang: fr_FR
-pluginId: horoscope
----
 # Plugin Horoscope
 
 <img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
@@ -44,5 +38,3 @@ pluginId: horoscope
 ### 05/09/2024
 
 - Correction PHP 8
-
-

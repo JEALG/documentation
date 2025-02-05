@@ -1,9 +1,3 @@
----
-layout: default
-title: Changelog-BETA
-lang: fr_FR
-pluginId: freebox_OS
----
 # Plugin Freebox_OS
 
 <img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/freebox_os_icon.png" class="pluginLogo" width="100" />

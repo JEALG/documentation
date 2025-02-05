@@ -1,9 +1,3 @@
----
-layout: default
-title: Plugin Rosee - Changelog
-lang: fr_FR
-pluginId: rosee
----
 # Plugin Rosée - Givre - Tendance
 
 <img src="{{site.baseurl}}/plugin-rosee/{{site.img}}/rosee_icon.png" class="pluginLogo" width="100" />
