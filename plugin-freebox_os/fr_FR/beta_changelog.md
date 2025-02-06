@@ -16,6 +16,10 @@
 
 ## 2025
 
+## 06/02/2025
+
+- Changement nom icône pour la documentation
+
 ## 29/01/2025
 
 - Correction version API en cas de reset : Passage de V10 à v13
