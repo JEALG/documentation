@@ -5,7 +5,7 @@ lang: fr_FR
 pluginId: freebox_OS
 ---
 
-<img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/freebox_os_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/Freebox_OS_icon.png" class="pluginLogo" width="100" />
 
 
 ## Description

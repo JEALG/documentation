@@ -1,6 +1,6 @@
 # Plugin Freebox_OS
 
-<img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/freebox_os_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/Freebox_OS_icon.png" class="pluginLogo" width="100" />
 
 ## Info Changelog BETA
 
@@ -15,6 +15,10 @@
 > [Voir le fil d'actualité du plugin sur Community](https://community.jeedom.com/t/info-plugin-freebox-mise-a-jour-des-composants-de-la-delta-tiles-systeme/30673)
 
 ## 2025
+
+## 09/02/2025
+
+- Amélioration log et message pour l'erreur de cron "Ajout des nouvelles commandes" des appareils connectés
 
 ## 06/02/2025
 
