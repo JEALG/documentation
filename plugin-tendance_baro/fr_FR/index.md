@@ -4,7 +4,7 @@
 
 ## Description
 
-Ce plugin permet de calculer la tendance météo à venir en se basant sur les évolutions de la pression atmosphérique des dernières heures
+Ce plugin permet de calculer la tendance météo à venir en se basant sur les évolutions de la pression atmosphérique des dernières heures.
 
 ## Configuration
 
