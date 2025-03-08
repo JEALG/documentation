@@ -19,9 +19,12 @@
 ## 08/03/2025
 
 - **Player**
+- Reprise du code pour la mise à jour des players
 - Ajout fonction Mute (son)
 - Ajour fonction changer le volume
 - Ajout Fonction du contrôle du volume
+- Ajout info numéro de chaîne
+- Ajour info nom de la chaîne
 
 > **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
 > **Les nouvelles commandes sont créées uniquement si le player est joignable**
