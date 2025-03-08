@@ -16,6 +16,17 @@
 
 ## 2025
 
+## 08/03/2025
+
+- **Player**
+- Ajout fonction Mute (son)
+- Ajour fonction changer le volume
+- Ajout Fonction du contrôle du volume
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+> **Les nouvelles commandes sont créées uniquement si le player est joignable**
+> **Pour l'instant, il n'est pas possible de changer de chaîne**
+
 ## 09/02/2025
 
 - Amélioration log et message pour l'erreur de cron "Ajout des nouvelles commandes" des appareils connectés
