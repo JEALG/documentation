@@ -16,7 +16,13 @@
 
 ## 2025
 
-## 08/03/2025
+### 19/03/2025
+
+- **Player**
+- Correction bugs
+- Ajout date de la derniere fois que le player a été vue sur le réseau
+
+### 08/03/2025
 
 - **Player**
 - Reprise du code pour la mise à jour des players
@@ -30,22 +36,22 @@
 > **Les nouvelles commandes sont créées uniquement si le player est joignable**
 > **Pour l'instant, il n'est pas possible de changer de chaîne**
 
-## 09/02/2025
+### 09/02/2025
 
 - Amélioration log et message pour l'erreur de cron "Ajout des nouvelles commandes" des appareils connectés
 
-## 06/02/2025
+### 06/02/2025
 
 - Changement nom icône pour la documentation
 
-## 29/01/2025
+### 29/01/2025
 
 - Correction version API en cas de reset : Passage de V10 à v13
 - Correction bouton "Lancement de l'authentification"
 - Changement dépot Plugin > [Voir GITHUB](https://github.com/JEALG/Jeedom-Freebox_OS)
 - Changement icône Plugin
 
-## 28/01/2025
+### 28/01/2025
 
 - Migration de l'API mini en v13.
 
