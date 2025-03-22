@@ -16,6 +16,19 @@
 
 ## 2025
 
+### 22/03/2025
+
+- **Player**
+- Possibilité d'ouvrir le menu "Replay"
+- Possibilité d'ouvrir le menu "Radio"
+- Possibilité d'ouvrir Netfix, Prime Vidéo, Youtube, Mes enregistrements
+- Possibilité d'allumer le player avec la dernière chaine ouverte
+
+> [Merci a ce site](https://github.com/Aymkdn/assistant-freebox-cloud/wiki/Player-API)
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+> **Les nouvelles commandes sont créées uniquement si le player est joignable**
+
 ### 19/03/2025
 
 - **Player**
