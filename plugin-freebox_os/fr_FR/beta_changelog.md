@@ -16,6 +16,17 @@
 
 ## 2025
 
+### 04/04/2025
+
+- Ajout d'info sur les Freeplugs
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+> **Les nouvelles commandes sont créées uniquement si le player est joignable**
+
+### 29/03/2025
+
+- Correction Warning PHP
+
 ### 22/03/2025
 
 - **Player**
@@ -23,6 +34,7 @@
 - Possibilité d'ouvrir le menu "Radio"
 - Possibilité d'ouvrir Netfix, Prime Vidéo, Youtube, Mes enregistrements
 - Possibilité d'allumer le player avec la dernière chaine ouverte
+- Possibilité de redémarrer le player
 
 > [Merci a ce site](https://github.com/Aymkdn/assistant-freebox-cloud/wiki/Player-API)
 
