@@ -19,9 +19,10 @@
 ### 04/04/2025
 
 - Ajout d'info sur les Freeplugs
+- Ajout d'info dans le Partage Windows - Mac
+- Amélioration de la mise à jour des commandes
 
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-> **Les nouvelles commandes sont créées uniquement si le player est joignable**
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS ET DANS LES EQUIPEMENTS**
 
 ### 29/03/2025
 
