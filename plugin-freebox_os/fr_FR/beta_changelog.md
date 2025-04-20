@@ -16,6 +16,10 @@
 
 ## 2025
 
+### 20/04/2025
+
+- Amélioration retour info d'erreur de requête
+
 ### 04/04/2025
 
 - Ajout d'info sur les Freeplugs
