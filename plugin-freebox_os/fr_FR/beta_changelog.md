@@ -16,6 +16,10 @@
 
 ## 2025
 
+### 21/04/2025
+
+- Ajout de l'adresse IP4 dans l'équipement du player
+
 ### 20/04/2025
 
 - Amélioration retour info d'erreur de requête
