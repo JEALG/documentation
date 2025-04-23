@@ -16,6 +16,13 @@
 
 ## 2025
 
+### 23/04/2025
+
+- Ajout une commande pour lancer les chaines
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+> **Les nouvelles commandes sont créées uniquement si le player est joignable**
+
 ### 21/04/2025
 
 - Ajout de l'adresse IP4 dans l'équipement du player
@@ -68,7 +75,6 @@
 
 > **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
 > **Les nouvelles commandes sont créées uniquement si le player est joignable**
-> **Pour l'instant, il n'est pas possible de changer de chaîne**
 
 ### 09/02/2025
 
