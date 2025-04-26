@@ -16,234 +16,44 @@
 
 ## 2025
 
-### 23/04/2025
-
-- Ajout une commande pour lancer les chaines
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-> **Les nouvelles commandes sont créées uniquement si le player est joignable**
-
-### 21/04/2025
-
-- Ajout de l'adresse IP4 dans l'équipement du player
-
-### 20/04/2025
-
-- Amélioration retour info d'erreur de requête
-
-### 04/04/2025
-
-- Ajout d'info sur les Freeplugs
-- Ajout d'info dans le Partage Windows - Mac
-- Amélioration de la mise à jour des commandes
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS ET DANS LES EQUIPEMENTS**
-
-### 29/03/2025
-
-- Correction Warning PHP
-
-### 22/03/2025
+### 26/04/2025
 
 - **Player**
-- Possibilité d'ouvrir le menu "Replay"
-- Possibilité d'ouvrir le menu "Radio"
-- Possibilité d'ouvrir Netfix, Prime Vidéo, Youtube, Mes enregistrements
-- Possibilité d'allumer le player avec la dernière chaine ouverte
+- Ajout une commande pour lancer les chaines
+- Amélioration de la disposition des boutons sur le dashboard
+- Amélioration mise à jour des commandes
+- Correction Warning PHP et bugs
+- Amélioration création des commandes
+- Ajout date de la derniere fois que le player a été vue sur le réseau
+- Ajout fonction Mute (son)
+- Ajour fonction changer le volume
+- Ajout info numéro de chaîne
+- Ajour info nom de la chaîne
+- Ajout de l'adresse IP4 dans l'équipement du player
+- Ajout commmande multiple :
+      - Ouvrir le menu "Replay"
+      - Ouvrir le menu "Radio"
+      - Ouvrir Netfix, Prime Vidéo, Youtube, Mes enregistrements
+      - Allumer le player avec la dernière chaine ouverte
 - Possibilité de redémarrer le player
 
 > [Merci a ce site](https://github.com/Aymkdn/assistant-freebox-cloud/wiki/Player-API)
-
+> [Merci a cette issue](https://github.com/JEALG/Jeedom-Freebox_OS/issues/446)
 > **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
 > **Les nouvelles commandes sont créées uniquement si le player est joignable**
+ **Il faut absolument que le Player soit sous tension et pas en veille prolongée (Révolution) lors de la recherche**
 
-### 19/03/2025
+- **Appareils connectés**
+- Correction warning PHP
 
-- **Player**
-- Correction bugs
-- Ajout date de la derniere fois que le player a été vue sur le réseau
+- **Freeplugs**
+- Ajout d'info sur les Freeplugs
 
-### 08/03/2025
+- **Partage Windows Mac**
+- Ajout d'info dans le Partage Windows - Mac
 
-- **Player**
-- Reprise du code pour la mise à jour des players
-- Ajout fonction Mute (son)
-- Ajour fonction changer le volume
-- Ajout Fonction du contrôle du volume
-- Ajout info numéro de chaîne
-- Ajour info nom de la chaîne
+- **Global**
+- Amélioration mise à jour requête sur la Freebox
+- Amélioration retour info d'erreur de requête
 
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-> **Les nouvelles commandes sont créées uniquement si le player est joignable**
-
-### 09/02/2025
-
-- Amélioration log et message pour l'erreur de cron "Ajout des nouvelles commandes" des appareils connectés
-
-### 06/02/2025
-
-- Changement nom icône pour la documentation
-
-### 29/01/2025
-
-- Correction version API en cas de reset : Passage de V10 à v13
-- Correction bouton "Lancement de l'authentification"
-- Changement dépot Plugin > [Voir GITHUB](https://github.com/JEALG/Jeedom-Freebox_OS)
-- Changement icône Plugin
-
-### 28/01/2025
-
-- Migration de l'API mini en v13.
-
-### 27/01/2025
-
-- **Wifi**
-- Ajout commande "Choix Mode de veille planning" pour le wifi pour les box compatibles avec le mode Eco Wifi
-
-- **Community**
-- Ajout info supplémentaire pour Community
-
-- **Scan équipements standards**
-- Correction création des équipements de type VM sur les freebox non compatible
-
-> [Voir le sujet sur communnity](https://community.jeedom.com/t/api-non-compatible-avec-les-vm-sur-les-freebox-revolution/137141?u=jag)
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-
-### 26/01/2025
-
-- Mise à jour des liens des images
-
-### 12/01/2025
-
-- Mise à jour des liens des images
-
-- **Wifi**
-- Ajout Etat mode eco Wifi (pour les freebox compatibles)
-- Mise à jour des noms des commandes de l'état des cartes Wifi (suivant les cas, il faut lancer 2 fois la recherche)
-- Correction retour Etat WPS
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-
-### 05/01/2025
-
-- Amélioration changement Nom des commandes pour les appareils connectés
-
-### 01/01/2025
-
-- Corrections log
-
-## 2024
-
-### 23/12/2024
-
-- **Ensemble des équipements standards**
-- Ajout vérification si présence disque
-
-- **Système**
-- Ajout l'état du disque dans l'équipement système
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-
-### 15-16/12/2024
-
-- **Ensemble des équipements standards**
-- Ajout vérification si la box est compatible avec les VM
-- Ajout vérification si la box est compatible avec les différents type d'affichage de l'écran de la box
-
-- **Afficheur LCD**
-- Correction commande off pour l'orientation
-- Correction de la commande Lumininosité écran
-- Ajout gestion Freebox Ultra Edition 25
-- Correction de la valeur de la position du texte pour l'afficheur
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-
-### 13/11/2024
-
-- Correction création commande du Player (il faut relancer une recherche pour de nouveau avoir l'état)
-- Correction création commande du Wifi
-
-### 12/11/2024
-
-- Amélioration log
-
-- **Téléphone**
-- Ajout des commandes pour uniquement les nouveaux appel manqués et reçus
-- Correction bug si la liste est vide
-- Correction traduction
-
-### 11/11/2024
-
-- Correction création disque
-- Correction requête pour le téléphone
-
-### 10/11/2024
-
-- Correction bug bouton lancement de l'authentification
-
-### 11/10/2024
-
-- Correction bug bouton lancement de l'authentification
-- Correction type de regroupement d'appareil pour les débits
-- Correction du demon : il sera redemarré uniquement si l'authentification a été faite lors de la première installation.
-
-### 27/09/2024
-
-- Correction bug installation depuis Market
-
-### 20 et 25 /09/2024
-
-- Correction bug setConfiguration sur la création des commandes
-- Traduction
-- Ajout Firmware dans le lien communauty
-- Clean code
-- Correction PHP 8
-- Traduction
-- Core mini 4.2
-- Traitement fonction Deprecated
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS ET PARENTAL**
-
-### 05/09/2024
-
-- Correction PHP 8
-- Correction bug remise a zéro téléphonie
-
-### 23/08/2024
-
-- Correction bug authentification
-
-### 21/08/2024
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS ET PARENTAL**
-
-- **Ensemble des équipements standards**
-
-- Reprise de l'ensemble des mises à jour
-- Amélioration info vers Community pour le Core 4.4
-
-- **Contrôle parental**
-
-- Ajout commande pour "appareil associé"
-- Ajout commande pour "Vacances associées au profil"
-
-> **ATTENTION : Il faudra supprimer la commande ETAT et renommer ETAT(1) en ETAT**
-
-- **Afficheur**
-
-- Ajout commandes pour forcer l'orientation
-- Ajout commandes pour cacher la clef Wifi
-
-- **Systeme**
-
-- Ajout commande info sur la mise à jour du firmware de la Freebox Serveur avec les valeurs suivantes
-      - Le processus de mise à jour est en cours d\'initialisation
-      - Le micrologiciel est en cours de mise à jour
-      - Le micrologiciel est à jour
-      - Une erreur s'est produite pendant la mise à jour
-- Ajout info de la langue d'affichage
-
-- **Wifi**
-- Ajout Info du type de mode Eco pour le wifi
-- Ajout du mode de veille pour la planification du Wifi
+> [Merci a cette issue](https://github.com/JEALG/Jeedom-Freebox_OS/issues/446)
