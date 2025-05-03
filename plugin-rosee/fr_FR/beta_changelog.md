@@ -14,6 +14,7 @@
 
 - Ajout commande "Pression de vapeur réelle" en Pa
 _ Correction unité
+- Ajout commande "rapport de mélange" en g/Kg :https://fr.m.wikipedia.org/wiki/Rapport_de_mélange
 
 ### 25/01/2025
 
