@@ -16,6 +16,48 @@
 
 ## 2025
 
+### 04/05/2025
+
+- **Player**
+- Ajout une commande pour lancer les chaines
+- Amélioration de la disposition des boutons sur le dashboard
+- Amélioration mise à jour des commandes
+- Correction Warning PHP et bugs
+- Amélioration création des commandes
+- Ajout date de la derniere fois que le player a été vue sur le réseau
+- Ajout fonction Mute (son)
+- Ajour fonction changer le volume
+- Ajout info numéro de chaîne
+- Ajour info nom de la chaîne
+- Ajout de l'adresse IP4 dans l'équipement du player
+- Ajout commmande multiple :
+      - Ouvrir le menu "Replay"
+      - Ouvrir le menu "Radio"
+      - Ouvrir Netfix, Prime Vidéo, Youtube, Mes enregistrements
+      - Allumer le player avec la dernière chaine ouverte
+- Possibilité de redémarrer le player
+
+> [Merci a ce site](https://github.com/Aymkdn/assistant-freebox-cloud/wiki/Player-API)
+> [Merci a cette issue](https://github.com/JEALG/Jeedom-Freebox_OS/issues/446)
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+> **Les nouvelles commandes sont créées uniquement si le player est joignable**
+ **Il faut absolument que le Player soit sous tension et pas en veille prolongée (Révolution) lors de la recherche**
+
+- **Appareils connectés**
+- Correction warning PHP
+
+- **Freeplugs**
+- Ajout d'info sur les Freeplugs
+
+- **Partage Windows Mac**
+- Ajout d'info dans le Partage Windows - Mac
+
+- **Global**
+- Amélioration mise à jour requête sur la Freebox
+- Amélioration retour info d'erreur de requête
+
+> [Merci a cette issue](https://github.com/JEALG/Jeedom-Freebox_OS/issues/446)
+
 ## 09/02/2025
 
 - Amélioration log et message pour l'erreur de cron "Ajout des nouvelles commandes" des appareils connectés
