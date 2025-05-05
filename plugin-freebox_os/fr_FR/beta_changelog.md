@@ -20,6 +20,8 @@
 
 - Correction erreur avec PHP <8 [Sujet community](https://community.jeedom.com/t/call-to-undefined-function-str-contains/140353/9)
 
+> **ATTENTION : DERNIERE VERSION DU PLUGIN COMPATIBLE AVEC DEBIAN 10**
+
 ### 26/04/2025
 
 - **Player**
