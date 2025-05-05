@@ -16,6 +16,10 @@
 
 ## 2025
 
+### 05/05/2025
+
+- Correction erreur avec PHP <8 [Sujet community](https://community.jeedom.com/t/call-to-undefined-function-str-contains/140353/9)
+
 ### 26/04/2025
 
 - **Player**

@@ -16,6 +16,12 @@
 
 ## 2025
 
+### 05/05/2025
+
+- Correction erreur avec PHP <8 [Sujet community](https://community.jeedom.com/t/call-to-undefined-function-str-contains/140353/9)
+
+> **ATTENTION : DERNIERE VERSION DU PLUGIN COMPATIBLE AVEC DEBIAN 10**
+
 ### 04/05/2025
 
 - **Player**
