@@ -16,6 +16,14 @@
 
 ## 2025
 
+### 06/05/2025
+
+- Correction API non disponible pour les Players [Sujet community](https://community.jeedom.com/t/freebox-os-messages-derreur-depuis-la-derniere-mise-a-niveau/140390?u=jag)
+- Correction message d'erreur pour les modules 4G non disponible [Sujet community](https://community.jeedom.com/t/error-message-inconnue-noent/140388?u=jag)
+
+> **ATTENTION : Le plugin remonte maintenant plus de problème de communication entre Jeedom et la Freebox**
+> **ATTENTION : DERNIERE VERSION DU PLUGIN COMPATIBLE AVEC DEBIAN 10**
+
 ### 05/05/2025
 
 - Correction erreur avec PHP <8 [Sujet community](https://community.jeedom.com/t/call-to-undefined-function-str-contains/140353/9)
