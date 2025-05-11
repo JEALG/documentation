@@ -16,6 +16,10 @@
 
 ## 2025
 
+### 11/05/2025
+
+- Amélioration Player (clean code + non création des commandes si la variable n'existe pas)
+
 ### 06/05/2025
 
 - Correction API non disponible pour les Players [Sujet community](https://community.jeedom.com/t/freebox-os-messages-derreur-depuis-la-derniere-mise-a-niveau/140390?u=jag)
