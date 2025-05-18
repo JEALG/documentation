@@ -16,6 +16,11 @@
 
 ## 2025
 
+### 18/05/2025
+
+- Amélioration Contrôle parental
+- Amélioration retour info etat Wifi
+
 ### 11/05/2025
 
 - Amélioration Player (clean code + non création des commandes si la variable n'existe pas)
