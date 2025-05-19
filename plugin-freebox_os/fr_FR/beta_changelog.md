@@ -16,6 +16,12 @@
 
 ## 2025
 
+### 19/05/2025
+
+- Amélioration Contrôle parental
+- Amélioration mise à jour de la partie système
+- Correction Bug Variable par défaut lors de la mise a jour
+
 ### 18/05/2025
 
 - Amélioration Contrôle parental
