@@ -16,6 +16,18 @@
 
 ## 2025
 
+### 29/06/2025
+
+- Réecriture de la mise à jour et action de l'équipement Gestion du réseau
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+
+### 24/05/2025
+
+- Amélioration récupération des données
+- Afficheur possiblité d'éteindre la LED pour les box compatibles
+- Correction Bug récupération données Freeplug
+
 ### 19/05/2025
 
 - Amélioration Contrôle parental

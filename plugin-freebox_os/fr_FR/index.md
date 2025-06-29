@@ -128,9 +128,9 @@ Voici un exemple
 0007|[2024-10-11 18:53:51] INFO  ──────────▶︎ Étape : authentification
 0008|[2024-10-11 18:53:53] INFO  ──────────▶︎ Étape : rights
 0009|[2024-10-11 18:53:57] DEBUG  OK  Close Session
-0010|[2024-10-11 18:53:57] DEBUG  [Freebox Close Session] : {"uid":"94d2c23d2479819c30954e64ca5981b5","success":false,"msg":"Vous devez vous connecter pour accéder à cette fonction","result":{"password_salt":"orwB6BfzCFmlKTdR+O\/6kUmIYIkXfu0P","challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr"},"error_code":"invalid_session"}
-0011|[2024-10-11 18:53:57] DEBUG  [Freebox Password] : {"success":true,"result":{"logged_in":false,"challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr","password_salt":"orwB6BfzCFmlKTdR+O\/6kUmIYIkXfu0P","password_set":true}}
-0012|[2024-10-11 18:53:57] DEBUG  [get Freebox Open Session Data] : {"result":{"session_token":"eRDFtl35L8ENEND2UGlooFzLhAgmv8CGPbMLiegdyC2n4z3DDr4UEYY+zYMOhSkS","challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr","password_salt":"orwB6BfzCFmlKTdR+O\/6kUmIYIkXfu0P","permissions":{"parental":true,"contacts":true,"explorer":true,"tv":true,"wdo":true,"downloader":true,"profile":true,"camera":true,"settings":true,"calls":true,"home":true,"pvr":true,"vm":true,"player":true},"password_set":true},"success":true}
+0010|[2024-10-11 18:53:57] DEBUG  [Freebox Close Session] : {"uid":"","success":false,"msg":"Vous devez vous connecter pour accéder à cette fonction","result":{"password_salt":"","challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr"},"error_code":"invalid_session"}
+0011|[2024-10-11 18:53:57] DEBUG  [Freebox Password] : {"success":true,"result":{"logged_in":false,"challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr","password_salt":"","password_set":true}}
+0012|[2024-10-11 18:53:57] DEBUG  [get Freebox Open Session Data] : {"result":{"session_token":"eRDFtl35L8ENEND2UGlooFzLhAgmv8CGPbMLiegdyC2n4z3DDr4UEYY+zYMOhSkS","challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr","password_salt":"P","permissions":{"parental":true,"contacts":true,"explorer":true,"tv":true,"wdo":true,"downloader":true,"profile":true,"camera":true,"settings":true,"calls":true,"home":true,"pvr":true,"vm":true,"player":true},"password_set":true},"success":true}
 0013|[2024-10-11 18:53:57] INFO  ───▶︎ Les droits sont OK
 0014|[2024-10-11 18:53:58] INFO  ──────────▶︎ Étape : room
 0015|[2024-10-11 18:53:58] INFO  ───▶︎ Cron Global Titles ACTIVATION : NOK

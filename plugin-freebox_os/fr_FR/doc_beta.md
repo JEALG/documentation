@@ -128,9 +128,9 @@ Voici un exemple
 0007|[2024-10-11 18:53:51] INFO  ──────────▶︎ Étape : authentification
 0008|[2024-10-11 18:53:53] INFO  ──────────▶︎ Étape : rights
 0009|[2024-10-11 18:53:57] DEBUG  OK  Close Session
-0010|[2024-10-11 18:53:57] DEBUG  [Freebox Close Session] : {"uid":"94d2c23d2479819c30954e64ca5981b5","success":false,"msg":"Vous devez vous connecter pour accéder à cette fonction","result":{"password_salt":"orwB6BfzCFmlKTdR+O\/6kUmIYIkXfu0P","challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr"},"error_code":"invalid_session"}
-0011|[2024-10-11 18:53:57] DEBUG  [Freebox Password] : {"success":true,"result":{"logged_in":false,"challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr","password_salt":"orwB6BfzCFmlKTdR+O\/6kUmIYIkXfu0P","password_set":true}}
-0012|[2024-10-11 18:53:57] DEBUG  [get Freebox Open Session Data] : {"result":{"session_token":"eRDFtl35L8ENEND2UGlooFzLhAgmv8CGPbMLiegdyC2n4z3DDr4UEYY+zYMOhSkS","challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr","password_salt":"orwB6BfzCFmlKTdR+O\/6kUmIYIkXfu0P","permissions":{"parental":true,"contacts":true,"explorer":true,"tv":true,"wdo":true,"downloader":true,"profile":true,"camera":true,"settings":true,"calls":true,"home":true,"pvr":true,"vm":true,"player":true},"password_set":true},"success":true}
+0010|[2024-10-11 18:53:57] DEBUG  [Freebox Close Session] : {"uid":"","success":false,"msg":"Vous devez vous connecter pour accéder à cette fonction","result":{"password_salt":"","challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr"},"error_code":"invalid_session"}
+0011|[2024-10-11 18:53:57] DEBUG  [Freebox Password] : {"success":true,"result":{"logged_in":false,"challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr","password_salt":"","password_set":true}}
+0012|[2024-10-11 18:53:57] DEBUG  [get Freebox Open Session Data] : {"result":{"session_token":"eRDFtl35L8ENEND2UGlooFzLhAgmv8CGPbMLiegdyC2n4z3DDr4UEYY+zYMOhSkS","challenge":"sQn1Z4f3UT0u21ms1kogF\/pK+lnmuPTr","password_salt":"P","permissions":{"parental":true,"contacts":true,"explorer":true,"tv":true,"wdo":true,"downloader":true,"profile":true,"camera":true,"settings":true,"calls":true,"home":true,"pvr":true,"vm":true,"player":true},"password_set":true},"success":true}
 0013|[2024-10-11 18:53:57] INFO  ───▶︎ Les droits sont OK
 0014|[2024-10-11 18:53:58] INFO  ──────────▶︎ Étape : room
 0015|[2024-10-11 18:53:58] INFO  ───▶︎ Cron Global Titles ACTIVATION : NOK
@@ -172,6 +172,12 @@ Cliquer sur le bouton **_Scan équipements standards_**, le plugin va créer les
 
 Les équipements et les commandes suivants vont être créés :
 
+- **Afficheur LCD**
+  - Réglage de la luminosité
+  - Réglage de l'orientation du texte
+  - Cacher la clef Wifi
+  - Gestion des bandeaux luminieux (si la box est compatible)
+  - Eteindre la LED (si la box est compatible)
 - **Air Média**
   - Choix du Player actuel 
   - AirMedia Start / Stop
@@ -293,6 +299,9 @@ Il faut avoir les valeurs les champs suivants renseignés
 
 - Choix IP : Indiquer l'adresse IP de l'appareil
 - Sélection Nom Appareil : Indiquer le nom de l'appareil
+
+  > Si le nom est vide, le plugin récupérera le nom de l'appareil renseigné dans la Freebox
+
 - Commentaires : permet de saisir un commentaire (Option)
 
 ### Changer le type de périphérique
@@ -307,6 +316,9 @@ Il faut avoir les valeurs les champs suivants renseignés
   > - **Modifier le type de périphérique**
 
 - Sélection Type de périphérique : Sélectionner le type de périphérique
+
+  > Si le nom est vide, le plugin récupérera le nom de l'appareil renseigné dans la Freebox
+  
 - Commentaires : permet de saisir un commentaire
 - Modifier l'appareil : Permet d'envoyer la modification sur la Freebox
 
@@ -320,12 +332,9 @@ Il faut avoir les valeurs les champs suivants renseignés
 - Sélectionner l'appareil connecté
 - Sélection modification Appareil avec une valeur suivante
 
-  > - **Ajouter Liste noire Wifi**
-  > - **Ajouter Liste blanche Wifi**
-  > - **Supprimer Liste noire Wifi**
-  > - **Supprimer Liste blanche Wifi**
-  > - **Modifier Liste noire Wifi**
-  > - **Modifier Liste blanche Wifi**
+  > - **Ajouter/Modifier Liste noire**
+  > - **Ajouter/Modifier Liste blanche**
+  > - **Supprimer Liste noire / Blanche** 
 
 - Commentaires : permet de saisir un commentaire ou un mot de passe
 - Modifier l'appareil : Permet d'envoyer la modification sur la Freebox
