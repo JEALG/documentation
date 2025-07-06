@@ -16,6 +16,12 @@
 
 ## 2025
 
+### 06/07/2025
+
+- Suite amélioration de l'équipement Gestion du réseau
+- Correction Bug liste des équipements réseaux 
+
+
 ### 29/06/2025
 
 - Réecriture de la mise à jour et action de l'équipement Gestion du réseau
