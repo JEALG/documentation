@@ -297,6 +297,9 @@ Il faut avoir les valeurs les champs suivants renseignés
   > - **Supprimer IP fixe**
   > - **Modifier IP l'équipement**
 
+  il est possible aussi de le faire avec la commmande 
+   > - **Modifier le type de périphérique / IP**
+
 - Choix IP : Indiquer l'adresse IP de l'appareil
 - Sélection Nom Appareil : Indiquer le nom de l'appareil
 
@@ -313,7 +316,7 @@ Il faut avoir les valeurs les champs suivants renseignés
 - Sélectionner l'appareil connecté
 - Sélection modification Appareil avec une valeur suivante
 
-  > - **Modifier le type de périphérique**
+  > - **Modifier le type de périphérique / IP**
 
 - Sélection Type de périphérique : Sélectionner le type de périphérique
 
@@ -338,8 +341,6 @@ Il faut avoir les valeurs les champs suivants renseignés
 
 - Commentaires : permet de saisir un commentaire ou un mot de passe
 - Modifier l'appareil : Permet d'envoyer la modification sur la Freebox
-
-> **A savoir** : l'appareil n'est pas automatiquement supprimé d'une liste si un changement de type de filtrage est fait.
 
 ### Fonction Wake on LAN
 
