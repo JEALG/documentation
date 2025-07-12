@@ -21,6 +21,7 @@
 - **Global**
 - Amélioration récupération des données
 - Correction Bug Variable par défaut lors de la mise a jour ou de l'installation du plugin
+- Traitement des messages d'erreur de la freebox
 
 - **Gestion du réseau**
 - Réecriture de la mise à jour et action de l'équipement Gestion du réseau
