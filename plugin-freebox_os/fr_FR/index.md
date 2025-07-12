@@ -172,6 +172,12 @@ Cliquer sur le bouton **_Scan équipements standards_**, le plugin va créer les
 
 Les équipements et les commandes suivants vont être créés :
 
+- **Afficheur LCD**
+  - Réglage de la luminosité
+  - Réglage de l'orientation du texte
+  - Cacher la clef Wifi
+  - Gestion des bandeaux luminieux (si la box est compatible)
+  - Eteindre la LED (si la box est compatible)
 - **Air Média**
   - Choix du Player actuel 
   - AirMedia Start / Stop
@@ -291,8 +297,14 @@ Il faut avoir les valeurs les champs suivants renseignés
   > - **Supprimer IP fixe**
   > - **Modifier IP l'équipement**
 
+  il est possible aussi de le faire avec la commmande 
+   > - **Modifier le type de périphérique / IP**
+
 - Choix IP : Indiquer l'adresse IP de l'appareil
 - Sélection Nom Appareil : Indiquer le nom de l'appareil
+
+  > Si le nom est vide, le plugin récupérera le nom de l'appareil renseigné dans la Freebox
+
 - Commentaires : permet de saisir un commentaire (Option)
 
 ### Changer le type de périphérique
@@ -304,9 +316,12 @@ Il faut avoir les valeurs les champs suivants renseignés
 - Sélectionner l'appareil connecté
 - Sélection modification Appareil avec une valeur suivante
 
-  > - **Modifier le type de périphérique**
+  > - **Modifier le type de périphérique / IP**
 
 - Sélection Type de périphérique : Sélectionner le type de périphérique
+
+  > Si le nom est vide, le plugin récupérera le nom de l'appareil renseigné dans la Freebox
+  
 - Commentaires : permet de saisir un commentaire
 - Modifier l'appareil : Permet d'envoyer la modification sur la Freebox
 
@@ -320,17 +335,12 @@ Il faut avoir les valeurs les champs suivants renseignés
 - Sélectionner l'appareil connecté
 - Sélection modification Appareil avec une valeur suivante
 
-  > - **Ajouter Liste noire Wifi**
-  > - **Ajouter Liste blanche Wifi**
-  > - **Supprimer Liste noire Wifi**
-  > - **Supprimer Liste blanche Wifi**
-  > - **Modifier Liste noire Wifi**
-  > - **Modifier Liste blanche Wifi**
+  > - **Ajouter/Modifier Liste noire**
+  > - **Ajouter/Modifier Liste blanche**
+  > - **Supprimer Liste noire/Blanche** 
 
 - Commentaires : permet de saisir un commentaire ou un mot de passe
 - Modifier l'appareil : Permet d'envoyer la modification sur la Freebox
-
-> **A savoir** : l'appareil n'est pas automatiquement supprimé d'une liste si un changement de type de filtrage est fait.
 
 ### Fonction Wake on LAN
 

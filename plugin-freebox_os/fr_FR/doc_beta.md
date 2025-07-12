@@ -337,7 +337,7 @@ Il faut avoir les valeurs les champs suivants renseignés
 
   > - **Ajouter/Modifier Liste noire**
   > - **Ajouter/Modifier Liste blanche**
-  > - **Supprimer Liste noire / Blanche** 
+  > - **Supprimer Liste noire/Blanche** 
 
 - Commentaires : permet de saisir un commentaire ou un mot de passe
 - Modifier l'appareil : Permet d'envoyer la modification sur la Freebox

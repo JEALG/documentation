@@ -16,6 +16,39 @@
 
 ## 2025
 
+### 12/07/2025
+
+- **Global**
+- Amélioration récupération des données
+- Correction Bug Variable par défaut lors de la mise a jour ou de l'installation du plugin
+
+- **Gestion du réseau**
+- Réecriture de la mise à jour et action de l'équipement Gestion du réseau
+- Ajout d'info sur le DHCP
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+
+- **Liste des appareils**
+- Correction Bug liste des équipements réseaux 
+
+- **Afficheur LCD**
+- Afficheur possiblité d'éteindre la LED pour les box compatibles
+
+- **Freeplugs**
+- Correction Bug récupération données Freeplug
+
+- **Contrôle parental**
+- Amélioration Contrôle parental
+
+- **Système**
+- Amélioration mise à jour de la partie système
+
+- **Wifi**
+- Amélioration retour info etat Wifi
+
+- **Player**
+- Amélioration Player (clean code + non création des commandes si la variable n'existe pas)
+
 ### 06/05/2025
 
 - Correction API non disponible pour les Players [Sujet community](https://community.jeedom.com/t/freebox-os-messages-derreur-depuis-la-derniere-mise-a-niveau/140390?u=jag)
