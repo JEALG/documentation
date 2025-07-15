@@ -16,6 +16,10 @@
 
 ## 2025
 
+### 15/07/2025
+
+- Traitement de l'erreur "Nodev" en mode Debug uniquement (Adresse mac introuvable)
+
 ### 06/07/2025
 
 - Suite amélioration de l'équipement Gestion du réseau
