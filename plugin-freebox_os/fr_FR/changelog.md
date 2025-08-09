@@ -19,6 +19,7 @@
 ### 15/07/2025
 
 - Traitement de l'erreur "Nodev" en mode Debug uniquement (Adresse mac introuvable)
+- Gestion du mode bridge pour ne pas récupèrer certaines information du player
 
 ### 12/07/2025
 

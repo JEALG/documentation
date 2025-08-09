@@ -16,9 +16,16 @@
 
 ## 2025
 
+### 09/08/2025
+
+- Correction Cron qui se modifie a chaque recherche des équipements
+- Correction requête VM (trop de / dans la requête)
+- Correction action "stop" - " Redéamrrer" - "start"
+
 ### 15/07/2025
 
 - Traitement de l'erreur "Nodev" en mode Debug uniquement (Adresse mac introuvable)
+- Gestion du mode bridge pour ne pas récupèrer certaines information du player
 
 ### 06/07/2025
 
