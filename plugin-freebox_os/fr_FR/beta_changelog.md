@@ -16,13 +16,16 @@
 
 ## 2025
 
-### 09/08/2025
+### 12/08/2025
 
-- Correction Cron qui se modifie a chaque recherche des équipements
+- **Global**
+- Correction Cron qui se modifie à chaque recherche des équipements
+- Migration de l'API mini en v14
+
+- **VM**
 - Correction requête VM (trop de / dans la requête)
 - Correction de la désactivation de l'équipement VM
 - Correction action "stop" - " Redéamrrer" - "start"
-- Migration de l'API mini en v14.
 
 ### 15/07/2025
 
