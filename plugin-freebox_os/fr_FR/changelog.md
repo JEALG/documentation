@@ -25,10 +25,11 @@
 - **VM**
 - Correction requête VM (trop de / dans la requête)
 - Correction de la désactivation de l'équipement VM
-- Correction action "stop" - " Redéamrrer" - "start"
+- Correction action "stop" - " Redémarrer" - "start"
 
 > **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-> **Si le scan n'est pas fait, vous aurez peut être le message suivant : La version de l'API n'est pas compatible ───▶︎ Code Erreur = invalid_api_version
+>
+> **Si le scan n'est pas fait, vous aurez peut être le message suivant :** La version de l'API n'est pas compatible ───▶︎ Code Erreur = invalid_api_version
 
 ### 15/07/2025
 
