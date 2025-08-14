@@ -27,6 +27,9 @@
 - Correction de la désactivation de l'équipement VM
 - Correction action "stop" - " Redéamrrer" - "start"
 
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+> **Si le scan n'est pas fait, vous aurez peut être le message suivant :** La version de l'API n'est pas compatible ───▶︎ Code Erreur = invalid_api_version
+
 ### 15/07/2025
 
 - Traitement de l'erreur "Nodev" en mode Debug uniquement (Adresse mac introuvable)
