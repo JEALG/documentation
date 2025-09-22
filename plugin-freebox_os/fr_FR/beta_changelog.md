@@ -16,6 +16,11 @@
 
 ## 2025
 
+### 22/09/2025
+
+- **Wifi**
+- Amélioration commande WIFI 
+
 ### 19/09/2025
 
 - **Wifi**
