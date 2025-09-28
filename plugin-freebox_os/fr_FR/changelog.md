@@ -16,6 +16,14 @@
 
 ## 2025
 
+### 19/09/2025
+
+- **Wifi**
+- Ajout de la liste des appareils connectés par carte WIFI
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+
+
 ### 12/08/2025
 
 - **Global**
