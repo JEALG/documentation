@@ -16,10 +16,14 @@
 
 ## 2025
 
+### 04/10/2025
+
+- Correction Warning PHP
+
 ### 22/09/2025
 
 - **Wifi**
-- Amélioration commande WIFI 
+- Amélioration commande WIFI
 
 ### 19/09/2025
 
