@@ -16,6 +16,10 @@
 
 ## 2025
 
+### 08/10/2025
+
+- Correction groupe équipement pour la partie domotique
+
 ### 04/10/2025
 
 - Correction Warning PHP
