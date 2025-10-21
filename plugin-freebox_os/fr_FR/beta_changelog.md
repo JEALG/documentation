@@ -16,6 +16,10 @@
 
 ## 2025
 
+### 21/10/2025
+
+- Amélioration Log pour la partie recherche disque
+
 ### 08/10/2025
 
 - Correction groupe équipement pour la partie domotique
