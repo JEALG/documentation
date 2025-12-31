@@ -113,7 +113,7 @@
 
   > Le démon sera autorisé a démaré uniquement si l'authentification et les droits sont OK. Cela se fait depuis le menu "appairage"
 
-- **Le changelog indique : Attention : Il est nécessaire d’avoir la Freebox serveur en version 4.8.13 pour que le plugin fonctionne.**
+- **Le changelog indique : Attention : Il est nécessaire d’avoir la Freebox serveur en version x.x.x pour que le plugin fonctionne.**
 
  > Le plugin pour fonctionner nécessite d'avoir un firmware minimum.
  > <p><img src="../images/firmware.png" alt="Firmware Freebox" width="800" /></p> 
