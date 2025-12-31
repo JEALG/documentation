@@ -16,6 +16,10 @@
 
 ## 2025
 
+### 31/12/2025
+
+- Amélioration des messages d'erreur
+
 ### 21/10/2025
 
 - Amélioration Log pour la partie recherche disque
