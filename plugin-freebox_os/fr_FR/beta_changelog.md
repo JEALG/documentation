@@ -20,7 +20,6 @@
 
 - Correction port USB sur les VM
 
-
 ## 2025
 
 ### 31/12/2025
