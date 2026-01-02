@@ -14,6 +14,13 @@
 
 > [Voir le fil d'actualité du plugin sur Community](https://community.jeedom.com/t/info-plugin-freebox-mise-a-jour-des-composants-de-la-delta-tiles-systeme/30673)
 
+## 2026
+
+### 02/01/2026
+
+- Correction port USB sur les VM
+
+
 ## 2025
 
 ### 31/12/2025
