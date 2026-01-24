@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 24/01/2026
+
+- Ajout info dans les log pour le paramétrage des commandes de type slider est le maxi et mini de configurer
+
 ### 02/01/2026
 
 - Correction port USB sur les VM
