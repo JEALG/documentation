@@ -16,6 +16,12 @@
 
 ## 2026
 
+### 01/02/2026
+
+- Ajout info dans les log pour le paramétrage des commandes de type slider si le maxi et mini ne sont pas renseignés
+- Correction attribution maxi et min pour les commandes actions de type curseur
+- Amélioration des logs pour la partie titles
+
 ### 02/01/2026
 
 - Correction port USB sur les VM
