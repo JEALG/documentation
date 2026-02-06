@@ -1,12 +1,12 @@
 ---
 layout: default
 lang: en_US
-title: Liste des plugins et widgets
+title: Liste des plugins
 ---
 
 # infos
 
-Ici vous trouverez l'ensemble de la documentation des plugins et des widgets JAG pour Jeedom
+Ici vous trouverez l'ensemble de la documentation des plugins JAG pour Jeedom
 
 # Les Plugins
 
