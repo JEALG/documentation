@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 22/02/2026
+
+- Fix compteur d'appel
+
 ### 01/02/2026
 
 - Ajout info dans les log pour le paramétrage des commandes de type slider si le maxi et mini ne sont pas renseignés
