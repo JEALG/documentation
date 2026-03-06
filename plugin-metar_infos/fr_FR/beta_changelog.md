@@ -12,6 +12,12 @@
 
 > Ce changelog est hébergé provisoirement en attendant la remise en service du site officiel
 
+## 2026
+
+### 06/03/2026
+
+- Amélioration mise à jour du plugin
+
 ## 2025
 
 ### 26/01/2025
