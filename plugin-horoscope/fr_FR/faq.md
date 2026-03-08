@@ -6,7 +6,7 @@
 
 - Est-ce que ce plugin s'appuie sur des API tiers ?
 
-> Le plugin n'utilise que du PHP  pour aller chercher les informations (après découpage) sur un site d'astrologie.
+> Le plugin n'utilise que du PHP pour aller chercher les informations (après découpage) sur un site d'astrologie.
 
 - Pourquoi est-il conseillé de régler le cron d'actualisation à ***5H du matin*** ?
 

@@ -10,6 +10,7 @@
 
 ## 2026
 
-### 05/03/2026
+### 08/03/2026
 
 - Changement des sources des horoscopes (l'ensemble des commandes ont été changé)
+- Ajout horoscopes jour et hebdomadaire

@@ -24,7 +24,3 @@ Le plugin ne comporte pas de configuration particulière.
 Un widget est appliqué automatiquement sur la commande **Signe du zodiaque**
 
 > <img src="../{{site.img}}/horoscope_dashboard.png" alt="Dashboard" width="350" />
-
-> Exemples de commandes disponibles
-
-> ![Commande](../{{site.img}}/horoscope_commande.png)
