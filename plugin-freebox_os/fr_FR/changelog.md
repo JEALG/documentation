@@ -16,6 +16,12 @@
 
 ## 2026
 
+### 20/03/2026
+
+- Fix compteur d'appel (retour en arrière)
+- Fix warning partie domotique si l'équipement n'existe pas
+- Amélioration log
+
 ### 22/02/2026
 
 - Fix compteur d'appel
