@@ -16,6 +16,8 @@
 
 ## 2026
 
-### 06/03/2026
+### 20/03/2026
 
-- Amélioration mise à jour du plugin
+- Fix compteur d'appel (retour en arrière)
+- Fix warning partie domotique si l'équipement n'existe pas
+- Amélioration log
