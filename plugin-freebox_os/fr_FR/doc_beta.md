@@ -22,6 +22,7 @@ Les informations disponibles de votre Freebox Serveur sur Jeedom sont :
   - Le nombre d'appels en absence
   - Le nombre d'appels passés
   - Le nombre d'appels reçus
+  - Le nombre de message vocal
 - **Disque Dur :**
   - La place disponible dans vos disques connectés à la Freebox Serveur.
 - **Appareils connectés sur le LAN et le Wifi Invité:**
@@ -225,6 +226,8 @@ Les équipements et les commandes suivants vont être créés :
 - **Téléphone** sur les dernières 24h
   - Nombre Appels Manqués / Reçus / Passés
   - Liste Appels Manqués / Reçus / Passés
+  - Le nombre de message vocal
+  - Liste des messages vocaux Lu et nouveau
 - **Téléchargements**
   - Nombre de tâches
   - Nombre de tâches actives, en extraction, en réparation, en vérification, en attente, en erreur, stoppées, terminées, de flux RSS, de flux RSS non lus

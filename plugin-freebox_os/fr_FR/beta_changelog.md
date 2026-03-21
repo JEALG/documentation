@@ -18,7 +18,14 @@
 
 ### 20-21/03/2026
 
-- Fix compteur d'appel (retour en arrière)
-- Fix warning partie domotique si l'équipement n'existe pas
 - Amélioration log
-- Amélioration log pour la partiel Téléphone 
+
+- **Domotique**
+- Fix warning partie domotique si l'équipement n'existe pas
+
+- **Téléphone**
+- Amélioration log pour la partiel Téléphone
+- Fix compteur d'appel (retour en arrière)
+- Ajout commande pour les messages vocaux
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
