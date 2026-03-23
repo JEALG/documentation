@@ -16,11 +16,22 @@
 
 ## 2026
 
+### 23/03/2026
+
+- **Téléphone**
+- Ajout commande pour les messages vocaux
+
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+
 ### 21/03/2026
 
-- Fix compteur d'appel (retour en arrière)
-- Fix warning partie domotique si l'équipement n'existe pas
 - Amélioration log
+
+- **Téléphone**
+- Fix compteur d'appel (retour en arrière)
+
+- **Domotique**
+- Fix warning partie domotique si l'équipement n'existe pas
 
 ### 22/02/2026
 
