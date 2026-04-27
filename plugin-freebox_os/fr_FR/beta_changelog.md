@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 27/04/2026
+
+- Amélioration log (Suppression retour à la ligne)
+
 ### 20-21/03/2026
 
 - Amélioration log
