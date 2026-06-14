@@ -22,6 +22,8 @@
 - Ajout des fonctions wifi steering
 - Ajout de nouvelles commandes pour le DHCP
 
+> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+
 ### 04/06/2026
 
 - Amélioration log de la partie domotique
