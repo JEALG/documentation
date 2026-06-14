@@ -16,6 +16,12 @@
 
 ## 2026
 
+### 14/06/2026
+
+- Version mini API de freebox :  V15
+- Ajout des fonctions wifi steering
+- Ajout de nouvelles commandes pour le DHCP
+
 ### 04/06/2026
 
 - Amélioration log de la partie domotique
