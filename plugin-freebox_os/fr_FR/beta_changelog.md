@@ -20,6 +20,7 @@
 
 - Version mini API de freebox :  V15
 - Ajout des fonctions wifi steering
+        > **Il est nécessaire d'avoir la Freebox Serveur en version 4.12.1 pour avoir cette fonction**
 - Ajout de nouvelles commandes pour le DHCP
 
 > **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
