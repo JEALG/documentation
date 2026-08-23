@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 23/08/2026
+
+- Modification lien doc pour la partie beta
+
 ### 14/06/2026
 
 - Version mini API de freebox :  V15
