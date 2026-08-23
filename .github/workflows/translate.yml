@@ -25,5 +25,5 @@ jobs:
         with:
           deepl_api_key: ${{ secrets.DEEPL_API_KEY }}
           target_languages: "en_US,es_ES,de_DE"
-          documents_roots: "plugin-freebox_os,plugin-horoscope,plugin-rosee"
+          documents_roots: "plugin-freebox_os,plugin-horoscope,plugin-metar_infos,plugin-rosee,plugin-temperature,plugin-tendance_baro"
           memory_path: ${{ github.workspace }}/.translation_memory
