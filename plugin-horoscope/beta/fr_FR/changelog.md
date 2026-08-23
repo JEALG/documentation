@@ -10,11 +10,7 @@
 
 ## 2026
 
-### 04/07/2026
+### 28/08/2026
 
-- Changement des sources des horoscopes (Merci a Noodom)
-
-### 08/03/2026
-
-- Changement des sources des horoscopes (l'ensemble des commandes ont été changé)
-- Ajout horoscopes jour et hebdomadaire
+- Déplacement documentation beta
+- Ajout image default

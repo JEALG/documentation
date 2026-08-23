@@ -10,16 +10,6 @@
 
 ## 2026
 
-### 06/03/2026
+### 28/08/2026
 
-- Amélioration mise à jour du plugin
-
-## 2025
-
-### 19/04/2025
-
-- Migration Github Plugin
-
-### 06/02/2025
-
-- Mise à jour lien de la documentation
+- Déplacement documentation beta

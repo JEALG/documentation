@@ -16,33 +16,6 @@
 
 ## 2026
 
-### 14/06/2026
+### 28/08/2026
 
-- Version mini API de freebox :  V15
-- Ajout des fonctions wifi steering
-        > **Il est nécessaire d'avoir la Freebox Serveur en version 4.12.1 pour avoir cette fonction**
-- Ajout de nouvelles commandes pour le DHCP
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
-
-### 04/06/2026
-
-- Amélioration log de la partie domotique
-
-### 27/04/2026
-
-- Amélioration log (Suppression retour à la ligne)
-
-### 20-21/03/2026
-
-- Amélioration log
-
-- **Domotique**
-- Fix warning partie domotique si l'équipement n'existe pas
-
-- **Téléphone**
-- Amélioration log pour la partiel Téléphone
-- Fix compteur d'appel (retour en arrière)
-- Ajout commande pour les messages vocaux
-
-> **ATTENTION : IL FAUT RELANCER UNE RECHERCHE DES EQUIPEMENTS STANDARDS**
+- Déplacement documentation beta
