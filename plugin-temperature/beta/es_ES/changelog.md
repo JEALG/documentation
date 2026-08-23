@@ -1,6 +1,6 @@
-# Complemento Horóscopo
+# Complemento de temperatura
 
-<img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-temperature/{{site.img}}/temperature_icon.png" class="pluginLogo" width="100" />
 
 ## Información sobre el historial de cambios de la versión BETA
 
@@ -10,7 +10,6 @@
 
 ## 2026
 
-### 29/08/2026
+### 28/08/2026
 
 - Traslado de la documentación beta
-- Añadir imagen predeterminada
