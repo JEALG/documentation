@@ -1,4 +1,4 @@
-# Freebox_OS plugin
+# Freebox_OS Plugin
 
 <img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/Freebox_OS_icon.png" class="pluginLogo" width="100" />
 
@@ -6,7 +6,7 @@
 
 ### Important
 
-> **_Please note_**: If there is no information about the update, it means that the update only involves documentation updates, translations, or minor bug fixes.
+> **_Please note_**: If there is no information about the update, it means that the update consists solely of documentation updates, translations, or minor bug fixes.
 >
 > **Note: You must have Freebox Server version 4.8.18 for the plugin to work.**
 
@@ -18,14 +18,14 @@
 
 ### 27/04/2026
 
-- Log improvement (Removal of line breaks)
+- Log improvement (Removed line breaks)
 
 ### 23/03/2026
 
 - **Phone**
 - Added a command for voice messages
 
-> **IMPORTANT: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
+> **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
 
 ### 21/03/2026
 
@@ -43,7 +43,7 @@
 
 ### 01/02/2026
 
-- Added information to the logs regarding the configuration of slider commands if the maximum and minimum values are not specified
+- Added information to the logs regarding the configuration of slider commands of type slider if the maximum and minimum values are not specified
 - Fixed maximum and minimum values for slider-type action commands
 - Improvements to the logs for the "titles" section
 
@@ -71,7 +71,7 @@
 - **Wi-Fi**
 - Add a list of devices connected via Wi-Fi
 
-> **IMPORTANT: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
+> **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
 
 
 ### 12/08/2025
@@ -83,11 +83,11 @@
 - **VM**
 - VM query correction (too many / in the query)
 - Fixed the issue with VM equipment being disabled
-- Correction: "Stop" action - "Restart" - "Start"
+- Correction action "Stop" - "Restart" - "Start"
 
-> **IMPORTANT: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
+> **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
 >
-> **If the scan isn't completed, you may see the following message:** The API version is not compatible ───▶︎ Error Code = invalid_api_version
+> **If the scan isn't performed, you may see the following message:** The API version is not compatible ───▶︎ Error Code = invalid_api_version
 
 ### 15/07/2025
 
@@ -102,15 +102,15 @@
 - Handling Freebox error messages
 
 - **Network Management**
-- Rewriting the equipment update and action Network management
+- Rewrite of the update and device action Network management
 - Added information about DHCP
 
-> **IMPORTANT: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
+> **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
 
 - **List of devices**
 - Bug fix: List of network devices
 
-- **LCD display**
+- **LCD Display**
 - Display: Option to turn off the LED for compatible devices
 
 - **Freeplugs**
@@ -130,17 +130,17 @@
 
 ### 06/05/2025
 
-- API Fix Not Available for Players [Community Thread](https://community.jeedom.com/t/freebox-os-messages-derreur-depuis-la-derniere-mise-a-niveau/140390?u=jag)
+- API fix not available for Players [Community thread](https://community.jeedom.com/t/freebox-os-messages-derreur-depuis-la-derniere-mise-a-niveau/140390?u=jag)
 - Fix for error message regarding unavailable 4G modules [Community Thread](https://community.jeedom.com/t/error-message-inconnue-noent/140388?u=jag)
 
 > **NOTE: The plugin no longer reports communication issues between Jeedom and the Freebox**
-> **NOTE: LATEST VERSION OF THE PLUGIN IS COMPATIBLE WITH DEBIAN 10**
+> **NOTE: LATEST VERSION OF THE PLUGIN COMPATIBLE WITH DEBIAN 10**
 
 ### 05/05/2025
 
 - Fixed an error with PHP <8 [Community thread](https://community.jeedom.com/t/call-to-undefined-function-str-contains/140353/9)
 
-> **NOTE: LATEST VERSION OF THE PLUGIN IS COMPATIBLE WITH DEBIAN 10**
+> **NOTE: LATEST VERSION OF THE PLUGIN COMPATIBLE WITH DEBIAN 10**
 
 ### 12/08/2025
 
@@ -151,7 +151,7 @@
 - **VM**
 - VM query correction (too many / in the query)
 - Fixed the issue with VM equipment being disabled
-- Correction action "Stop" → "Restart" → "Start"
+- Correction action "Stop" - "Restart" - "Start"
 
 ### 04/05/2025
 
@@ -159,13 +159,13 @@
 - Add a command to launch the channels
 - Improved button layout on the dashboard
 - Improvements and Updates to Commands
-- PHP Warning Fixes and Bugs
+- PHP Warning Correction and Bugs
 - Improvements to command creation
 - Add the date the last time the player was seen on the network
 - Added Mute (sound) feature
-- Update: Change the volume function
+- Update: Change the volume
 - Add channel number information
-- Update: Channel Name
+- Update: Channel name
 - Adding the IPv4 address to the player's settings
 - Add multiple commands:
       - Open the "Replay" menu
@@ -176,8 +176,8 @@
 
 > [Thanks to this site](https://github.com/Aymkdn/assistant-freebox-cloud/wiki/Player-API)
 > [Thanks to this issue](https://github.com/JEALG/Jeedom-Freebox_OS/issues/446)
-> **IMPORTANT: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
-> **New commands are created only if the player is available**
+> **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
+> **New commands are created only if the player is reachable**
 **It is essential that the Player be powered on and not in hibernation mode (Révolution) during the search**
 
 - **Smart devices**
@@ -187,7 +187,7 @@
 - Added information about Freeplugs
 
 - **Windows and Mac Sharing**
-- Adding information to Windows-Mac File Sharing
+- Adding information to Windows-Mac Sharing
 
 - **Global**
 - Improvement, update, and request regarding the Freebox
@@ -225,20 +225,20 @@
 - **Scan standard equipment**
 - Fix for creating VM-type devices on incompatible Freeboxes
 
-> [View this topic on the community forum](https://community.jeedom.com/t/api-non-compatible-avec-les-vm-sur-les-freebox-revolution/137141?u=jag)
+> [View this topic on the community](https://community.jeedom.com/t/api-non-compatible-avec-les-vm-sur-les-freebox-revolution/137141?u=jag)
 
-> **IMPORTANT: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
+> **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
 
 ### 26/01/2025
 
 - Updating documentation links
 
 - **Wi-Fi**
-- Added Wi-Fi Eco Mode Mode Status (for compatible Freeboxes)
+- Added Wi-Fi Eco Mode Mode (for compatible Freeboxes)
 - Update the names of the commands in the Wi-Fi map status (in some cases, you may need to run the search twice)
 - WPS Status Feedback Correction
 
-> **IMPORTANT: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
+> **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
 
 ### 01/01/2025
 
@@ -250,24 +250,24 @@
 
 - **Standard Equipment Package**
 - Added check to verify if a disk is present
-- Added a check to see if the router is compatible with virtual machines
-- Added a check to verify whether the box is compatible with the various screen display types
+- Added a check to see if the box is compatible with VMs
+- Added a check to verify whether the set-top box is compatible with the various display types on the set-top box screen
 
 - **System**
 - Add disk status to system hardware
 
-- **LCD display**
+- **LCD Display**
 - Correction: "off" command for orientation
 - Fix for the "Screen Brightness" command
 - Added support for Freebox Ultra Edition 25
 - Correcting the text position value for the display
 
-> **IMPORTANT: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
+> **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD DEVICES**
 
 ### 13/11/2024
 
 - Fixed an issue with the Player command creation (you must restart a search to see the status again)
-- Fix for creating a Wi-Fi command
+- Fix for Wi-Fi command creation
 
 ### 12/11/2024
 
@@ -291,18 +291,18 @@
 
 ### 27/09/2024
 
-- Fixed a bug related to installation from the Market
+- Fixed a bug with installation from the Market
 
 ### September 25 and 26, 2024
 
 - Translation
-- Firmware added in the community link
+- Firmware added to the community link
 - Clean code
 - PHP 8 Fix
 - Translation
 - Core mini 4.2
 - Bug fix for resetting the phone system
-- Function handling Deprecated
+- Function processing Deprecated
 - Bug fix for setConfiguration when creating commands
 
 > **NOTE: YOU MUST RUN A NEW SEARCH FOR STANDARD AND PARENTAL CONTROL DEVICES**
@@ -318,8 +318,8 @@
 - **Standard Equipment Package**
 
 - All updates have been applied
-- Info Update to Community for Core 4.4
-- PHP 8 Correction Warning
+- Info Update for Community Regarding Core 4.4
+- PHP 8 Warning Fix
 
 - **Parental Controls**
 
@@ -335,7 +335,7 @@
 
 - **System**
 
-- Added an info command regarding the Freebox Server firmware update with the following values
+- Added an information command regarding the Freebox Server firmware update with the following values
       - The update process is initializing
       - The firmware is currently being updated
       - The firmware is up to date
@@ -343,23 +343,23 @@
 - Add display language information
 
 - **Wi-Fi**
-- Added information about the Eco mode for Wi-Fi
+- Added information about the Eco type of Wi-Fi mode
 - Added sleep mode for Wi-Fi scheduling
 
 ### 18/07/2024
 
 - Improvement log
-- PHP 8 warning fix
+- PHP 8 Warning Fix
 
 ### 11/04/2024
 
-- Bug fix during migration from the DELTA to the ULTRA box
+- Bug fix during migration from the DELTA box to the ULTRA box
 
 ### 10/04/2024
 
 - **General**
 
-- Cleaning up obsolete commands during installation when migrating set-top boxes (Revolution → ULTRA, DELTA → ULTRA).
+- Cleaning up obsolete commands during installation when migrating set-top boxes (Revolution to ULTRA, DELTA to ULTRA).
 - LOG Improvements for 4.4
 
 - **Management**
@@ -368,15 +368,15 @@
 
 - **Wi-Fi**
 
-- Improvements to the Wi-Fi widget to support power-saving mode (ULTRA Box).
+- Improvements to the Wi-Fi widget to account for power-saving mode (ULTRA Box).
 
 - **VM/PARENTAL CONTROL/Disk**
 
-- If the device (of type VM or Parental Controls) is not detected on the Freebox, it will not be updated and will be disabled.
+- If the device (of type VM or Parental Controls) is not detected on the Freebox, it will not be updated and will be deactivated.
 
-- **Albums**
+- **Records**
 
-  - If no disk is present, the device will not be updated and will be deactivated.
+  - If no disk is present, the device will not be updated and will be disabled.
 
 - **Tiles**
 
@@ -394,9 +394,9 @@
 
 - Migration of the mini API to v10.
 
-- **Freebox Ultra Compatibility Now Available**
+- **Freebox Ultra compatibility begins**
   
-  - For the home automation portion, no device updates are required when migrating from the Freebox Delta to the Ultra
+  - For the home automation portion: no device updates if migrating from Freebox Delta to Ultra
 
 
 ### 05/02/2024
@@ -415,7 +415,7 @@
 ### 06/01/2024
 
 - Improvements to equipment creation **Network Management**
-- Second fix for the motion detection sensor
+- Second fix for the motion sensor
 
 ### 05/01/2024
 
@@ -437,10 +437,10 @@
 
 ### 17/12/2023
 
-- Info Update to Community for Core 4.4
+- Info Update for Community Regarding Core 4.4
 - Equipment Improvements for Core 4.4
 - Resume, Create, Command, Download
-- Resume system command creation
+- Resume System Command Creation
 - Correction: Undefined variable
 - Removal of obsolete commands
 
@@ -515,7 +515,7 @@
 
 - **General**
 
-  > - The API is now set to v9 by default for all boxes (it's compatible with the Freebox Revolution)
+  > - The API now defaults to v9 for all boxes (it is compatible with the Freebox Revolution)
   > - Added the request path to the message "API NOT COMPATIBLE: Unknown API version"
 
 ### 02/11/2022
@@ -534,7 +534,7 @@
 
 - **Wi-Fi**
 
-  > - Bug Fix: Wi-Fi Map Status
+  > - Bug Fix: Wi-Fi Card Status
   
 ### 26/10/2022
 
@@ -552,20 +552,20 @@
 
 - **Airmedia**
 
-  > **For all of the new items listed below, you must run the "Scan Standard Equipment" scan**
+  > **For all of the new items listed below, you must run the "Scan Standard Devices" scan**
 
     > Complete rewrite of this section
     > The old commands will be removed because they are incompatible
 
 - **Pairing** (September 21, 2022, September 22, 2022)
   
-  > - Added a button to skip the permissions check
+  > - Added a button to skip the permission check
   > - Added a button to reset the Freebox API
 
-- **Smart Devices** (August 28, 2022)
+- **Connected Devices** (August 28, 2022)
 
-  > - Corrected the order of devices (connected devices first, followed by unconnected devices)
-  > - Rewrite the refresh command and create new commands in preparation for future improvements
+  > - Correcting the order of devices (connected devices first, followed by unconnected devices)
+  > - Rewrite of the refresh command and creation of commands in preparation for future enhancements
   > - The following commands will be removed in the next update because they are now integrated into network management:
 
     > "Add or Remove Static IP"
@@ -573,13 +573,13 @@
 
 - **Network Management**
 
-  > **For all of the new items listed below, you must run the "Scan Standard Equipment" scan**
+  > **For all of the new items listed below, you must run the "Scan Standard Devices" scan**
 
   - New equipment
   - It combines several commands shared across multiple devices
 
   > - Manage MAC filtering for Wi-Fi
-  > - "Add or Remove a Static IP" for Devices
+  > - "Add or Remove a Static IP" for devices
 
 - **Parental Controls** (August 17, 2022)
   
@@ -597,7 +597,7 @@
 
 - **Wi-Fi**
 
-  > The "Add/Remove MAC Filtering" command will be removed in the next update because it is now integrated into network management
+  > The "Add - Remove MAC Filtering" command will be removed in the next update because it is now integrated into network management
 
 ### 30/04/2022
 
@@ -607,7 +607,7 @@
 > - Option to disable Network command updates (We do not recommend doing this, as it may cause problems in the event of duplicate commands)
 > - Delete Daily Cron Job
 
-  > - A specific Cron job can be configured in devices of the "Disk," "Connected Devices," and "Homeadapter" types
+  > - A specific Cron job can be configured for devices of the "Disk," "Connected Devices," and "Homeadapter" types
   > - If the "Add new commands" field is left blank, the new commands will not be added
 
 ### 17/03/2022
@@ -653,7 +653,7 @@
 - **Downloads**
 
   > - Fixed an issue with the download mode commands
-    > **Old commands will be removed during the update; you will need to run the Standard Equipment Scan to get the new command**
+    > **Old commands will be removed during the update; you’ll need to run the Standard Equipment Scan to get the new command**
 
 ### 28/05/2021
 
@@ -663,14 +663,14 @@
 
 ### 23/05/2021
 
-- Fix for Slider reversal issue
-- Fixed ON and OFF commands for all Wi-Fi commands
-- Correction to the Mobile Version of the Template Network
+- Fix for Slider Reversal Behavior
+- Fixed the ON and OFF commands for all Wi-Fi commands
+- Correction: Template Network (Mobile Version)
 - Improvements to Wi-Fi WPS Command
 
 ### 10/05/2021
 
-- Fix: Parental Control action
+- Action: Parental Controls
 - Improvements to action tiles (boolean type)
 
 ### 08/05/2021
@@ -704,7 +704,7 @@
 
 - **System**
 
- > - Add Freebox Language Info
+ > - Add Freebox Language Information
 
 - **Smart devices**
 
@@ -719,7 +719,7 @@
   > - Option to enable SMBv2
       > If SMBv2 is active, printer sharing commands will be removed during the next device update.
       >
-      > Please note: if you enable this feature, Jeedom backups may no longer work if you are backing up to the Freebox.
+      > Please note: if you enable this feature, Jeedom backups may no longer work if you back up to the Freebox
 
 - **Tiles**
 
@@ -734,7 +734,7 @@
   > - Bug fix for reversed digital commands
   > [View the plugin's news feed on Community](https://community.jeedom.com/t/info-plugin-Freebox-mise-a-jour-des-composants-de-la-delta-tiles-systeme/30673/54?u=jag)
 
-> **To see all the new items listed above, you must run all the scans**
+> **To detect all of the new devices listed above, you must run all the scans**
 
 ### 16/02/2021
 
@@ -742,10 +742,10 @@
 
 ### 14/02/2021
 
-- Core v4.2 (beta) Dashboard
+- Core v4.2 (beta) dashboard display
 - Fix for Parental Controls Search
 
-- **Standard Equipment**
+- **Standard equipment**
 
   > - Add "LCD Display" device—only for Freebox Revolution models
     > **For all of the new items listed below, you must run a standard device scan**
@@ -755,7 +755,7 @@
   - **HomeAdapter**
 
     - Improvements to command updates
-    - Bug fix for command creation
+    - Bug fix for creating commands
 
   - **Health Page**
     - Display Enhancement
@@ -765,7 +765,7 @@
 
 - **Tiles**
 
-  > **To view all the new features listed below, you need to run a Tiles Scan**
+  > **To view all the new items listed below, you must run a Tiles Scan**
 
   - **Alarm**
 
@@ -783,7 +783,7 @@
 
 - **Tiles**
 
-  > **To view all the new features listed below, you need to run a Tiles Scan**
+  > **To view all the new items listed below, you must run a Tiles Scan**
 
   - **Camera**
 
@@ -807,7 +807,7 @@
 
     - The camera is automatically added to the camera plugin if it is installed
 
-      > - Bug fix for camera creation in the CAMERA plugin
+      > - Bug fix related to camera creation in the CAMERA plugin
 
   - **Remote Control**
 
@@ -848,12 +848,12 @@
 
 ### 13/12/2020
 
-- Bug fix for searching for flow rate devices
+- Bug Fix for Searching for Flow Rate Devices
 
 ### 09/12/2020
 
-- Bug Fix: Alarm Not Working with Homebridge
-  > You need to run a new search for the Tiles to resolve this issue
+- Bug fix for alarm not working with Homebridge
+  > You need to run another search for the Tiles to resolve this issue
 
 ### 08/12/2020
 
@@ -905,7 +905,7 @@
 ### 28/10/2020
 
 - Fixed the 4G status refresh
-- Tile Enhancements
+- Tile Improvements
 
 ### 15/10/2020
 
@@ -923,7 +923,7 @@
 
 - **Tiles**
 
-  - Bug fix for command creation
+  - Bug fix for creating commands
 
 - **Optimization**
 
@@ -933,13 +933,13 @@
 ### 14/10/2020
 
 > **Thank you**
-> Thanks to the beta testers: ipapy, Tom's, Olive, Jcamus86, and Freetronic for their help and feedback
+> Thanks to the beta testers—ipapy, Tom's, Olive, Jcamus86, and Freetronic—for their help and feedback
 >
-> Thanks to Mips for his help in optimizing the code to prevent error messages
+> Thanks to Mips for helping to optimize the code to prevent error messages
 
 - **Hard Drive**
 
-  - Incorporated improvements by @mid.sebastien
+  - Incorporation of improvements by @mid.sebastien
 
   > **Please note: You must modify the configuration of each device**
 
@@ -948,11 +948,11 @@
 - **Optimization**
 
   - Freebox Débit: Optimizing the Number of Requests
-  - Token refresh improvement to address the new Freebox firmware
+  - Token refresh improvement to accommodate the new Freebox firmware
   - Fixes for undefined variables in the Tiles section
   - Corrections to zero values
   - Cron
-    - Cron jobs will not run if the device is turned off
+    - Cron jobs will not run if the device is disabled
     - Add an additional log entry in case of a problem with a Cron job
 
 ### 01/10/2020
@@ -960,7 +960,7 @@
 > **Thank you**
 > Thanks to the beta testers—ipapy, Tom's, Olive, and Jcamus86—for their help and feedback
 >
-> Thanks to Mips for his help in optimizing the code to avoid error messages
+> Thanks to Mips for his help in optimizing the code to prevent error messages
 
 - **System**
 
@@ -974,7 +974,7 @@
 
   - These features are available only if the Freebox is not in bridge mode
     > For those in bridge mode, you'll need to manually remove both devices from the list of connected devices (Guest Wi-Fi and LAN).
-  - Optimizing refresh and command creation
+  - Optimizing Refresh and Command Creation
   - Cron Daily: Newly detected devices are invisible
 
 - **Cron**
@@ -986,23 +986,23 @@
 
   - The Cron job will not run if the daemon is _nok_
   - Cron will not search for connected devices if the Freebox is in bridge mode
-    > Don't forget to scan the standard equipment
+    > Don't forget to scan your standard equipment
 
 - **Pairing**
 
   - Added a link on each window to the plugin's documentation
-  - Add a link to the Freebox interface if permissions aren't set correctly
+  - Add a link to the Freebox interface if permissions are not set correctly
 
 - **PHP Optimization**
 
   - Troubleshooting bugs in info-mode logs
-  - Resolving Division by Zero Errors
+  - Handling Division by Zero
 
 ### 12/09/2020
 
 - Option to reverse the numerical values (Action and Info)
 - Force removal of the Disk and Network widget
-- Removal of 4G data rates (Data is not reported to the API)
+- Removal of 4G data usage (Data is not reported to the API)
 - Resolution of the authentication issue following the release of the new Freebox Server firmware version 4.2.5
 
 - **Freebox speeds**
@@ -1031,7 +1031,7 @@
 
 - **Freebox Speeds**
 
-  - Resumption of commands following discrepancies between set-top boxes and protocols
+  - Resuming commands following discrepancies between set-top boxes and protocols
     > Commands will be updated when standard devices are scanned
   - Add ADSL information
 
@@ -1044,7 +1044,7 @@
   - Add information if the integration of new apps is disabled
   - Changing the progress bar during pairing
   - Add log
-  - Adding a message when a name is missing from your Jeedom
+  - Adding a message to your Jeedom when a name is missing
 
 - **Downloads**
 
@@ -1055,7 +1055,7 @@
 
 - **Player**
 
-  - Some players do not return their names. Implement a workaround to be able to create the device
+  - Some players do not return their names. Implementing a workaround to be able to create the device
     > Commands will be updated when standard devices are scanned
   - Add a message to the logs if the Player ID is empty
 
@@ -1071,7 +1071,7 @@
 ### 26/08/2020
 
 - Fixed a bug causing an infinite loop during the update
-- Fixed data speed bug: 4G speeds are no longer added if the SIM card is not present
+- Fixed data speed bug: 4G data speeds are no longer added if the SIM card is not present
 - Correcting the Order of Debit Commands
 
 ### 25/08/2020
@@ -1082,21 +1082,21 @@
 > **DO NOT PERFORM THE UPDATE IF YOU ARE NOT AT HOME**
 
 > **Thank you**
-> Thanks to the beta testers—ipapy, Tom's, Olive, and jcamus86—for their help and feedback.
+> Thanks to the beta testers: ipapy, Tom's, Olive, and jcamus86 for their help and feedback
 >
 > Thank you, Titi_Titi, for helping me improve the plugin
 
 - Improved error messages (if an error occurs, a message is displayed in the message center)
-- Removing widgets that are no longer in use
-- Bug fixes for the "Refresh" command on certain devices
+- Removing Widgets That Are No Longer in Use
+- Bug fixes for the "refresh" command on certain devices
 - Features not available for the box are hidden (e.g., Tile Scan)
 - Empty device groups are hidden
 - **Daily Cron Job**
-  - Added a daily Cron job to check for newly connected devices
+  - Added a daily Cron job to check for new connected devices
   - Added a daily Cron job to check for new albums
   - Added a daily Cron job to check for new Home Adapters
 - **Pairing**
-  - Implementation of a modal window of the type that facilitates pairing with the Freebox
+  - Implementation of a modal type of window to facilitate pairing with the Freebox
     > The menu is now located in the plugin interface
     > The plugin documentation has been updated accordingly [See Documentation](https://mika-nt28.github.io/Documentations/freebox_OS/fr_FR/?theme=light#tocAnchor-1-2-1)
   - Changing the default settings (hiding unnecessary parameters)
@@ -1107,7 +1107,7 @@
   - Removal of all obsolete commands
     > The commands will be removed when the plugin is updated
   - Deleting widgets
-  - Resolution of the line break issue in the call list display
+  - Resolving line breaks in the call list display
 - **Freebox Speeds**
   - Renaming Commands
     > Commands will be updated when standard devices are scanned
@@ -1115,7 +1115,7 @@
   - Add specific commands for fiber optics (Added only if the _ftth_ module is present)
   - Added specific commands for the _xDSL + 4G_ type of connection
 - **Smart devices**
-  - Resolving the issue of devices not being removed from the Freebox
+  - Fix for devices not listed in the Freebox not being removed
   - Added a daily Cron job to check for new devices.
   - Option to hide IP addresses on the widget
   - The widget has been renamed
@@ -1130,7 +1130,7 @@
 - **Camera**
   - Improvements to Camera Settings
     > You must remove the device to apply the new settings
-  - Suppress the camera installation message if the camera is detected
+  - Suppress the camera setup message if the camera is detected
 - **Tiles**
   - Fixed a search issue
 - **Standard Features**
@@ -1150,7 +1150,7 @@
 ### 29/07/2020
 
 > **Thank you**
-> Thanks to the beta testers—ipapy, Tom's, Olive, and jcamus86—for their help and feedback
+> Thanks to the beta testers—ipapy, Tom's, Olive, and jcamus86—for their help and feedback.
 >
 > Thank you, Titi_Titi, for helping me improve the plugin
 
@@ -1177,10 +1177,10 @@
 >
 > **You'll also need to update the permissions in the Freebox console**
 >
-> Note: The "Enable/Disable" Wi-Fi command will be removed in future updates; you will need to use the ON and OFF commands to manage Wi-Fi
+> Note: The "Enable/Disable Wi-Fi" command will be removed in future updates; you will need to use the ON and OFF commands to manage Wi-Fi
 
 > **Thank you**
-> Thanks to the beta testers—ipapy, Tom's, Olive, and jcamus86—for their help and feedback.
+> Thanks to the beta testers: ipapy, Tom's, Olive, and jcamus86 for their help and feedback
 >
 > Thank you, Titi_Titi, for helping me improve the plugin
 
@@ -1188,25 +1188,25 @@
 - Added an icon for batteries
 - Migration of all APIs to V8
 - Rewrite the "update" and "refresh" sections
-- Creating a class template, and refresh and update
+- Creating a class template, and refreshing and updating
 - Cleaning APIs
 - Creating the Freebox_OS.inc class
-- Bug Fix: Creating a "Disks" Command
-- **Renaming Devices**
+- Bug fix for creating disk commands
+- **Renaming devices**
   - _ADSL_ becomes _Freebox Débits_
   - _AirPlay_ becomes _Air Media_
   - _Network_ becomes _Connected Devices_
 - **Alarm**
-  - Bug Fix for the Freebox Alarm Widget
+  - Bug Fix for Freebox Alarm Widget
   - Added names and icons for modes
   - Creating specific commands to integrate it into Homebridge
 
-    > - We strongly recommend removing this device to enable the new commands
+    > - We strongly recommend removing this equipment to receive the new commands
 
 - **Alarm Remote Control**
   - Retrieve the latest status
 - **System**
-  - Reporting of New Statuses
+  - Reporting of New Status Updates
     > We recommend removing the device and searching for standard devices.
 - **4G**
   - Added a command to enable/disable 4G on the router
@@ -1228,8 +1228,8 @@
 
 ### 05/07/2020
 
-- Fixed bug related to network equipment and disk transparency
-- Bug Fix: HomeAdapters Status
+- Fixed bug related to transparency of network equipment and disks
+- Bug Fix: HomeAdapter Status
 - Compatibility with V3 for certain icons
 - Align alarm command icons based on the Alarm plugin
 - **Camera**
@@ -1240,7 +1240,7 @@
     > - Either remove the device and run another scan of the Tiles
     > - Change the following settings:
     >   - **Feed URL**: rtsp://#username#:#password#@#ip#/img/live
-    >   - **Video frame rate** _(Capture tab)_: 15
+    >   - **Video frames per second** _(Capture tab)_: 15
 
 ### 02/07/2020
 
@@ -1249,9 +1249,9 @@
     > Please note that this feature is disabled by default
   - Added icons for the ON and OFF commands
   - Added a widget for Wi-Fi status and on/off action (V4 only)
-  - Migration from API V3 to V5
+  - Migration from API Version 3 to Version 5
 - **Phone**
-  - Widget improvements
+  - Widget Improvements
   - Added icons for the various commands (in color for V4)
 - **Download**
   - Added icons for the various commands (in color for V4)
@@ -1268,25 +1268,25 @@
   - Add Switch/Toggle-type BP type
   - Linking actions and commands for blinds and lighting types
   - Moving the "Search for Homeadapter" function to the Tiles search (Required only for Freebox DELTA)
-  - Combining the Tiles and Homeadapter Features
+  - Combining the Tiles and Homeadapter features
   - Improvements to the alarm widget
   - Add information about the action type and device
     > You need to click "Scan Tiles" to get this information
 - **Corrections and Improvements**
   - Bug Fix: **Stepper motor loops when the plugin is activated**
-  - Disabling device creation during initial setup
+  - Disable device creation during initial setup
   - Added a command to search for Freebox system devices
   - Add network analysis after searching for system devices
   - Added to the list of commands: icon, min-max
-  - Disabling device creation during initial setup
-    > You'll need to click "Scan Standard Devices"
+  - Disable device creation during initial setup
+    > You'll need to click "Scan standard devices"
 
 ### 11/06/2020
 
 - Bug: Battery Display Fix: Hidden by Default
 - Bug: Default template for tampering and opening
 - Bug: Default value reversed on the cover + template assignment
-- Bug: Presence detector—template corrections and signal reversal
+- Bug: Presence sensor—template corrections and signal reversal
 - Permission to delete commands
 
 ### 09/06/2020
@@ -1297,15 +1297,15 @@
 
 - "Tiles"-type devices
 
-  - Assigning Tiles to categories (security, lighting)
+  - Assigning Tiles to Categories (Security, Lighting)
   - Fixed ON/OFF button bug \* Added information to the log in debug mode
-  - Replace ' in the device or command name with a space
+  - Replace ' in the name of the device or command with a space
   - Replace "É" with "E" in command names
     - Hiding the "Add Command" button
     - Added generic types to certain commands
     - Changing the default visibility of certain commands (Battery, PIN Code => hidden)
-    - Fixed an issue where the "Search" command did not appear in the "Home Adapter" device after an initial search \* Renamed commands (added "Status" when the command and the info had the same name)
-      > To see all the latest updates on devices, you need to clear them and then click "Search for Tiles."
+    - Fixed an issue where the "Search" command did not appear in the "Home Adapter" device after an initial search \* Renamed commands (added "Status" when the command and the information have the same name)
+      > To see all the new device updates, you need to clear them and then click "Search for Tiles."
 
 - Added "refresh" command => command hidden by default in the command lists
 - Clean code
@@ -1316,7 +1316,7 @@
 - Improved command display
 - Migration of Wi-Fi commands from V3 to V5
 - Separation of Home and Tiles devices in the device list
-- Cleaning Up Cron Jobs When Uninstalling the Plugin
+- Cleaning Up Cron Jobs When Deleting the Plugin
 
 ### 03/04/2020
 
@@ -1330,8 +1330,8 @@
 
 ### 11/12/2019
 
-- Bug fix: Disconnection when an incorrect response is received
-- Removal of network devices in the event of an invalid response
+- Bug fix: Disconnection in case of an incorrect response
+- Removing network devices in the event of an invalid response
 
 ### 10/12/2019
 

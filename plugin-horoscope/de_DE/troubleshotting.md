@@ -1,24 +1,24 @@
-# Plugin Horoscope
+# Horoskop-Plugin
 
 <img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
 
-## Troubleshotting
+## Fehlerbehebung
 
-- Je n'ai pas d'informations qui remontent
+- Mir liegen dazu keine Informationen vor
 
-> Les commandes sont créées automatiquement après la première actualisation de l'équipement..
+> Die Befehle werden nach der ersten Aktualisierung der Geräte automatisch erstellt.
 
-- Je n'ai pas d'actualisation automatique
+- Ich habe keine automatische Aktualisierung
 
-> Il faut vérifier que la valeur d'Auto-actualisation ne soit pas vide
+> Es muss überprüft werden, ob der Wert für „Automatische Aktualisierung“ nicht leer ist
 >
-> <img src="../{{site.img}}/horoscope_actualisation.png" alt="Auto actualisation" width="900" />
+> <img src="../{{site.img}}/horoscope_actualisation.png" alt="Automatische Aktualisierung" width="900" />
 
-- Je n'ai pas d'informations qui s'affiche sur le dashboard
+- Auf dem Dashboard werden keine Informationen angezeigt.
 
 > <img src="../{{site.img}}/horoscope_dashboard.png" alt="Dashboard" width="350" />
 
 
-> Il faut cocher les cases des informations voulues dans l'équipement
+> Die entsprechenden Kästchen bei den gewünschten Informationen in der Ausrüstung müssen angekreuzt werden
 >
-> ![Commande](../{{site.img}}/horoscope_commande.png)
+> ![Bestellung](../{{site.img}}/horoscope_commande.png)

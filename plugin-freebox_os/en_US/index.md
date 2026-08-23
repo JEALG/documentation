@@ -1,11 +1,11 @@
-# Freebox_OS plugin
+# Freebox_OS Plugin
 
 <img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/Freebox_OS_icon.png" class="pluginLogo" width="100" />
 
 
 ## Description
 
-This plugin allows you to retrieve information from your FreeboxOS (Freebox Revolution, 4K, DELTA, POP, or Ultra server) and interact with it via widgets or scenarios that incorporate the commands you’ve created.
+This plugin allows you to retrieve information from your FreeboxOS (Freebox Revolution, 4K, DELTA, POP, or Ultra server) and interact with it via widgets or scenarios that use the commands you’ve created.
 
 >
 > **You must have Freebox Server version 4.12.1 for the plugin to work**
@@ -22,13 +22,13 @@ The information available from your Freebox Server on Jeedom is:
   - Number of missed calls
   - The number of calls made
   - The number of calls received
-  - Number of voice messages
+  - Number of voicemails
 - **Hard Drive:**
-  - The available storage space on your hard drives connected to the Freebox Server.
+  - The available space on your drives connected to the Freebox Server.
 - **Devices connected to the LAN and Guest Wi-Fi:**
   - The status of each DHCP device
   - The **_Wake on LAN_** command can only be used within a scenario
-- **Home Automation (DELTA only):**
+- **Home automation (DELTA only):**
   - Retrieves information from the smart home
 
 ## Installation and Configuration
@@ -39,7 +39,7 @@ Once the plugin is installed and active, no configuration is required.
 
 Go to the plugin's main page and click
 
-<p><img src="../images/appairage.png" alt="Pairing Dialog" width="60" /></p>
+<p><img src="../images/appairage.png" alt="Pairing Modal" width="60" /></p>
 
 Next, follow the on-screen prompts to confirm the pairing
 
@@ -57,7 +57,7 @@ In the window below, you can modify
   > - Restores default settings for:
   >     - **Freebox API version**: v10
   >     - **IP Freebox**: maFreebox.Freebox.fr
-  >     - Clears other plugin configurations
+  >     - Clears all other plugin configurations
 
 - Don't forget to click **Save** after making your changes
 
@@ -67,7 +67,7 @@ In the window below, you can modify
 
 ### Authentication
 
-#### Minimum Freebox firmware version
+#### Minimum firmware version for the Freebox
 
  > The plugin requires a minimum firmware version to function.
  > The minimum firmware version is listed in the changelog at the beginning and at the start of this documentation
@@ -85,16 +85,16 @@ In the window below, you will be prompted to authenticate on the Freebox
 
 In the window below, the system will check the permissions assigned to the application
 
-- See the "Access Rights" section (in this documentation) to modify the rights on the Freebox
-- Once the permissions have been set, click the **Verify Permissions** button.
+- See the "Access Rights" section (in this documentation) to change the access rights on the Freebox
+- Once the permissions have been set, click the **Check Permissions** button.
   > If permissions are OK, the **Next** button will become visible
   > Mandatory rights are in bold
 
 <p><img src="../images/freebox_os_screenshot5.png" alt="Authentication 4" width="300" /></p>
 
-### Link Freebox rooms to Jeedom rooms
+### Link Freebox rooms with Jeedom devices
 
-> This window appears only if the Freebox is a DELTA
+> This window appears only if the Freebox is a DELTA model
 >
 > You can enable or disable the "Global Tile Refresh" Cron job
 >
@@ -114,9 +114,9 @@ Authentication was successful.
 
 <p><img src="../images/freebox_os_screenshot8.png" alt="Authentication 6" width="300" /></p>
 
-### Authentication problem resolved
+### Authentication issue resolved
 
-If you encounter an authentication issue, you must provide the plugin logs in debug mode
+If you encounter an authentication issue, you must provide the plugin's debug logs in the debug mode
 Here is an example
 ```
 000|[2024-10-11 18:53:49] INFO  ──────────▶︎ Étape : setting
@@ -145,7 +145,7 @@ Here is an example
 
 ## Access Rights
 
-Certain additional access rights are required to use the plugin; they **must be assigned and modified** directly from the Freebox's operating system
+Certain additional access rights are required to use the plugin; they **must be assigned and modified** directly from the Freebox operating system
 
 - Log in to the Freebox interface (http://maFreebox.Freebox.fr)
 - Open the Freebox settings
@@ -159,7 +159,7 @@ Certain additional access rights are required to use the plugin; they **must be 
 - Click the **Applications** tab
 - From the list, select the application specified during plugin installation _(default: Freebox OS plugin)_
 
-<p><img src="../images/freebox_gestion_acces_2.png" alt="Freebox access management settings" width="500" /></p>
+<p><img src="../images/freebox_access_management_2.png" alt="Freebox access management settings" width="500" /></p>
 
 - **Grant all access rights**
 
@@ -167,15 +167,15 @@ Certain additional access rights are required to use the plugin; they **must be 
 
 # Standard Equipment
 
-Click the **_Scan standard devices_** button; the plugin will create the various standard Freebox devices.
+Click the **_Scan Standard Devices_** button; the plugin will create the various standard Freebox devices.
 
 <p><img src="../images/recherche_systeme.png" alt="Search for system devices" width="60" /></p>
 
 The following devices and commands will be created:
 
-- **LCD display**
+- **LCD Display**
   - Brightness adjustment
-  - Adjusting text orientation
+  - Adjusting Text Orientation
   - Hide the Wi-Fi key
   - Light strip control (if the box is compatible)
   - Turn off the LED (if the box is compatible)
@@ -184,13 +184,13 @@ The following devices and commands will be created:
   - AirMedia Start/Stop
 - **Connected Devices** and **Guest Wi-Fi Connected Devices**
   - All devices connected to the Freebox
-  - Option to use the **_Wake on LAN_** command (only via a scenario)
+  - Option to use the **_Wake on LAN_** command (via scenario only)
 - **Hard Drive**
-  - Disk usage
+  - Disk Usage
   - Temperature
   - RAID type (only for compatible Freebox models)
 - **Freebox Speeds**
-  - Freebox download speed, upload speed, bandwidth up, bandwidth down
+  - Freebox download speed, upload speed, upload bandwidth, download bandwidth
   - Freebox Media
   - Freebox status
   - Connection type
@@ -208,7 +208,7 @@ The following devices and commands will be created:
     > The command is created only if the Player returns its status and has an ID.
     > **It is essential that the Player be powered on and not in hibernation mode (Révolution) during the search**
     > The mini4K/POP players are available, but they do not report their status
-- **Windows-Mac File Sharing**
+- **Windows-Mac Sharing**
   - Enable/Disable File Sharing on Mac, Windows, and FTP
   - Enable/Disable Printer Sharing (available only if SMBv2 is not active)
 - **System**
@@ -222,12 +222,12 @@ The following devices and commands will be created:
   - On since
   - board name
   - serial
-  - 4G if the SIM card is inserted in the Freebox
+  - 4G if the card is in the Freebox
 - **Phone** over the past 24 hours
   - Number of Missed / Received / Placed Calls
-  - List of Missed / Received / Placed Calls
-  - Number of voice messages
-  - List of Played and New Voice Messages
+  - List of Missed / Received / Dialed Calls
+  - Number of voicemails
+  - List of Played and New Voicemails
 - **Downloads**
   - Number of tasks
   - Number of active tasks, tasks being retrieved, tasks being repaired, tasks being verified, tasks on hold, tasks with errors, stopped tasks, completed tasks, RSS feeds, and unread RSS feeds
@@ -237,7 +237,7 @@ The following devices and commands will be created:
   - Mode de téléchargement
   - Schedule Status
   - Login Status
-- **VM** (only for compatible Freeboxes)
+- **VM** (only for compatible Freebox models)
   - Status
   - Possible actions: Stop, Restart, Start
   - Info: Number of CPUs, MAC Address, Memory, USB Port, Virtual Display, Disk Type
@@ -253,7 +253,7 @@ The following devices and commands will be created:
 
 ## Parental Controls
 
-Click the **_Parental Controls Scan_** button; the plugin will create the various Freebox system devices.
+Click the **_Parental Control Scan_** button; the plugin will create the various Freebox system devices.
 
 > These controls were introduced with version 4.2 of the Freebox.
 
@@ -296,7 +296,7 @@ The following fields must be filled in
 - Select the connected device
 - Select and modify device with the next value
 
-  > - **Add Static IP**
+  > - **Add a static IP address**
   > - **Remove Static IP**
   > - **Change the device's IP address**
 
@@ -306,7 +306,7 @@ It's also possible to do this using the command
 - IP Selection: Enter the device's IP address
 - Device Name Selection: Enter the device name
 
-  > If the name field is empty, the plugin will retrieve the device name entered in the Freebox
+  > If the name field is empty, the plugin will retrieve the device name stored in the Freebox
 
 - Comments: Allows you to enter a comment (Optional)
 
@@ -323,22 +323,22 @@ The following fields must be filled in
 
 - Device Type Selection: Select the device type
 
-  > If the name field is empty, the plugin will retrieve the device name entered in the Freebox
+  > If the name field is empty, the plugin will retrieve the device name stored in the Freebox
   
 - Comments: allows you to enter a comment
 - Edit device: Sends the changes to the Freebox
 
-### Manage MAC address filtering (Wi-Fi)
+### Manage MAC Address Filtering (Wi-Fi)
 
-<p><img src="../images/modif__equip_filtrage.png" alt="Modifying equipment" width="800" /></p>
+<p><img src="../images/modif__equip_filtrage.png" alt="Editing Equipment" width="800" /></p>
 
-This can be done using commands from connected devices or Wi-Fi-enabled devices
+This can be done using commands from connected devices or Wi-Fi-enabled devices.
 The following fields must be filled in
 
 - Select the connected device
 - Select and modify device with the next value
 
-  > - **Add/Edit Blacklist**
+  > - **Add/Edit Block List**
   > - **Add/Edit Whitelist**
   > - **Delete Blacklist/Whitelist**
 
@@ -347,7 +347,7 @@ The following fields must be filled in
 
 ### Wake-on-LAN feature
 
-<p><img src="../images/modif__equip_wol.png" alt="Editing equipment" width="800" /></p>
+<p><img src="../images/modif__equip_wol.png" alt="Modifying equipment" width="800" /></p>
 
 - Select the connected device
 - Select and modify device with the next value
@@ -357,13 +357,13 @@ The following fields must be filled in
 - Comments: Allows you to enter a password
 - Edit device: Sends the changes to the Freebox
 
-This is managed via the modal from the connected devices widget or from a scenario.
+This is managed via the app from the connected devices widget or from a scenario.
 
 ## Freebox Delta
 
-> The Freebox Delta offers a security package and connectivity with certain devices.
+> The Freebox Delta offers a security package and the ability to connect to certain devices.
 
-Click the **_Scan Tiles_** button; devices and commands for the various connected devices will be created
+Click the **_Scan Tiles_** button, and the devices and commands for the various connected devices will be created
 
 <p><img src="../images/recherche_tiles.png" alt="Search for specific Freebox Delta devices" width="60" /></p>
 
@@ -376,20 +376,20 @@ Possible values are:
 
 > **idle** = Alarm disabled
 > **alarm_1_arming** = The main alarm is armed; this is a countdown during which only sensors located outside the zone can trigger the alert
-> **alarm_2_arming** = The partial alarm is activated; this is a countdown during which only sensors located outside the zone can trigger the alert
+> **alarm_2_arming** = The partial alarm is activated; this is a countdown during which only sensors outside the zone can trigger the alert
 > **alarm_1_armed** = Full alarm activated
-> **alarm_2_armed** = Partial alarm armed
+> **alarm_2_armed** = Partial alarm activated
 > **alarm1_alert_timer** = The main alarm was triggered by a sensor in the time zone, and the siren will sound after a countdown
-> **alarm2_alert_timer** = The night alarm was triggered by a sensor in the time zone, and the siren will sound after a countdown
+> **alarm2_alert_timer** = The night alarm was triggered by a sensor in this time zone, and the siren will sound after a countdown
 > **alert** = The siren is sounding
 
-> The alarm system is compatible with Homebridge and the mobile app: no configuration is required.
-> To enable integration, information commands have been added to allow interaction with the Alarm plugin.
+> The alarm system is compatible with Homebridge and the mobile app: no setup is required.
+> To enable integration, info commands have been added to allow interaction with the Alarm plugin.
 >
 > - **Active** = Binary Information (1 = Alarm Activated)
 > - **Status** = Binary Info (1 = Siren active)
 
-<p><img src="../images/alarme_dashboard.png" alt="Alarm status" width="250" /></p>
+<p><img src="../images/alarme_dashboard.png" alt="Alarm Status" width="250" /></p>
 
 ### Remote Control Status
 
@@ -407,21 +407,21 @@ Possible values are:
 
 ## Refresh time (Cron) for devices
 
-- You can modify the refresh schedule for each device; by default:
+- You can modify the refresh cron job for each device; by default:
 
-  > Home Adapter, FREEBOX - Remote Control (Alarm), Parental Controls, and My Devices (excluding hard drive) = **Cron will be set to 5 minutes**
+  > Home Adapter, FREEBOX - Remote Control (Alarm), Parental Controls, and My Devices (excluding hard drives) = **Cron will be set to 5 minutes**
   >
-  > Hard Drive = **Cron will be set to 1 hour**
+  > Hard Drive = **Cron will be set for 1 hour**
 
-- This Cron job refreshes various information-type commands; the equipment is automatically updated whenever a command is executed.
+- This Cron job refreshes various information-type commands; the equipment is automatically updated when a command is executed.
   > Action commands are not affected by this Cron job.
   >
   > The shorter the time, the greater the load on the Freebox's CPU.
 
 - Starting with plugin version 20210507, for the **home automation section**
-  > A global refresh Cron job is enabled by default
+  > A global update Cron job is enabled by default
   >
-  > <p><img src="../images/cron_tiles.png" alt="Refresh time" width="800" /></p>
+  > <p><img src="../images/cron_tiles.png" alt="Refresh rate" width="800" /></p>
   >
   > If this option is disabled, **Cron will be set to 1 minute**
 
@@ -437,7 +437,7 @@ Possible values are:
 
 <p><img src="../images/debug.png" alt="Debug Tiles" width="60" /></p>
 
-Start a thread (if there isn't already one addressing this request) on the community and provide the following information
+Start a thread (if there isn't already one covering this request) on the community and provide the following information
 
 - Take a screenshot of the equipment
 
@@ -445,9 +445,9 @@ Start a thread (if there isn't already one addressing this request) on the commu
 
 - Take a screenshot of the device commands
 
-<p><img src="../images/tiles2.png" alt="Tiles 2 equipment" width="800" /></p>
+<p><img src="../images/tiles2.png" alt="Tiles 2 Equipment" width="800" /></p>
 
-- Please provide the logs as text rather than a screenshot
+- Please provide the logs as text, not as a screenshot
   > [See paragraph **11**: Format correctly](https://community.jeedom.com/t/comment-nous-aider-a-vous-aider-ou-comment-poser-une-bonne-question/34932)
 
 ```
