@@ -1,30 +1,26 @@
-# Plugin Horoscope
+# Horoskop-Plugin
 
 <img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
 
-## Description
+## Beschreibung
 
-Ce plugin permet de récupérer son horoscope tous les jours de façon automatique ou manuelle.
+Mit diesem Plugin können Sie Ihr Horoskop täglich automatisch oder manuell abrufen.
 
-Plusieurs phrases sont disponibles chaque jours en fonction de thèmes comme Amour, Argent, Famille, Santé, ...
-Une phrase symbolique est également disponible.
+Jeden Tag stehen mehrere Sätze zu Themen wie Liebe, Geld, Familie, Gesundheit usw. zur Verfügung.
+Es steht auch ein symbolischer Satz zur Verfügung.
 
-Ceci peut être très pratique afin de donner l'horoscope du jour à une personne (via une caméra Netatmo par exemple) ou par TTS tous les jours.
+Dies kann sehr praktisch sein, um jemandem täglich das Tageshoroskop mitzuteilen (beispielsweise über eine Netatmo-Kamera) oder per TTS.
 
-## Configuration
+## Konfiguration
 
-Le plugin ne comporte pas de configuration particulière.
+Das Plugin erfordert keine besondere Konfiguration.
 
-> Il est possible de configurer un cron pour activer le relever automatique.
+> Es ist möglich, einen Cron-Job einzurichten, um die automatische Erfassung zu aktivieren.
 
-<img src="../{{site.img}}/horoscope_actualisation.png" alt="Auto actualisation" width="900" />
+<img src="../{{site.img}}/horoscope_actualisation.png" alt="Automatische Aktualisierung" width="900" />
 
-> Le plugin configure l'Auto-actualisation à 5h du matin tous les jours par défaut pour les nouveaux équipements.
+> Das Plugin konfiguriert die automatische Aktualisierung standardmäßig täglich um 5 Uhr morgens für neue Geräte.
 
-Un widget est appliqué automatiquement sur la commande **Signe du zodiaque**
+Ein Widget wird automatisch auf den Befehl **Sternzeichen** angewendet
 
 > <img src="../{{site.img}}/horoscope_dashboard.png" alt="Dashboard" width="350" />
-
-> Exemples de commandes disponibles
-
-> ![Commande](../{{site.img}}/horoscope_commande.png)

@@ -1,4 +1,4 @@
-# Freebox_OS plugin
+# Freebox_OS Plugin
 
 <img src="{{site.baseurl}}/plugin-freebox_os/{{site.img}}/Freebox_OS_icon.png" class="pluginLogo" width="100" />
 
@@ -6,15 +6,15 @@
 
 - **I'm not seeing the authorization message that appears on the Freebox**
 
-  > Check the Freebox OS settings to ensure that the **Allow new pairing requests** option is checked _(Freebox Settings -> Access Management -> Settings tab)_
+  > Check the Freebox OS settings to make sure the **Allow new pairing requests** option is checked _(Freebox Settings -> Access Management -> Settings tab)_
   >
   > <p><img src="../images/freebox_association.png" alt="Association" width="500" /></p>
 
 - **I can't see the battery level on the Freebox motion sensor and/or the remote control**
 
-  > This information isn't being sent to the Freebox, so it's impossible to access it in Jeedom.
+  > This information isn't being sent to the Freebox, so it's impossible to get it in Jeedom.
   >
-  > Therefore, they are not available on the health page (it says "sector" or "N/A")
+  > Therefore, they are not available on the health page (the entry shows “sector” or “N/A”)
 
 - **I can't issue commands for the Freebox alarm siren**
 
@@ -29,11 +29,11 @@
   > - You can launch it directly from the Pairing screen
   > - It is currently mandatory to reset the API key with every update
   >
-  > <p><img src="../images/reset_api1.png" alt="Freebox Reset API" width="500" /></p>
+  > <p><img src="../images/reset_api1.png" alt="Reset Freebox API" width="500" /></p>
   >
-  > <p><img src="../images/reset_api2.png" alt="Reset Freebox API" width="500" /></p>
+  > <p><img src="../images/reset_api2.png" alt="Freebox API Reset" width="500" /></p>
 
-- **I'm getting the message "unknown host, use IP address or maFreebox.Freebox.fr" and Demon NOK**
+- **I'm getting the message "unknown host, use IP address or maFreebox.Freebox.fr" and the Demon is not working**
 
   - Following the Freebox 4.2.3 update
   > Free has changed the Freebox address **_maFreebox.free.fr_**; it no longer works, so you must replace it with **_maFreebox.Freebox.fr_**
@@ -58,25 +58,25 @@
   >
   > <p><img src="../images/jeedom_name_1.png" alt="Missing device_name" width="800" /></p>
   >
-  > <p><img src="../images/nom_jeedom_2.png" alt="Jeedom Name" width="800" /></p>
+  > <p><img src="../images/jeedom_name_2.png" alt="Jeedom Name" width="800" /></p>
 
-- **CronDaily error with device names containing icons**
+- **CronDaily error with device names that include icons**
 
   > - Device names should not include icons.
 
 - **The new "Connected Devices" and "Guest Wi-Fi Connected Devices" do not appear when the equipment is updated**
 
-  > - New devices are not added during the update but only via the daily cron job
+  > - New devices are not added during the update but only with the daily cron job
 
 - **I don't see any messages in the debug mode logs**
 
-  > - For the Tile component, since the refresh occurs several times per minute, this is to prevent the logs from filling up. No messages appear in the logs.
+  > - For the Tile component, since the refresh occurs several times per minute, to avoid filling up the logs, no messages appear in the logs.
   >
-  > To view logs for a device, click the "Refresh" button for that device.
+  > To view logs for a device, click the "Refresh" button for that device
 
 - **I'm getting the message "METHOD OBSOLETE" => PLEASE CHECK THE DOCUMENTATION**
 
-  > The commands in the network section have changed, so you’ll need to adjust the method to use the commands below. *See the "Network Management" section*
+  > The commands in the network section have changed, so you'll need to adjust your approach to use the commands below. *See the "Network Management" section*
   >
   > The following commands will be removed in the next update:
   >
@@ -86,7 +86,7 @@
 
 - **What do the different task engines correspond to?**
 
-  > - **RefreshToken**: Allows you to refresh access to the Freebox
+  > - **RefreshToken**: Used to refresh access to the Freebox
   >
   > - **FreeboxPUT**: Allows you to perform actions on the Freebox
   >
@@ -96,14 +96,14 @@
   >
   > - **FreeboxGET**: Retrieves data of the informational type from the home automation section
 
-- **The Player's status is not being reported**
+- **The player's status is not being reported**
 
-  > You must verify that the type for the "Status" command is the **Other** subtype
+  > You must verify that the type for the "Status" command is the **Other** subtype.
   > <p><img src="../images/player.png" alt="Player" width="800" /></p>
   
-- **Player status is not available**
+- **The Player's status is unavailable**
 
-  > You must run a scan of the standard devices while the Player is powered on
+  > You must run a scan of standard devices while the Player is powered on
 
 - **The "Selected Connected Device" and "Select Connected Device" commands in the Network Management section**
 

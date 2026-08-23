@@ -1,74 +1,85 @@
-# Plugin Horoscope
+# Horoskop-Plugin
 
 <img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
 
-## Info Changelog
+## Info zum Änderungsprotokoll
 
-### Important
+### Wichtig
 
-> **_Pour rappel_**, s'il n'y a pas d'information sur la mise à jour, c'est que celle-ci concerne uniquement de la mise à jour de documentation, de traduction ou de corrections de bugs mineurs.
+> **_Zur Erinnerung_**: Wenn keine Informationen zum Update vorliegen, bedeutet dies, dass es sich ausschließlich um Aktualisierungen der Dokumentation, Übersetzungen oder Korrekturen kleinerer Fehler handelt.
+
+## 2026
+
+### 07/07/2026
+
+- Änderung der Horoskopquellen (Danke an Noodom)
+
+### 08/03/2026
+
+- Änderung der Horoskopquellen (alle Befehle wurden geändert)
+- Tages- und Wochenhoroskope hinzugefügt
 
 ## 2025
 
 ### 25/01/2025
 
-- Mise à jour lien documentation
+- Link zur Dokumentation aktualisiert
 
 ## 2024
 
 ### 02/11/2024
 
-- Problème de création des requêtes [https://community.jeedom.com/t/debian-12-et-jeedom-4-4-19/133047](https://community.jeedom.com/t/debian-12-et-jeedom-4-4-19/133047)
+- Problem beim Erstellen von Abfragen [https://community.jeedom.com/t/debian-12-et-jeedom-4-4-19/133047](https://community.jeedom.com/t/debian-12-et-jeedom-4-4-19/133047)
 
 ### 01/11/2024
 
-- Typo
+- Tippfehler
 
 ### 22/09/2024
 
-- Traduction
+- Übersetzung
 
-> **Attention : la traduction est uniquement faite sur l'interface, la source des horoscopes est uniquement en français**
+> **Achtung: Die Übersetzung bezieht sich ausschließlich auf die Benutzeroberfläche; die Horoskope selbst sind ausschließlich auf Französisch verfasst.**
 
 ### 13/09/2024
 
-- Correction PHP 8
-- Traduction
+- PHP 8-Korrektur
+- Übersetzung
 
 ### 05/09/2024
 
-- Correction PHP 8
+- PHP 8-Korrektur
 
 ### 21/08/2024
 
-- Traduction
-- Typo Log core 4.4
-- Amélioration Log core 4.4
+- Übersetzung
+- Typo Log Core 4.4
+- Verbesserung des Log-Kerns 4.4
 
 ### 04/02/2024
 
-- Suppression lien community suite changement core 4.4
-- Amélioration barre de recherche
+- Entfernung des Community-Links nach der Umstellung auf Core 4.4
+- Verbesserung der Suchleiste
 
 ### 14/01/2024
 
-- Amélioration pour core V4.4
+- Verbesserungen für Core V4.4
 
 ## 2023
 
 ### 16/12/2023
 
-- Ajout type d'horosocope (Normal ou condensé)
-- Modification de la création des commandes
-- Possibilité de supprimer les commandes
+- Hinzufügen des Horoskoptyps (Normal oder komprimiert)
+- Änderung der Auftragserstellung
+- Möglichkeit, Bestellungen zu löschen
 
 ### 08/10/2023
 
-- Amélioration info vers Community pour le Core 4.4
-- Typo
-- Changement du sous type de commande pour le nombre de chance en numérique
+- Verbesserung der Informationen für die Community zu Core 4.4
+- Tippfehler
+- Änderung des Befehlssubtyps für die digitale Glückszahl
 
 ### 02/06/2023
 
-- Récupèration plugin
-- Version mini Core pour le plugin est 4.2
+- Plugin-Wiederherstellung
+- Die Mini-Core-Version für das Plugin ist 4.2

@@ -16,33 +16,6 @@
 
 ## 2026
 
-### 14/06/2026
+### 29/08/2026
 
-- Freebox-Mini-API-Version: V15
-- Hinzufügen der WLAN-Steuerungsfunktionen
-        > **Für diese Funktion ist die Freebox Serveur in der Version 4.12.1 erforderlich**
-- Neue Befehle für DHCP hinzugefügt
-
-> **ACHTUNG: ES MUSS EINE NEUE SUCHE NACH STANDARDGERÄTEN DURCHGEFÜHRT WERDEN**
-
-### 04/06/2026
-
-- Verbesserung des Protokolls im Bereich Hausautomation
-
-### 27/04/2026
-
-- Log-Verbesserung (Entfernung von Zeilenumbrüchen)
-
-### 20-21/03/2026
-
-- Verbesserung des Protokolls
-
-- **Hausautomation**
-- Warnung im Bereich Hausautomation beheben, wenn das Gerät nicht vorhanden ist
-
-- **Telefon**
-- Verbesserung des Protokolls für die Teilprüfung „Telefon“
-- Fehlerbehebung beim Anrufzähler (Rücksprung)
-- Befehl für Sprachnachrichten hinzugefügt
-
-> **ACHTUNG: ES MUSS EINE NEUE SUCHE NACH STANDARDGERÄTEN DURCHGEFÜHRT WERDEN**
+- Verschiebung der Beta-Dokumentation
