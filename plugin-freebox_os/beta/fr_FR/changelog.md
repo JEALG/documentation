@@ -16,6 +16,6 @@
 
 ## 2026
 
-### 28/08/2026
+### 29/08/2026
 
 - Déplacement documentation beta
