@@ -1,6 +1,6 @@
-# Horoskop-Plugin
+# Plugin „Temperatur“
 
-<img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-temperature/{{site.img}}/temperature_icon.png" class="pluginLogo" width="100" />
 
 ## Info zum Änderungsprotokoll BETA
 
@@ -10,7 +10,6 @@
 
 ## 2026
 
-### 29/08/2026
+### 28/08/2026
 
 - Verschiebung der Beta-Dokumentation
-- Standardbild hinzufügen

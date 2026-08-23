@@ -1,6 +1,6 @@
-# Horoscope Plugin
+# Temperature Plugin
 
-<img src="{{site.baseurl}}/plugin-horoscope/{{site.img}}/horoscope_icon.png" class="pluginLogo" width="100" />
+<img src="{{site.baseurl}}/plugin-temperature/{{site.img}}/temperature_icon.png" class="pluginLogo" width="100" />
 
 ## BETA Changelog Info
 
@@ -10,7 +10,6 @@
 
 ## 2026
 
-### 29/08/2026
+### 28/08/2026
 
 - Beta documentation move
-- Add default image
