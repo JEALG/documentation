@@ -28,13 +28,13 @@ var docMenu = [
 				en_US: "Troubleshotting"
 			},
 			{
-				link: "/documentation/plugin-freebox_os/#LANG#/doc_beta",
+				link: "/documentation/plugin-freebox_os/#LANG#/beta/doc",
 				icon: "fas fa-book",
 				fr_FR: "Documentation-BETA",
 				en_US: "Documentation-BETA"
 			},
 			{
-				link: "/documentation/plugin-freebox_os/#LANG#/beta_changelog",
+				link: "/documentation/plugin-freebox_os/#LANG#/beta/changelog",
 				icon: "fas fa-edit",
 				fr_FR: "Changelog-BETA",
 				en_US: "Changelog-BETA"
@@ -75,7 +75,7 @@ var docMenu = [
 				en_US: "Troubleshotting"
 			},
 			{
-				link: "/documentation/plugin-horoscope/#LANG#/beta_changelog",
+				link: "/documentation/plugin-horoscope/#LANG#/beta/changelog",
 				icon: "fas fa-edit",
 				fr_FR: "Changelog-BETA",
 				en_US: "Changelog-BETA"
@@ -116,7 +116,7 @@ var docMenu = [
 				en_US: "Troubleshotting"
 			},
 			{
-				link: "/documentation/plugin-rosee/#LANG#/beta_changelog",
+				link: "/documentation/plugin-rosee/#LANG#/beta/changelog",
 				icon: "fas fa-edit",
 				fr_FR: "Changelog-BETA",
 				en_US: "Changelog-BETA"
@@ -145,13 +145,13 @@ var docMenu = [
 				en_US: "Troubleshotting"
 			},
 			{
-				link: "/documentation/plugin-temperature/#LANG#/doc_beta",
+				link: "/documentation/plugin-temperature/#LANG#/beta/doc",
 				icon: "fas fa-book",
 				fr_FR: "Documentation-BETA",
 				en_US: "Documentation-BETA"
 			},
 			{
-				link: "/documentation/plugin-temperature/#LANG#/beta_changelog",
+				link: "/documentation/plugin-temperature/#LANG#/beta/changelog",
 				icon: "fas fa-edit",
 				fr_FR: "Changelog-BETA",
 				en_US: "Changelog-BETA"
@@ -180,13 +180,13 @@ var docMenu = [
 				en_US: "Troubleshotting"
 			},
 			{
-				link: "/documentation/plugin-tendance_baro/#LANG#/doc_beta",
+				link: "/documentation/plugin-tendance_baro/#LANG#/beta/doc",
 				icon: "fas fa-book",
 				fr_FR: "Documentation-BETA",
 				en_US: "Documentation-BETA"
 			},
 			{
-				link: "/documentation/plugin-tendance_baro/#LANG#/beta_changelog",
+				link: "/documentation/plugin-tendance_baro/#LANG#/beta/changelog",
 				icon: "fas fa-edit",
 				fr_FR: "Changelog-BETA",
 				en_US: "Changelog-BETA"
@@ -231,7 +231,7 @@ var docMenu = [
 			en_US: "Troubleshotting"
 		},
 		{
-			link: "/documentation/plugin-metar_infos/#LANG#/beta_changelog",
+			link: "/documentation/plugin-metar_infos/#LANG#/beta/changelog",
 			icon: "fas fa-edit",
 			fr_FR: "Changelog-BETA",
 			en_US: "Changelog-BETA"
