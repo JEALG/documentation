@@ -13,4 +13,5 @@
 ### 29/08/2026
 
 - Déplacement documentation beta
-- Ajout image default
+- Ajout image "default"
+- Amélioration suite changement site astro

@@ -19,3 +19,4 @@
 ### 29/08/2026
 
 - Déplacement documentation beta
+- Correction erreur php 8.4
