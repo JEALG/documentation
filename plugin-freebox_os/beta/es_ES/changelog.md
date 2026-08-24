@@ -19,3 +19,4 @@
 ### 29/08/2026
 
 - Traslado de la documentación beta
+- Corrección de un error en PHP 8.4
