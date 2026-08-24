@@ -10,6 +10,6 @@
 
 ## 2026
 
-### 28/08/2026
+### 29/08/2026
 
 - Verschiebung der Beta-Dokumentation

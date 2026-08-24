@@ -13,4 +13,5 @@
 ### 29/08/2026
 
 - Verschiebung der Beta-Dokumentation
-- Standardbild hinzufügen
+- Bild „default“ hinzufügen
+- Verbesserung nach der Umstellung auf die Astro-Website

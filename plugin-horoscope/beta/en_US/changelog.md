@@ -13,4 +13,5 @@
 ### 29/08/2026
 
 - Beta documentation move
-- Add default image
+- Add "default" image
+- Improvements Following the Astro Site Change

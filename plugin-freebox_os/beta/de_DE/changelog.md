@@ -19,3 +19,4 @@
 ### 29/08/2026
 
 - Verschiebung der Beta-Dokumentation
+- Behebung eines PHP-Fehlers in Version 8.4
