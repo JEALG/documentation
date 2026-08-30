@@ -16,6 +16,11 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Traslado de la documentación beta y la traducción
+- Corrección de un error en PHP 8.4
+
 ### 27/04/2026
 
 - Mejora en el registro (eliminación de saltos de línea)

@@ -16,6 +16,11 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Moving beta documentation and translations
+- PHP 8.4 error fix
+
 ### 27/04/2026
 
 - Log improvement (Removed line breaks)

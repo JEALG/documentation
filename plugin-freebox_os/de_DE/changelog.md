@@ -16,6 +16,11 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Verschiebung der Beta-Dokumentation und Übersetzung
+- Behebung eines PHP-Fehlers in Version 8.4
+
 ### 27/04/2026
 
 - Log-Verbesserung (Entfernung von Zeilenumbrüchen)

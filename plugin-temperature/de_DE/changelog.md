@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Verschiebung der Beta-Dokumentation und Übersetzung
+
 ### 06/03/2026
 
 - Verbesserung und Aktualisierung des Plugins

@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Traslado de la documentación beta y la traducción
+
 ### 06/03/2026
 
 - Mejoras y actualización del complemento
