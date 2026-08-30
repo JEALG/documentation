@@ -10,6 +10,12 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Traslado de la documentación beta y la traducción
+- Añadir imagen «por defecto»
+- Mejoras tras el cambio de la página web de Astro
+
 ### 07/07/2026
 
 - Cambio en las fuentes de los horóscopos (gracias a Noodom)

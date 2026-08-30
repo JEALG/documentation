@@ -10,6 +10,12 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Verschiebung der Beta-Dokumentation und Übersetzung
+- Bild „default“ hinzufügen
+- Verbesserung nach der Umstellung auf die Astro-Website
+
 ### 07/07/2026
 
 - Änderung der Horoskopquellen (Danke an Noodom)

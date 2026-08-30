@@ -10,6 +10,12 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Moving beta documentation and translations
+- Add "default" image
+- Improvements Following the Astro Site Change
+
 ### 07/07/2026
 
 - Change in horoscope sources (Thanks to Noodom)
