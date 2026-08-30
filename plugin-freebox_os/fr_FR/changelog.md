@@ -16,6 +16,11 @@
 
 ## 2026
 
+### 30/08/2026
+
+- Déplacement documentation beta et traduction
+- Correction erreur php 8.4
+
 ### 27/04/2026
 
 - Amélioration log (Suppression retour à la ligne)
