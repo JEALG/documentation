@@ -13,4 +13,5 @@
 ### 29/08/2026
 
 - Traslado de la documentación beta
-- Añadir imagen predeterminada
+- Añadir imagen «por defecto»
+- Mejoras tras el cambio de la página web de Astro
