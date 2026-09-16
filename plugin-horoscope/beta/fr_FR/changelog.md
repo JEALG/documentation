@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 16/09/2026
+
+- Ajout option http ou https pour mise à jour des données
+
 ### 29/08/2026
 
 - Déplacement documentation beta
