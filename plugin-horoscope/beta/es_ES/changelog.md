@@ -10,6 +10,15 @@
 
 ## 2026
 
+### 17/09/2026
+
+- Mejora en la recuperación de datos
+- cambio de formato de fecha
+
+### 16/09/2026
+
+- Se ha añadido la opción http o https para la actualización de datos
+
 ### 29/08/2026
 
 - Traslado de la documentación beta
