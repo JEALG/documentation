@@ -10,6 +10,11 @@
 
 ## 2026
 
+### 17/09/2026
+
+- Amélioration récupération des données
+- changement format date
+
 ### 16/09/2026
 
 - Ajout option http ou https pour mise à jour des données
