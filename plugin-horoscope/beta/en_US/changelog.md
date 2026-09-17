@@ -10,6 +10,15 @@
 
 ## 2026
 
+### 17/09/2026
+
+- Improvements to data retrieval
+- change date format
+
+### 16/09/2026
+
+- Added HTTP or HTTPS option for data updates
+
 ### 29/08/2026
 
 - Beta documentation move

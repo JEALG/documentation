@@ -10,6 +10,15 @@
 
 ## 2026
 
+### 17/09/2026
+
+- Verbesserung der Datenwiederherstellung
+- Änderung des Datumsformats
+
+### 16/09/2026
+
+- Option „http“ oder „https“ für die Datenaktualisierung hinzugefügt
+
 ### 29/08/2026
 
 - Verschiebung der Beta-Dokumentation
