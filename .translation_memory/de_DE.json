@@ -398,6 +398,7 @@
     "Ajout offset sur la température (valeur par défaut : 0)": "Temperatur-Offset hinzufügen (Standardwert: 0)",
     "Ajout option http ou https pour mise à jour des données": "Option „http“ oder „https“ für die Datenaktualisierung hinzugefügt",
     "Ajout rafales de vent pour les nouveaux équipements (Pour les anciens équipements, il suffit d'enregistrer celui-ci)": "Windböen für neue Geräte hinzugefügt (Bei älteren Geräten reicht es aus, diese zu speichern)",
+    "Ajout source SIGASTRA": "SIGASTRA als Quelle hinzufügen",
     "Ajout statut des différentes carte Wi-Fi": "Status der verschiedenen WLAN-Karten hinzufügen",
     "Ajout texte d'information pour l'actualisation globale des titles dans le cas de volet SOMFY": "Hinzufügen eines Hinweistextes zur allgemeinen Aktualisierung der Titel bei SOMFY-Rollläden",
     "Ajout type d'horosocope (Normal ou condensé)": "Hinzufügen des Horoskoptyps (Normal oder komprimiert)",

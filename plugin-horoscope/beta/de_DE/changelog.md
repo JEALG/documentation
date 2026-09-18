@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 18/09/2026
+
+- SIGASTRA als Quelle hinzufügen
+
 ### 17/09/2026
 
 - Verbesserung der Datenwiederherstellung
