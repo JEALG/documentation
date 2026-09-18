@@ -398,6 +398,7 @@
     "Ajout offset sur la température (valeur par défaut : 0)": "Add a temperature offset (default value: 0)",
     "Ajout option http ou https pour mise à jour des données": "Added HTTP or HTTPS option for data updates",
     "Ajout rafales de vent pour les nouveaux équipements (Pour les anciens équipements, il suffit d'enregistrer celui-ci)": "Added wind gusts for new devices (For older devices, simply register this one)",
+    "Ajout source SIGASTRA": "Add SIGASTRA source",
     "Ajout statut des différentes carte Wi-Fi": "Add status for the various Wi-Fi cards",
     "Ajout texte d'information pour l'actualisation globale des titles dans le cas de volet SOMFY": "Add informational text for the global update of titles in the case of SOMFY shutters",
     "Ajout type d'horosocope (Normal ou condensé)": "Add horoscope type (Normal or Condensed)",
