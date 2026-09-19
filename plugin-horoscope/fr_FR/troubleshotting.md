@@ -6,7 +6,7 @@
 
 - Je n'ai pas d'informations qui remontent
 
-> Les commandes sont créées automatiquement après la première actualisation de l'équipement..
+> Les commandes sont créées automatiquement après l'enregistrement de l'équipement.
 
 - Je n'ai pas d'actualisation automatique
 
