@@ -6,7 +6,7 @@
 
 - No tengo información al respecto
 
-> Los comandos se crean automáticamente tras la primera actualización del equipo.
+> Los comandos se crean automáticamente tras registrar el equipo.
 
 - No tengo actualizaciones automáticas
 

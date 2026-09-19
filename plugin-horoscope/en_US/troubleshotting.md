@@ -6,7 +6,7 @@
 
 - I don't have any information on that
 
-> Commands are created automatically after the device is refreshed for the first time.
+> Commands are created automatically after the device is registered.
 
 - I don't have automatic updates
 
