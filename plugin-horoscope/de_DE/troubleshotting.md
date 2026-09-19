@@ -6,7 +6,7 @@
 
 - Mir liegen dazu keine Informationen vor
 
-> Die Befehle werden nach der ersten Aktualisierung der Geräte automatisch erstellt.
+> Die Befehle werden nach der Registrierung des Geräts automatisch erstellt.
 
 - Ich habe keine automatische Aktualisierung
 

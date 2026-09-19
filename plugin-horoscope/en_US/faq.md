@@ -6,4 +6,5 @@
 
 - Does this plugin rely on third-party APIs?
 
-> The plugin uses only PHP to retrieve information (after parsing) from an astrology website.
+> For Astroo data: The plugin uses only PHP to retrieve information (after parsing) from an astrology website.
+> For Sigastra data: the plugin uses the API: https://sigastra.com/fr/partners/api

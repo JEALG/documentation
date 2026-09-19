@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 19/09/2026
+
+- Improvements to daily horoscope data for the SIGASTRA source
+
 ### 18/09/2026
 
 - Add SIGASTRA source

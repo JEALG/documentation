@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 19/09/2026
+
+- Verbesserung der Tageshoroskopdaten für die Quelle SIGASTRA
+
 ### 18/09/2026
 
 - SIGASTRA als Quelle hinzufügen
