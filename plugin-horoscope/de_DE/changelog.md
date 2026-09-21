@@ -10,6 +10,15 @@
 
 ## 2026
 
+### 21/09/2026
+
+- SIGASTRA als Quelle hinzufügen
+- Verbesserung der Datenwiederherstellung
+- Option „http“ oder „https“ für die Datenaktualisierung hinzugefügt
+- Verschiebung der Beta-Dokumentation
+- Bild „default“ hinzufügen
+- Verbesserung nach der Umstellung auf die Astro-Website
+
 ### 30/08/2026
 
 - Verschiebung der Beta-Dokumentation und Übersetzung
