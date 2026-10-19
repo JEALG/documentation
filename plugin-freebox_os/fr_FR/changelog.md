@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 19/10/2026
+
+- Correction variable "Mode réseau" : Router ou bridge
+
 ### 30/08/2026
 
 - Déplacement documentation beta et traduction
