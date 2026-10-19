@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 19/10/2026
+
+- Anpassung der variablen „Netzwerkmodus“: Router oder Bridge
+
 ### 29/08/2026
 
 - Verschiebung der Beta-Dokumentation

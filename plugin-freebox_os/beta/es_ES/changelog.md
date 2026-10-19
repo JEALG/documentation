@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 19/10/2026
+
+- Corrección de la variable «Modo de red»: router o puente
+
 ### 29/08/2026
 
 - Traslado de la documentación beta
