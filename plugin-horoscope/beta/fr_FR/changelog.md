@@ -12,7 +12,8 @@
 
 ### 14/09/2026
 
-- Amélioration données horoscope Jour pour la source "freehoroscopeapi" en anglais
+- Amélioration données horoscope Jour pour la source "freehoroscopeapi" en anglais et ajout d'un traducteur
+- Amélioration données horoscope Jour pour la source "astroway.info" (Attention au nombre de requette) 
 
 ### 19/09/2026
 
