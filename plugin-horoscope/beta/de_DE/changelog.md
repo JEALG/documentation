@@ -10,13 +10,17 @@
 
 ## 2026
 
+### 14/09/2026
+
+- Verbesserung der Tageshoroskop-Daten für die Quelle „freehoroscopeapi“ auf Englisch
+
 ### 19/09/2026
 
-- Verbesserung der Tageshoroskopdaten für die Quelle SIGASTRA
+- Verbesserung der Tageshoroskopdaten für die Quelle „SIGASTRA“
 
 ### 18/09/2026
 
-- SIGASTRA als Quelle hinzufügen
+- Quelle „SIGASTRA“ hinzugefügt
 
 ### 17/09/2026
 

@@ -10,13 +10,17 @@
 
 ## 2026
 
+### 14/09/2026
+
+- Improvements to daily horoscope data for the "freehoroscopeapi" source in English
+
 ### 19/09/2026
 
-- Improvements to daily horoscope data for the SIGASTRA source
+- Improvements to daily horoscope data for the "SIGASTRA" source
 
 ### 18/09/2026
 
-- Add SIGASTRA source
+- Add "SIGASTRA" source
 
 ### 17/09/2026
 

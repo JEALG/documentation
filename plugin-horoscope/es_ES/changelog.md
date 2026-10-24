@@ -12,18 +12,18 @@
 
 ### 21/09/2026
 
-- Se ha añadido la fuente SIGASTRA
+- Se ha añadido la fuente «SIGASTRA»
 - Mejora en la recuperación de datos
 - Se ha añadido la opción http o https para la actualización de datos
 - Traslado de la documentación beta
 - Añadir imagen «por defecto»
-- Mejoras tras el cambio de la página web de Astro
+- Mejoras tras el cambio al sitio «astro»
 
 ### 30/08/2026
 
 - Traslado de la documentación beta y la traducción
 - Añadir imagen «por defecto»
-- Mejoras tras el cambio de la página web de Astro
+- Mejoras tras el cambio al sitio «astro»
 
 ### 07/07/2026
 
