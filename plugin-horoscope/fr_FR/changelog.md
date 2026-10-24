@@ -12,18 +12,18 @@
 
 ### 21/09/2026
 
-- Ajout source SIGASTRA
+- Ajout source "SIGASTRA"
 - Amélioration récupération des données
 - Ajout option http ou https pour mise à jour des données
 - Déplacement documentation beta
 - Ajout image "default"
-- Amélioration suite changement site astro
+- Amélioration suite changement site "astro"
 
 ### 30/08/2026
 
 - Déplacement documentation beta et traduction
 - Ajout image "default"
-- Amélioration suite changement site astro
+- Amélioration suite changement site "astro"
 
 ### 07/07/2026
 
