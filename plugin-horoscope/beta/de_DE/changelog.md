@@ -12,7 +12,8 @@
 
 ### 14/09/2026
 
-- Verbesserung der Tageshoroskop-Daten für die Quelle „freehoroscopeapi“ auf Englisch
+- Verbesserung der Tageshoroskop-Daten für die Quelle „freehoroscopeapi“ in englischer Sprache und Hinzufügen eines Übersetzers
+- Verbesserung der Tageshoroskop-Daten für die Quelle „astroway.info“ (Achtung: Anzahl der Abfragen)
 
 ### 19/09/2026
 
