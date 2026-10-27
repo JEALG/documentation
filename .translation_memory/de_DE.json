@@ -339,6 +339,8 @@
     "Ajout de log lors de la création": "Protokollierung bei der Erstellung",
     "Ajout de log supplémentaire en cas de problème sur un Cron": "Hinzufügen eines zusätzlichen Protokolls bei Problemen mit einem Cron-Job",
     "Ajout de log supplémentaire en mode DEBUG": "Hinzufügen eines zusätzlichen Protokolls im DEBUG-Modus",
+    "Ajout de l’API Astroway.info (attention à limiter le nombre de requêtes).": "Hinzufügen der Astroway.info-API (bitte achten Sie darauf, die Anzahl der Anfragen zu begrenzen).",
+    "Ajout de l’API FreeHoroscopeAPI (en anglais), avec intégration d’un traducteur automatique en français.": "Hinzufügung der FreeHoroscopeAPI (auf Englisch) mit Integration eines automatischen Übersetzers ins Französische.",
     "Ajout des commandes débloquer / bloquer (30min/1h/2h)": "Hinzufügen der Befehle „Entsperren“ / „Sperren“ (30 Min./1 Std./2 Std.)",
     "Ajout des commandes pour modifier le type de mode (4 modes)": "Befehle zum Ändern des Betriebsmodus (4 Modi) hinzugefügt",
     "Ajout des commandes pour uniquement les nouveaux appel manqués et reçus": "Hinzufügen von Befehlen nur für neue verpasste und empfangene Anrufe",
