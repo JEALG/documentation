@@ -10,7 +10,7 @@
 
 ## 2026
 
-### 14/09/2026
+### 24/10/2026
 
 - Improvements to the daily horoscope data for the "freehoroscopeapi" source in English and addition of a translator
 - Improvements to daily horoscope data for the "astroway.info" source (Be mindful of the number of requests)
