@@ -10,6 +10,11 @@
 
 ## 2026
 
+### 24/10/2026
+
+- Ajout de l’API FreeHoroscopeAPI (en anglais), avec intégration d’un traducteur automatique en français.
+- Ajout de l’API Astroway.info (attention à limiter le nombre de requêtes).
+
 ### 21/09/2026
 
 - Ajout source "SIGASTRA"
