@@ -10,7 +10,12 @@
 
 ## 2026
 
-### 14/09/2026
+### 01/11/2026
+
+- Verbesserung der Tageshoroskop-Daten für die Quelle „astroway.info“: Ergebnis auf Französisch
+- Verbesserung des Protokolls
+
+### 24/10/2026
 
 - Verbesserung der Tageshoroskop-Daten für die Quelle „freehoroscopeapi“ in englischer Sprache und Hinzufügen eines Übersetzers
 - Verbesserung der Tageshoroskop-Daten für die Quelle „astroway.info“ (Achtung: Anzahl der Abfragen)

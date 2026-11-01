@@ -10,6 +10,16 @@
 
 ## 2026
 
+### 01/11/2026
+
+- Improvements to daily horoscope data for the source "astroway.info": Results in French
+- Improvement log
+
+### 24/10/2026
+
+- Added the FreeHoroscopeAPI (in English), with an automatic French translator integrated.
+- Added the Astroway.info API (be sure to limit the number of requests).
+
 ### 21/09/2026
 
 - Add "SIGASTRA" source

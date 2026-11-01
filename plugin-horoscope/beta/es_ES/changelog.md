@@ -10,7 +10,12 @@
 
 ## 2026
 
-### 14/09/2026
+### 01/11/2026
+
+- Mejora de los datos del horóscopo diario de la fuente «astroway.info»: Resultado en francés
+- Mejoras en el registro
+
+### 24/10/2026
 
 - Mejora de los datos del horóscopo diario para la fuente «freehoroscopeapi» en inglés e incorporación de un traductor
 - Mejora de los datos del horóscopo diario para la fuente «astroway.info» (atención al número de consultas)
