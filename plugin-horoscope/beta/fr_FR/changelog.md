@@ -10,6 +10,11 @@
 
 ## 2026
 
+### 01/11/2026
+
+- Amélioration données horoscope Jour pour la source "astroway.info" : Résultat en français
+- Amélioration log
+
 ### 24/10/2026
 
 - Amélioration données horoscope Jour pour la source "freehoroscopeapi" en anglais et ajout d'un traducteur
