@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 01/11/2026
+
+- Mejoras en el registro y en Demon
+
 ### 19/10/2026
 
 - Corrección de la variable «Modo de red»: router o puente

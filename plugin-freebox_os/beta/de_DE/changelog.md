@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 01/11/2026
+
+- Verbesserungen bei Log und Demon
+
 ### 19/10/2026
 
 - Anpassung der variablen „Netzwerkmodus“: Router oder Bridge
