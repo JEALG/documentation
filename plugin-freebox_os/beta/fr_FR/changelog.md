@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 01/11/2026
+
+- Amélioration log et Demon
+
 ### 19/10/2026
 
 - Correction variable "Mode réseau" : Router ou bridge
