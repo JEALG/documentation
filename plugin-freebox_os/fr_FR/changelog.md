@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 15/11/2026
+
+- Modification du refresh du token
+
 ### 19/10/2026
 
 - Correction variable "Mode réseau" : Router ou bridge
