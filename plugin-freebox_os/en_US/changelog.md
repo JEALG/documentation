@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 15/11/2026
+
+- Changing the token refresh interval
+
 ### 19/10/2026
 
 - "Network Mode" variable correction: Router or bridge

@@ -1065,6 +1065,7 @@
     "Modification des variables internes aux calculs": "Modificación de las variables internas de los cálculos",
     "Modification documentations": "Modificación de la documentación",
     "Modification du nom de la commande vent": "Modificación del nombre del comando «vent»",
+    "Modification du refresh du token": "Modificación de la actualización del token",
     "Modification du réglage de la caméra lors de la création de l'équipement dans le **_Plugin Caméra_** cela permettra une meilleure intégration dans Homebridge.": "Modificación de la configuración de la cámara al crear el dispositivo en el **_Plugin Cámara_**, lo que permitirá una mejor integración en Homebridge.",
     "Modification du type de données pour les seuils => Uniquement numérique": "Modificación del tipo de datos para los umbrales => Solo numérico",
     "Modification non variable cache pour utiliser le format Core \"pluginid::custom_key\"": "Modificación no variable de la caché para utilizar el formato Core «pluginid::custom_key»",
