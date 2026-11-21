@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 21/11/2026
+
+- Amélioration tri "Type de Calcul"
+
 ### 29/08/2026
 
 - Déplacement documentation beta
