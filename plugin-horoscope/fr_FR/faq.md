@@ -6,5 +6,6 @@
 
 - Est-ce que ce plugin s'appuie sur des API tiers ?
 
-> Pour les données Astroo : Le plugin n'utilise que du PHP pour aller chercher les informations (après découpage) sur un site d'astrologie.
-> Pour les données Sigastra : le plugin utilise l'api : https://sigastra.com/fr/partners/api
+> Pour les données FreeHoroscope : le plugin utilise l'api : https://freehoroscopeapi.com/
+>
+> Pour les données Astroway : le plugin utilise l'api : https://astroway.info/fr/blog/
