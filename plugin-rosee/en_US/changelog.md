@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 21/11/2026
+
+- Improvement to "Calculation Type" Sorting
+
 ### 30/08/2026
 
 - Moving beta documentation and translations
