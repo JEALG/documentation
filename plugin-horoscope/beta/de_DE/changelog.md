@@ -10,6 +10,12 @@
 
 ## 2026
 
+### 21/11/2026
+
+- Entfernung der Steuerung „Horoskop-Typ“ im Pre-Save
+- Überprüfung des Horoskoptyps nach dem Speichern, wenn das Kontrollkästchen „Aktivieren“ angekreuzt ist.
+- Überprüfung des Vorzeichentyps nach dem Speichern, wenn das Kontrollkästchen „Aktivieren“ angekreuzt ist.
+
 ### 01/11/2026
 
 - Verbesserung der Tageshoroskop-Daten für die Quelle „astroway.info“: Ergebnis auf Französisch
