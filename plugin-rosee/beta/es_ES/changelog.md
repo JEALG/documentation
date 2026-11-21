@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 21/11/2026
+
+- Mejora en la clasificación «Tipo de cálculo»
+
 ### 29/08/2026
 
 - Traslado de la documentación beta

@@ -10,6 +10,10 @@
 
 ## 2026
 
+### 21/11/2026
+
+- Verbesserung der Sortierung nach „Berechnungsart“
+
 ### 29/08/2026
 
 - Verschiebung der Beta-Dokumentation
