@@ -16,6 +16,10 @@
 
 ## 2026
 
+### 15/11/2026
+
+- Änderung der Token-Aktualisierung
+
 ### 19/10/2026
 
 - Anpassung der variablen „Netzwerkmodus“: Router oder Bridge
