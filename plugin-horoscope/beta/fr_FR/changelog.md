@@ -10,6 +10,12 @@
 
 ## 2026
 
+### 21/11/2026
+
+- Suppression contrôle "type horoscope dans le Pré-save
+- Contrôle du type d'horoscope au post save si la case "Activer" est coché.
+- Contrôle du type de signe au post save si la case "Activer" est coché.
+
 ### 01/11/2026
 
 - Amélioration données horoscope Jour pour la source "astroway.info" : Résultat en français
