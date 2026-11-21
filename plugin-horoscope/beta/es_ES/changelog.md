@@ -10,6 +10,12 @@
 
 ## 2026
 
+### 21/11/2026
+
+- Eliminación del control «tipo horóscopo» en el «Pre-save»
+- Comprobación del tipo de horóscopo tras guardar si la casilla «Activar» está marcada.
+- Comprobación del tipo de signo tras guardar si la casilla «Activar» está marcada.
+
 ### 01/11/2026
 
 - Mejora de los datos del horóscopo diario de la fuente «astroway.info»: Resultado en francés

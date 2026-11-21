@@ -10,6 +10,12 @@
 
 ## 2026
 
+### 21/11/2026
+
+- Removal of "horoscope type" control in Pre-save
+- Checks the horoscope type after saving if the "Enable" box is checked.
+- Checks the sign type after saving if the "Enable" checkbox is selected.
+
 ### 01/11/2026
 
 - Improvements to daily horoscope data for the source "astroway.info": Results in French
